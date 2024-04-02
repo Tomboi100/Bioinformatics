@@ -1,0 +1,1863 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=130266;seqhdr="scaffold_52"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_52	Prodigal_v2.6.3	CDS	1	2994
+scaffold_52	Prodigal_v2.6.3	CDS	3281	4375
+scaffold_52	Prodigal_v2.6.3	CDS	4420	6279
+scaffold_52	Prodigal_v2.6.3	CDS	6603	7562
+scaffold_52	Prodigal_v2.6.3	CDS	7903	9075
+scaffold_52	Prodigal_v2.6.3	CDS	9310	11124
+scaffold_52	Prodigal_v2.6.3	CDS	11226	12266
+scaffold_52	Prodigal_v2.6.3	CDS	12513	13436
+scaffold_52	Prodigal_v2.6.3	CDS	13456	14457
+scaffold_52	Prodigal_v2.6.3	CDS	14545	15090
+scaffold_52	Prodigal_v2.6.3	CDS	15168	15554
+scaffold_52	Prodigal_v2.6.3	CDS	15551	16498
+scaffold_52	Prodigal_v2.6.3	CDS	16734	17693
+scaffold_52	Prodigal_v2.6.3	CDS	17693	18397
+scaffold_52	Prodigal_v2.6.3	CDS	18413	20077
+scaffold_52	Prodigal_v2.6.3	CDS	20077	21909
+scaffold_52	Prodigal_v2.6.3	CDS	22292	23758
+scaffold_52	Prodigal_v2.6.3	CDS	24306	25667
+scaffold_52	Prodigal_v2.6.3	CDS	25780	27279
+scaffold_52	Prodigal_v2.6.3	CDS	27276	28130
+scaffold_52	Prodigal_v2.6.3	CDS	28495	30144
+scaffold_52	Prodigal_v2.6.3	CDS	30250	32643
+scaffold_52	Prodigal_v2.6.3	CDS	32833	33585
+scaffold_52	Prodigal_v2.6.3	CDS	33910	34341
+scaffold_52	Prodigal_v2.6.3	CDS	34359	35237
+scaffold_52	Prodigal_v2.6.3	CDS	35686	39258
+scaffold_52	Prodigal_v2.6.3	CDS	39499	40074
+scaffold_52	Prodigal_v2.6.3	CDS	40136	41221
+scaffold_52	Prodigal_v2.6.3	CDS	41368	45420
+scaffold_52	Prodigal_v2.6.3	CDS	45443	47041
+scaffold_52	Prodigal_v2.6.3	CDS	47080	48291
+scaffold_52	Prodigal_v2.6.3	CDS	48423	49436
+scaffold_52	Prodigal_v2.6.3	CDS	49817	50899
+scaffold_52	Prodigal_v2.6.3	CDS	51099	51881
+scaffold_52	Prodigal_v2.6.3	CDS	51968	52561
+scaffold_52	Prodigal_v2.6.3	CDS	52794	53621
+scaffold_52	Prodigal_v2.6.3	CDS	53692	54507
+scaffold_52	Prodigal_v2.6.3	CDS	54504	55295
+scaffold_52	Prodigal_v2.6.3	CDS	55379	55834
+scaffold_52	Prodigal_v2.6.3	CDS	56155	57234
+scaffold_52	Prodigal_v2.6.3	CDS	57259	58158
+scaffold_52	Prodigal_v2.6.3	CDS	58325	59083
+scaffold_52	Prodigal_v2.6.3	CDS	59108	59560
+scaffold_52	Prodigal_v2.6.3	CDS	59846	62200
+scaffold_52	Prodigal_v2.6.3	CDS	62239	63324
+scaffold_52	Prodigal_v2.6.3	CDS	63353	63772
+scaffold_52	Prodigal_v2.6.3	CDS	63874	64047
+scaffold_52	Prodigal_v2.6.3	CDS	64225	65151
+scaffold_52	Prodigal_v2.6.3	CDS	65547	65948
+scaffold_52	Prodigal_v2.6.3	CDS	65995	67260
+scaffold_52	Prodigal_v2.6.3	CDS	67561	68307
+scaffold_52	Prodigal_v2.6.3	CDS	68321	68953
+scaffold_52	Prodigal_v2.6.3	CDS	69012	70658
+scaffold_52	Prodigal_v2.6.3	CDS	70865	72904
+scaffold_52	Prodigal_v2.6.3	CDS	72934	73788
+scaffold_52	Prodigal_v2.6.3	CDS	73983	76010
+scaffold_52	Prodigal_v2.6.3	CDS	76291	77601
+scaffold_52	Prodigal_v2.6.3	CDS	77965	80691
+scaffold_52	Prodigal_v2.6.3	CDS	80813	81604
+scaffold_52	Prodigal_v2.6.3	CDS	82096	82407
+scaffold_52	Prodigal_v2.6.3	CDS	82471	83505
+scaffold_52	Prodigal_v2.6.3	CDS	83597	85558
+scaffold_52	Prodigal_v2.6.3	CDS	85619	86038
+scaffold_52	Prodigal_v2.6.3	CDS	86067	86378
+scaffold_52	Prodigal_v2.6.3	CDS	86399	87019
+scaffold_52	Prodigal_v2.6.3	CDS	87164	88930
+scaffold_52	Prodigal_v2.6.3	CDS	88956	90368
+scaffold_52	Prodigal_v2.6.3	CDS	90390	91046
+scaffold_52	Prodigal_v2.6.3	CDS	91246	91839
+scaffold_52	Prodigal_v2.6.3	CDS	92081	93271
+scaffold_52	Prodigal_v2.6.3	CDS	93521	95611
+scaffold_52	Prodigal_v2.6.3	CDS	95925	96635
+scaffold_52	Prodigal_v2.6.3	CDS	96789	98012
+scaffold_52	Prodigal_v2.6.3	CDS	98385	99854
+scaffold_52	Prodigal_v2.6.3	CDS	100132	101460
+scaffold_52	Prodigal_v2.6.3	CDS	102020	102487
+scaffold_52	Prodigal_v2.6.3	CDS	102775	104112
+scaffold_52	Prodigal_v2.6.3	CDS	104211	104471
+scaffold_52	Prodigal_v2.6.3	CDS	104434	104778
+scaffold_52	Prodigal_v2.6.3	CDS	104794	106623
+scaffold_52	Prodigal_v2.6.3	CDS	106605	107228
+scaffold_52	Prodigal_v2.6.3	CDS	107489	108190
+scaffold_52	Prodigal_v2.6.3	CDS	108177	108857
+scaffold_52	Prodigal_v2.6.3	CDS	108898	109317
+scaffold_52	Prodigal_v2.6.3	CDS	109301	110251
+scaffold_52	Prodigal_v2.6.3	CDS	110268	111203
+scaffold_52	Prodigal_v2.6.3	CDS	111200	112042
+scaffold_52	Prodigal_v2.6.3	CDS	112066	112242
+scaffold_52	Prodigal_v2.6.3	CDS	112575	112994
+scaffold_52	Prodigal_v2.6.3	CDS	113013	113939
+scaffold_52	Prodigal_v2.6.3	CDS	114117	114614
+scaffold_52	Prodigal_v2.6.3	CDS	114981	117233
+scaffold_52	Prodigal_v2.6.3	CDS	117425	118444
+scaffold_52	Prodigal_v2.6.3	CDS	118705	120006
+scaffold_52	Prodigal_v2.6.3	CDS	120049	121167
+scaffold_52	Prodigal_v2.6.3	CDS	121588	122841
+scaffold_52	Prodigal_v2.6.3	CDS	122862	124430
+scaffold_52	Prodigal_v2.6.3	CDS	124753	125301
+scaffold_52	Prodigal_v2.6.3	CDS	125430	126596
+scaffold_52	Prodigal_v2.6.3	CDS	126601	127197
+scaffold_52	Prodigal_v2.6.3	CDS	127719	129752
+# Sequence Data: seqnum=2;seqlen=75661;seqhdr="scaffold_359"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_359	Prodigal_v2.6.3	CDS	2	283
+scaffold_359	Prodigal_v2.6.3	CDS	293	406
+scaffold_359	Prodigal_v2.6.3	CDS	495	1436
+scaffold_359	Prodigal_v2.6.3	CDS	1601	2035
+scaffold_359	Prodigal_v2.6.3	CDS	2126	3604
+scaffold_359	Prodigal_v2.6.3	CDS	3925	5202
+scaffold_359	Prodigal_v2.6.3	CDS	5254	6144
+scaffold_359	Prodigal_v2.6.3	CDS	6269	7033
+scaffold_359	Prodigal_v2.6.3	CDS	7438	8250
+scaffold_359	Prodigal_v2.6.3	CDS	8485	9195
+scaffold_359	Prodigal_v2.6.3	CDS	9199	11070
+scaffold_359	Prodigal_v2.6.3	CDS	11095	12471
+scaffold_359	Prodigal_v2.6.3	CDS	12738	13772
+scaffold_359	Prodigal_v2.6.3	CDS	13792	14820
+scaffold_359	Prodigal_v2.6.3	CDS	14859	15125
+scaffold_359	Prodigal_v2.6.3	CDS	15083	15415
+scaffold_359	Prodigal_v2.6.3	CDS	16102	17466
+scaffold_359	Prodigal_v2.6.3	CDS	17788	18885
+scaffold_359	Prodigal_v2.6.3	CDS	18885	19106
+scaffold_359	Prodigal_v2.6.3	CDS	19103	20200
+scaffold_359	Prodigal_v2.6.3	CDS	20222	20473
+scaffold_359	Prodigal_v2.6.3	CDS	20640	21104
+scaffold_359	Prodigal_v2.6.3	CDS	21195	21467
+scaffold_359	Prodigal_v2.6.3	CDS	21533	23473
+scaffold_359	Prodigal_v2.6.3	CDS	23495	24085
+scaffold_359	Prodigal_v2.6.3	CDS	24131	24550
+scaffold_359	Prodigal_v2.6.3	CDS	24692	27202
+scaffold_359	Prodigal_v2.6.3	CDS	27244	27747
+scaffold_359	Prodigal_v2.6.3	CDS	28187	29599
+scaffold_359	Prodigal_v2.6.3	CDS	29614	30801
+scaffold_359	Prodigal_v2.6.3	CDS	30895	32286
+scaffold_359	Prodigal_v2.6.3	CDS	32283	32987
+scaffold_359	Prodigal_v2.6.3	CDS	33011	33283
+scaffold_359	Prodigal_v2.6.3	CDS	33367	34791
+scaffold_359	Prodigal_v2.6.3	CDS	34990	35889
+scaffold_359	Prodigal_v2.6.3	CDS	35901	36722
+scaffold_359	Prodigal_v2.6.3	CDS	36887	37972
+scaffold_359	Prodigal_v2.6.3	CDS	38184	40130
+scaffold_359	Prodigal_v2.6.3	CDS	40402	41796
+scaffold_359	Prodigal_v2.6.3	CDS	42291	44549
+scaffold_359	Prodigal_v2.6.3	CDS	44666	47029
+scaffold_359	Prodigal_v2.6.3	CDS	47128	49680
+scaffold_359	Prodigal_v2.6.3	CDS	49998	51188
+scaffold_359	Prodigal_v2.6.3	CDS	51164	51742
+scaffold_359	Prodigal_v2.6.3	CDS	51735	52397
+scaffold_359	Prodigal_v2.6.3	CDS	52439	53338
+scaffold_359	Prodigal_v2.6.3	CDS	53625	54521
+scaffold_359	Prodigal_v2.6.3	CDS	54719	55171
+scaffold_359	Prodigal_v2.6.3	CDS	55568	55789
+scaffold_359	Prodigal_v2.6.3	CDS	55842	56870
+scaffold_359	Prodigal_v2.6.3	CDS	57041	58561
+scaffold_359	Prodigal_v2.6.3	CDS	58592	59059
+scaffold_359	Prodigal_v2.6.3	CDS	59007	60278
+scaffold_359	Prodigal_v2.6.3	CDS	60294	60671
+scaffold_359	Prodigal_v2.6.3	CDS	60775	61059
+scaffold_359	Prodigal_v2.6.3	CDS	61064	61384
+scaffold_359	Prodigal_v2.6.3	CDS	61387	61695
+scaffold_359	Prodigal_v2.6.3	CDS	61878	62417
+scaffold_359	Prodigal_v2.6.3	CDS	62848	64200
+scaffold_359	Prodigal_v2.6.3	CDS	64422	66119
+scaffold_359	Prodigal_v2.6.3	CDS	66514	70281
+scaffold_359	Prodigal_v2.6.3	CDS	70597	71670
+scaffold_359	Prodigal_v2.6.3	CDS	71687	73972
+scaffold_359	Prodigal_v2.6.3	CDS	73987	75291
+scaffold_359	Prodigal_v2.6.3	CDS	75492	75659
+# Sequence Data: seqnum=3;seqlen=54251;seqhdr="scaffold_396"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_396	Prodigal_v2.6.3	CDS	11	727
+scaffold_396	Prodigal_v2.6.3	CDS	1005	1544
+scaffold_396	Prodigal_v2.6.3	CDS	1720	3666
+scaffold_396	Prodigal_v2.6.3	CDS	4069	5235
+scaffold_396	Prodigal_v2.6.3	CDS	5414	6514
+scaffold_396	Prodigal_v2.6.3	CDS	6575	7093
+scaffold_396	Prodigal_v2.6.3	CDS	7109	7567
+scaffold_396	Prodigal_v2.6.3	CDS	7619	8638
+scaffold_396	Prodigal_v2.6.3	CDS	8640	9845
+scaffold_396	Prodigal_v2.6.3	CDS	9984	10646
+scaffold_396	Prodigal_v2.6.3	CDS	10810	11760
+scaffold_396	Prodigal_v2.6.3	CDS	11760	12650
+scaffold_396	Prodigal_v2.6.3	CDS	13203	13805
+scaffold_396	Prodigal_v2.6.3	CDS	13871	14179
+scaffold_396	Prodigal_v2.6.3	CDS	14305	15372
+scaffold_396	Prodigal_v2.6.3	CDS	15391	16254
+scaffold_396	Prodigal_v2.6.3	CDS	16266	17594
+scaffold_396	Prodigal_v2.6.3	CDS	17984	19381
+scaffold_396	Prodigal_v2.6.3	CDS	19498	23130
+scaffold_396	Prodigal_v2.6.3	CDS	23123	26566
+scaffold_396	Prodigal_v2.6.3	CDS	26704	27531
+scaffold_396	Prodigal_v2.6.3	CDS	27690	29936
+scaffold_396	Prodigal_v2.6.3	CDS	29917	30759
+scaffold_396	Prodigal_v2.6.3	CDS	30832	31101
+scaffold_396	Prodigal_v2.6.3	CDS	31333	33648
+scaffold_396	Prodigal_v2.6.3	CDS	33839	34480
+scaffold_396	Prodigal_v2.6.3	CDS	34564	35334
+scaffold_396	Prodigal_v2.6.3	CDS	35623	36855
+scaffold_396	Prodigal_v2.6.3	CDS	36936	37709
+scaffold_396	Prodigal_v2.6.3	CDS	37673	38491
+scaffold_396	Prodigal_v2.6.3	CDS	38535	39389
+scaffold_396	Prodigal_v2.6.3	CDS	39548	40396
+scaffold_396	Prodigal_v2.6.3	CDS	40404	41264
+scaffold_396	Prodigal_v2.6.3	CDS	41646	42797
+scaffold_396	Prodigal_v2.6.3	CDS	42998	44020
+scaffold_396	Prodigal_v2.6.3	CDS	44037	44660
+scaffold_396	Prodigal_v2.6.3	CDS	44665	45171
+scaffold_396	Prodigal_v2.6.3	CDS	45464	46324
+scaffold_396	Prodigal_v2.6.3	CDS	46345	47622
+scaffold_396	Prodigal_v2.6.3	CDS	47639	48403
+scaffold_396	Prodigal_v2.6.3	CDS	48400	49422
+scaffold_396	Prodigal_v2.6.3	CDS	49415	50437
+scaffold_396	Prodigal_v2.6.3	CDS	50617	52008
+scaffold_396	Prodigal_v2.6.3	CDS	52060	52290
+scaffold_396	Prodigal_v2.6.3	CDS	52493	53143
+scaffold_396	Prodigal_v2.6.3	CDS	53155	53676
+scaffold_396	Prodigal_v2.6.3	CDS	53698	53862
+# Sequence Data: seqnum=4;seqlen=41008;seqhdr="scaffold_415"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_415	Prodigal_v2.6.3	CDS	2	214
+scaffold_415	Prodigal_v2.6.3	CDS	315	548
+scaffold_415	Prodigal_v2.6.3	CDS	628	1272
+scaffold_415	Prodigal_v2.6.3	CDS	1511	2674
+scaffold_415	Prodigal_v2.6.3	CDS	2703	3701
+scaffold_415	Prodigal_v2.6.3	CDS	3785	4012
+scaffold_415	Prodigal_v2.6.3	CDS	4228	4899
+scaffold_415	Prodigal_v2.6.3	CDS	5057	5233
+scaffold_415	Prodigal_v2.6.3	CDS	5271	5822
+scaffold_415	Prodigal_v2.6.3	CDS	5819	6256
+scaffold_415	Prodigal_v2.6.3	CDS	6259	7335
+scaffold_415	Prodigal_v2.6.3	CDS	7506	8531
+scaffold_415	Prodigal_v2.6.3	CDS	8712	9848
+scaffold_415	Prodigal_v2.6.3	CDS	9933	10370
+scaffold_415	Prodigal_v2.6.3	CDS	10799	12055
+scaffold_415	Prodigal_v2.6.3	CDS	12164	12802
+scaffold_415	Prodigal_v2.6.3	CDS	12937	13794
+scaffold_415	Prodigal_v2.6.3	CDS	14043	15209
+scaffold_415	Prodigal_v2.6.3	CDS	15474	16739
+scaffold_415	Prodigal_v2.6.3	CDS	16991	18697
+scaffold_415	Prodigal_v2.6.3	CDS	18960	19637
+scaffold_415	Prodigal_v2.6.3	CDS	19769	20401
+scaffold_415	Prodigal_v2.6.3	CDS	20678	21433
+scaffold_415	Prodigal_v2.6.3	CDS	21438	22292
+scaffold_415	Prodigal_v2.6.3	CDS	22279	23598
+scaffold_415	Prodigal_v2.6.3	CDS	23881	24210
+scaffold_415	Prodigal_v2.6.3	CDS	24210	24662
+scaffold_415	Prodigal_v2.6.3	CDS	24659	25309
+scaffold_415	Prodigal_v2.6.3	CDS	25357	26427
+scaffold_415	Prodigal_v2.6.3	CDS	26461	27147
+scaffold_415	Prodigal_v2.6.3	CDS	27159	28748
+scaffold_415	Prodigal_v2.6.3	CDS	28760	29677
+scaffold_415	Prodigal_v2.6.3	CDS	29682	30230
+scaffold_415	Prodigal_v2.6.3	CDS	30231	30464
+scaffold_415	Prodigal_v2.6.3	CDS	30599	30976
+scaffold_415	Prodigal_v2.6.3	CDS	31233	31688
+scaffold_415	Prodigal_v2.6.3	CDS	31802	32599
+scaffold_415	Prodigal_v2.6.3	CDS	32806	33621
+scaffold_415	Prodigal_v2.6.3	CDS	33636	34226
+scaffold_415	Prodigal_v2.6.3	CDS	34192	34758
+scaffold_415	Prodigal_v2.6.3	CDS	34784	35509
+scaffold_415	Prodigal_v2.6.3	CDS	35717	36271
+scaffold_415	Prodigal_v2.6.3	CDS	36298	37491
+scaffold_415	Prodigal_v2.6.3	CDS	37642	38487
+scaffold_415	Prodigal_v2.6.3	CDS	38750	39586
+scaffold_415	Prodigal_v2.6.3	CDS	39681	40625
+scaffold_415	Prodigal_v2.6.3	CDS	40778	41008
+# Sequence Data: seqnum=5;seqlen=64086;seqhdr="scaffold_591"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_591	Prodigal_v2.6.3	CDS	156	374
+scaffold_591	Prodigal_v2.6.3	CDS	381	644
+scaffold_591	Prodigal_v2.6.3	CDS	641	835
+scaffold_591	Prodigal_v2.6.3	CDS	1160	1717
+scaffold_591	Prodigal_v2.6.3	CDS	1727	2440
+scaffold_591	Prodigal_v2.6.3	CDS	2473	3345
+scaffold_591	Prodigal_v2.6.3	CDS	3616	4191
+scaffold_591	Prodigal_v2.6.3	CDS	4449	4607
+scaffold_591	Prodigal_v2.6.3	CDS	4694	5683
+scaffold_591	Prodigal_v2.6.3	CDS	5694	6599
+scaffold_591	Prodigal_v2.6.3	CDS	6794	9133
+scaffold_591	Prodigal_v2.6.3	CDS	9291	11324
+scaffold_591	Prodigal_v2.6.3	CDS	11331	12983
+scaffold_591	Prodigal_v2.6.3	CDS	13171	14121
+scaffold_591	Prodigal_v2.6.3	CDS	14118	15221
+scaffold_591	Prodigal_v2.6.3	CDS	15218	17566
+scaffold_591	Prodigal_v2.6.3	CDS	18056	20680
+scaffold_591	Prodigal_v2.6.3	CDS	21068	23683
+scaffold_591	Prodigal_v2.6.3	CDS	23781	24800
+scaffold_591	Prodigal_v2.6.3	CDS	25348	26571
+scaffold_591	Prodigal_v2.6.3	CDS	26846	27313
+scaffold_591	Prodigal_v2.6.3	CDS	27820	28296
+scaffold_591	Prodigal_v2.6.3	CDS	28361	29338
+scaffold_591	Prodigal_v2.6.3	CDS	29606	30265
+scaffold_591	Prodigal_v2.6.3	CDS	30216	33026
+scaffold_591	Prodigal_v2.6.3	CDS	33167	33919
+scaffold_591	Prodigal_v2.6.3	CDS	33976	34749
+scaffold_591	Prodigal_v2.6.3	CDS	34876	35394
+scaffold_591	Prodigal_v2.6.3	CDS	35307	35504
+scaffold_591	Prodigal_v2.6.3	CDS	35501	35752
+scaffold_591	Prodigal_v2.6.3	CDS	36206	37516
+scaffold_591	Prodigal_v2.6.3	CDS	37816	38814
+scaffold_591	Prodigal_v2.6.3	CDS	38895	40889
+scaffold_591	Prodigal_v2.6.3	CDS	41053	42459
+scaffold_591	Prodigal_v2.6.3	CDS	42510	42914
+scaffold_591	Prodigal_v2.6.3	CDS	43092	45710
+scaffold_591	Prodigal_v2.6.3	CDS	45892	47892
+scaffold_591	Prodigal_v2.6.3	CDS	47897	48844
+scaffold_591	Prodigal_v2.6.3	CDS	48953	50239
+scaffold_591	Prodigal_v2.6.3	CDS	50199	50930
+scaffold_591	Prodigal_v2.6.3	CDS	50952	51647
+scaffold_591	Prodigal_v2.6.3	CDS	51644	52399
+scaffold_591	Prodigal_v2.6.3	CDS	52405	53082
+scaffold_591	Prodigal_v2.6.3	CDS	53317	53781
+scaffold_591	Prodigal_v2.6.3	CDS	53833	54384
+scaffold_591	Prodigal_v2.6.3	CDS	54438	55361
+scaffold_591	Prodigal_v2.6.3	CDS	55506	56402
+scaffold_591	Prodigal_v2.6.3	CDS	56449	56838
+scaffold_591	Prodigal_v2.6.3	CDS	56935	57498
+scaffold_591	Prodigal_v2.6.3	CDS	57577	57942
+scaffold_591	Prodigal_v2.6.3	CDS	57947	58435
+scaffold_591	Prodigal_v2.6.3	CDS	58480	58758
+scaffold_591	Prodigal_v2.6.3	CDS	58986	59228
+scaffold_591	Prodigal_v2.6.3	CDS	59257	60021
+scaffold_591	Prodigal_v2.6.3	CDS	60018	60860
+scaffold_591	Prodigal_v2.6.3	CDS	60879	62063
+scaffold_591	Prodigal_v2.6.3	CDS	62468	63520
+scaffold_591	Prodigal_v2.6.3	CDS	63489	63986
+# Sequence Data: seqnum=6;seqlen=33590;seqhdr="scaffold_656"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_656	Prodigal_v2.6.3	CDS	3	167
+scaffold_656	Prodigal_v2.6.3	CDS	199	480
+scaffold_656	Prodigal_v2.6.3	CDS	622	1038
+scaffold_656	Prodigal_v2.6.3	CDS	1051	1893
+scaffold_656	Prodigal_v2.6.3	CDS	2192	2827
+scaffold_656	Prodigal_v2.6.3	CDS	2886	4769
+scaffold_656	Prodigal_v2.6.3	CDS	4795	4974
+scaffold_656	Prodigal_v2.6.3	CDS	5010	5522
+scaffold_656	Prodigal_v2.6.3	CDS	5604	5825
+scaffold_656	Prodigal_v2.6.3	CDS	6272	6682
+scaffold_656	Prodigal_v2.6.3	CDS	6889	8028
+scaffold_656	Prodigal_v2.6.3	CDS	8067	9254
+scaffold_656	Prodigal_v2.6.3	CDS	9542	12076
+scaffold_656	Prodigal_v2.6.3	CDS	12256	12654
+scaffold_656	Prodigal_v2.6.3	CDS	12658	13326
+scaffold_656	Prodigal_v2.6.3	CDS	13323	14879
+scaffold_656	Prodigal_v2.6.3	CDS	15029	15736
+scaffold_656	Prodigal_v2.6.3	CDS	15784	17190
+scaffold_656	Prodigal_v2.6.3	CDS	17210	18214
+scaffold_656	Prodigal_v2.6.3	CDS	18218	19075
+scaffold_656	Prodigal_v2.6.3	CDS	19337	20146
+scaffold_656	Prodigal_v2.6.3	CDS	20188	20691
+scaffold_656	Prodigal_v2.6.3	CDS	21082	21903
+scaffold_656	Prodigal_v2.6.3	CDS	22312	22740
+scaffold_656	Prodigal_v2.6.3	CDS	22740	23402
+scaffold_656	Prodigal_v2.6.3	CDS	23413	23982
+scaffold_656	Prodigal_v2.6.3	CDS	24018	24704
+scaffold_656	Prodigal_v2.6.3	CDS	24707	25204
+scaffold_656	Prodigal_v2.6.3	CDS	25239	26717
+scaffold_656	Prodigal_v2.6.3	CDS	26799	27653
+scaffold_656	Prodigal_v2.6.3	CDS	27875	28309
+scaffold_656	Prodigal_v2.6.3	CDS	28528	28740
+scaffold_656	Prodigal_v2.6.3	CDS	28755	28976
+scaffold_656	Prodigal_v2.6.3	CDS	29074	31584
+scaffold_656	Prodigal_v2.6.3	CDS	31618	31818
+scaffold_656	Prodigal_v2.6.3	CDS	32075	32356
+scaffold_656	Prodigal_v2.6.3	CDS	32389	32940
+scaffold_656	Prodigal_v2.6.3	CDS	32978	33403
+# Sequence Data: seqnum=7;seqlen=46666;seqhdr="scaffold_680"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_680	Prodigal_v2.6.3	CDS	105	509
+scaffold_680	Prodigal_v2.6.3	CDS	598	2190
+scaffold_680	Prodigal_v2.6.3	CDS	2252	2857
+scaffold_680	Prodigal_v2.6.3	CDS	2964	3626
+scaffold_680	Prodigal_v2.6.3	CDS	3675	4106
+scaffold_680	Prodigal_v2.6.3	CDS	4172	4498
+scaffold_680	Prodigal_v2.6.3	CDS	4559	5464
+scaffold_680	Prodigal_v2.6.3	CDS	5465	6646
+scaffold_680	Prodigal_v2.6.3	CDS	6643	7125
+scaffold_680	Prodigal_v2.6.3	CDS	7118	7747
+scaffold_680	Prodigal_v2.6.3	CDS	7894	8862
+scaffold_680	Prodigal_v2.6.3	CDS	8945	9286
+scaffold_680	Prodigal_v2.6.3	CDS	9317	10153
+scaffold_680	Prodigal_v2.6.3	CDS	10300	11985
+scaffold_680	Prodigal_v2.6.3	CDS	12086	12865
+scaffold_680	Prodigal_v2.6.3	CDS	13358	14530
+scaffold_680	Prodigal_v2.6.3	CDS	14720	15958
+scaffold_680	Prodigal_v2.6.3	CDS	15980	17002
+scaffold_680	Prodigal_v2.6.3	CDS	17081	17911
+scaffold_680	Prodigal_v2.6.3	CDS	18002	18784
+scaffold_680	Prodigal_v2.6.3	CDS	19044	20639
+scaffold_680	Prodigal_v2.6.3	CDS	20815	22593
+scaffold_680	Prodigal_v2.6.3	CDS	22976	23782
+scaffold_680	Prodigal_v2.6.3	CDS	24073	25485
+scaffold_680	Prodigal_v2.6.3	CDS	25675	26517
+scaffold_680	Prodigal_v2.6.3	CDS	26517	27479
+scaffold_680	Prodigal_v2.6.3	CDS	28012	29391
+scaffold_680	Prodigal_v2.6.3	CDS	29660	30706
+scaffold_680	Prodigal_v2.6.3	CDS	30750	31610
+scaffold_680	Prodigal_v2.6.3	CDS	31653	32366
+scaffold_680	Prodigal_v2.6.3	CDS	32359	33372
+scaffold_680	Prodigal_v2.6.3	CDS	33580	34881
+scaffold_680	Prodigal_v2.6.3	CDS	35173	36453
+scaffold_680	Prodigal_v2.6.3	CDS	36977	38719
+scaffold_680	Prodigal_v2.6.3	CDS	38720	40519
+scaffold_680	Prodigal_v2.6.3	CDS	40598	40714
+scaffold_680	Prodigal_v2.6.3	CDS	41556	44144
+scaffold_680	Prodigal_v2.6.3	CDS	44146	45006
+scaffold_680	Prodigal_v2.6.3	CDS	44990	46597
+# Sequence Data: seqnum=8;seqlen=32404;seqhdr="scaffold_685"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_685	Prodigal_v2.6.3	CDS	701	925
+scaffold_685	Prodigal_v2.6.3	CDS	1184	1621
+scaffold_685	Prodigal_v2.6.3	CDS	1612	1800
+scaffold_685	Prodigal_v2.6.3	CDS	1897	2613
+scaffold_685	Prodigal_v2.6.3	CDS	2827	3411
+scaffold_685	Prodigal_v2.6.3	CDS	3442	3927
+scaffold_685	Prodigal_v2.6.3	CDS	4011	5198
+scaffold_685	Prodigal_v2.6.3	CDS	5355	6563
+scaffold_685	Prodigal_v2.6.3	CDS	6630	7049
+scaffold_685	Prodigal_v2.6.3	CDS	7121	7666
+scaffold_685	Prodigal_v2.6.3	CDS	7656	9029
+scaffold_685	Prodigal_v2.6.3	CDS	9099	10043
+scaffold_685	Prodigal_v2.6.3	CDS	10174	11442
+scaffold_685	Prodigal_v2.6.3	CDS	11457	12956
+scaffold_685	Prodigal_v2.6.3	CDS	13213	13725
+scaffold_685	Prodigal_v2.6.3	CDS	13794	14486
+scaffold_685	Prodigal_v2.6.3	CDS	14564	14863
+scaffold_685	Prodigal_v2.6.3	CDS	14893	15954
+scaffold_685	Prodigal_v2.6.3	CDS	15954	16718
+scaffold_685	Prodigal_v2.6.3	CDS	16715	17251
+scaffold_685	Prodigal_v2.6.3	CDS	17480	18073
+scaffold_685	Prodigal_v2.6.3	CDS	18088	21525
+scaffold_685	Prodigal_v2.6.3	CDS	21605	21811
+scaffold_685	Prodigal_v2.6.3	CDS	22110	22799
+scaffold_685	Prodigal_v2.6.3	CDS	22910	24898
+scaffold_685	Prodigal_v2.6.3	CDS	24913	25641
+scaffold_685	Prodigal_v2.6.3	CDS	25789	26916
+scaffold_685	Prodigal_v2.6.3	CDS	27237	28292
+scaffold_685	Prodigal_v2.6.3	CDS	28255	28698
+scaffold_685	Prodigal_v2.6.3	CDS	28868	29062
+scaffold_685	Prodigal_v2.6.3	CDS	29065	29454
+scaffold_685	Prodigal_v2.6.3	CDS	29459	30628
+scaffold_685	Prodigal_v2.6.3	CDS	30631	31101
+scaffold_685	Prodigal_v2.6.3	CDS	31110	31709
+scaffold_685	Prodigal_v2.6.3	CDS	31726	32385
+# Sequence Data: seqnum=9;seqlen=66945;seqhdr="scaffold_720"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_720	Prodigal_v2.6.3	CDS	3	62
+scaffold_720	Prodigal_v2.6.3	CDS	103	1368
+scaffold_720	Prodigal_v2.6.3	CDS	1399	2634
+scaffold_720	Prodigal_v2.6.3	CDS	2753	3469
+scaffold_720	Prodigal_v2.6.3	CDS	3502	4131
+scaffold_720	Prodigal_v2.6.3	CDS	4152	5186
+scaffold_720	Prodigal_v2.6.3	CDS	5229	6686
+scaffold_720	Prodigal_v2.6.3	CDS	6683	7198
+scaffold_720	Prodigal_v2.6.3	CDS	7552	8454
+scaffold_720	Prodigal_v2.6.3	CDS	8489	8962
+scaffold_720	Prodigal_v2.6.3	CDS	9277	9540
+scaffold_720	Prodigal_v2.6.3	CDS	9533	10153
+scaffold_720	Prodigal_v2.6.3	CDS	10195	10611
+scaffold_720	Prodigal_v2.6.3	CDS	10812	11369
+scaffold_720	Prodigal_v2.6.3	CDS	11418	12131
+scaffold_720	Prodigal_v2.6.3	CDS	12156	12944
+scaffold_720	Prodigal_v2.6.3	CDS	13209	13757
+scaffold_720	Prodigal_v2.6.3	CDS	13760	14248
+scaffold_720	Prodigal_v2.6.3	CDS	14327	14827
+scaffold_720	Prodigal_v2.6.3	CDS	14990	15931
+scaffold_720	Prodigal_v2.6.3	CDS	16087	16809
+scaffold_720	Prodigal_v2.6.3	CDS	17059	18441
+scaffold_720	Prodigal_v2.6.3	CDS	18445	19749
+scaffold_720	Prodigal_v2.6.3	CDS	19760	20824
+scaffold_720	Prodigal_v2.6.3	CDS	20863	21846
+scaffold_720	Prodigal_v2.6.3	CDS	21945	23768
+scaffold_720	Prodigal_v2.6.3	CDS	24103	24885
+scaffold_720	Prodigal_v2.6.3	CDS	25342	25509
+scaffold_720	Prodigal_v2.6.3	CDS	25693	27078
+scaffold_720	Prodigal_v2.6.3	CDS	27239	28306
+scaffold_720	Prodigal_v2.6.3	CDS	28564	29448
+scaffold_720	Prodigal_v2.6.3	CDS	29465	30064
+scaffold_720	Prodigal_v2.6.3	CDS	30064	31374
+scaffold_720	Prodigal_v2.6.3	CDS	31539	32564
+scaffold_720	Prodigal_v2.6.3	CDS	32702	33955
+scaffold_720	Prodigal_v2.6.3	CDS	33962	35125
+scaffold_720	Prodigal_v2.6.3	CDS	35182	36891
+scaffold_720	Prodigal_v2.6.3	CDS	36907	37680
+scaffold_720	Prodigal_v2.6.3	CDS	37684	38301
+scaffold_720	Prodigal_v2.6.3	CDS	38319	40082
+scaffold_720	Prodigal_v2.6.3	CDS	40384	40848
+scaffold_720	Prodigal_v2.6.3	CDS	40942	41439
+scaffold_720	Prodigal_v2.6.3	CDS	41755	42993
+scaffold_720	Prodigal_v2.6.3	CDS	43262	44065
+scaffold_720	Prodigal_v2.6.3	CDS	44327	44932
+scaffold_720	Prodigal_v2.6.3	CDS	45135	46298
+scaffold_720	Prodigal_v2.6.3	CDS	46491	46766
+scaffold_720	Prodigal_v2.6.3	CDS	46763	46882
+scaffold_720	Prodigal_v2.6.3	CDS	47110	47283
+scaffold_720	Prodigal_v2.6.3	CDS	47280	48326
+scaffold_720	Prodigal_v2.6.3	CDS	48354	48638
+scaffold_720	Prodigal_v2.6.3	CDS	48727	50667
+scaffold_720	Prodigal_v2.6.3	CDS	50834	51613
+scaffold_720	Prodigal_v2.6.3	CDS	51944	52750
+scaffold_720	Prodigal_v2.6.3	CDS	52766	53443
+scaffold_720	Prodigal_v2.6.3	CDS	53634	54191
+scaffold_720	Prodigal_v2.6.3	CDS	54142	54768
+scaffold_720	Prodigal_v2.6.3	CDS	54933	56513
+scaffold_720	Prodigal_v2.6.3	CDS	56627	57136
+scaffold_720	Prodigal_v2.6.3	CDS	57251	57352
+scaffold_720	Prodigal_v2.6.3	CDS	57539	59062
+scaffold_720	Prodigal_v2.6.3	CDS	59210	60484
+scaffold_720	Prodigal_v2.6.3	CDS	60637	61674
+scaffold_720	Prodigal_v2.6.3	CDS	61687	63051
+scaffold_720	Prodigal_v2.6.3	CDS	63391	64665
+scaffold_720	Prodigal_v2.6.3	CDS	65055	66743
+# Sequence Data: seqnum=10;seqlen=66128;seqhdr="scaffold_822"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_822	Prodigal_v2.6.3	CDS	1	2181
+scaffold_822	Prodigal_v2.6.3	CDS	2424	3431
+scaffold_822	Prodigal_v2.6.3	CDS	3428	4150
+scaffold_822	Prodigal_v2.6.3	CDS	4159	5163
+scaffold_822	Prodigal_v2.6.3	CDS	5340	6662
+scaffold_822	Prodigal_v2.6.3	CDS	6659	8755
+scaffold_822	Prodigal_v2.6.3	CDS	8772	10115
+scaffold_822	Prodigal_v2.6.3	CDS	10088	10882
+scaffold_822	Prodigal_v2.6.3	CDS	11081	11434
+scaffold_822	Prodigal_v2.6.3	CDS	11495	11698
+scaffold_822	Prodigal_v2.6.3	CDS	11725	12333
+scaffold_822	Prodigal_v2.6.3	CDS	12482	13258
+scaffold_822	Prodigal_v2.6.3	CDS	13270	14232
+scaffold_822	Prodigal_v2.6.3	CDS	14255	14509
+scaffold_822	Prodigal_v2.6.3	CDS	14506	15717
+scaffold_822	Prodigal_v2.6.3	CDS	15740	16849
+scaffold_822	Prodigal_v2.6.3	CDS	16879	17469
+scaffold_822	Prodigal_v2.6.3	CDS	17501	18526
+scaffold_822	Prodigal_v2.6.3	CDS	18841	20463
+scaffold_822	Prodigal_v2.6.3	CDS	20447	21769
+scaffold_822	Prodigal_v2.6.3	CDS	21871	22422
+scaffold_822	Prodigal_v2.6.3	CDS	22598	23083
+scaffold_822	Prodigal_v2.6.3	CDS	23099	24466
+scaffold_822	Prodigal_v2.6.3	CDS	24591	25097
+scaffold_822	Prodigal_v2.6.3	CDS	25139	26311
+scaffold_822	Prodigal_v2.6.3	CDS	26321	26785
+scaffold_822	Prodigal_v2.6.3	CDS	26967	27341
+scaffold_822	Prodigal_v2.6.3	CDS	27419	28618
+scaffold_822	Prodigal_v2.6.3	CDS	29039	30001
+scaffold_822	Prodigal_v2.6.3	CDS	30107	33187
+scaffold_822	Prodigal_v2.6.3	CDS	33398	34498
+scaffold_822	Prodigal_v2.6.3	CDS	34541	35359
+scaffold_822	Prodigal_v2.6.3	CDS	35390	36175
+scaffold_822	Prodigal_v2.6.3	CDS	36613	38382
+scaffold_822	Prodigal_v2.6.3	CDS	38404	40203
+scaffold_822	Prodigal_v2.6.3	CDS	40294	42099
+scaffold_822	Prodigal_v2.6.3	CDS	42291	44021
+scaffold_822	Prodigal_v2.6.3	CDS	44127	44309
+scaffold_822	Prodigal_v2.6.3	CDS	44409	45092
+scaffold_822	Prodigal_v2.6.3	CDS	45260	45928
+scaffold_822	Prodigal_v2.6.3	CDS	46016	46588
+scaffold_822	Prodigal_v2.6.3	CDS	46585	47460
+scaffold_822	Prodigal_v2.6.3	CDS	48190	48552
+scaffold_822	Prodigal_v2.6.3	CDS	48862	49611
+scaffold_822	Prodigal_v2.6.3	CDS	49736	51946
+scaffold_822	Prodigal_v2.6.3	CDS	51948	52604
+scaffold_822	Prodigal_v2.6.3	CDS	52829	53419
+scaffold_822	Prodigal_v2.6.3	CDS	53540	53929
+scaffold_822	Prodigal_v2.6.3	CDS	53998	54210
+scaffold_822	Prodigal_v2.6.3	CDS	54280	55377
+scaffold_822	Prodigal_v2.6.3	CDS	55501	55749
+scaffold_822	Prodigal_v2.6.3	CDS	55867	56256
+scaffold_822	Prodigal_v2.6.3	CDS	56289	57464
+scaffold_822	Prodigal_v2.6.3	CDS	57510	57974
+scaffold_822	Prodigal_v2.6.3	CDS	58216	59886
+scaffold_822	Prodigal_v2.6.3	CDS	60188	60334
+scaffold_822	Prodigal_v2.6.3	CDS	60393	61118
+scaffold_822	Prodigal_v2.6.3	CDS	61406	61645
+scaffold_822	Prodigal_v2.6.3	CDS	62170	62691
+scaffold_822	Prodigal_v2.6.3	CDS	62860	63627
+scaffold_822	Prodigal_v2.6.3	CDS	63756	64949
+scaffold_822	Prodigal_v2.6.3	CDS	64942	65883
+# Sequence Data: seqnum=11;seqlen=38223;seqhdr="scaffold_916"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_916	Prodigal_v2.6.3	CDS	167	823
+scaffold_916	Prodigal_v2.6.3	CDS	866	2389
+scaffold_916	Prodigal_v2.6.3	CDS	2920	3339
+scaffold_916	Prodigal_v2.6.3	CDS	3508	3978
+scaffold_916	Prodigal_v2.6.3	CDS	3997	6093
+scaffold_916	Prodigal_v2.6.3	CDS	6246	7448
+scaffold_916	Prodigal_v2.6.3	CDS	7609	7761
+scaffold_916	Prodigal_v2.6.3	CDS	7940	8182
+scaffold_916	Prodigal_v2.6.3	CDS	8290	9147
+scaffold_916	Prodigal_v2.6.3	CDS	9261	10625
+scaffold_916	Prodigal_v2.6.3	CDS	10765	11787
+scaffold_916	Prodigal_v2.6.3	CDS	12413	13990
+scaffold_916	Prodigal_v2.6.3	CDS	14112	15692
+scaffold_916	Prodigal_v2.6.3	CDS	15919	17499
+scaffold_916	Prodigal_v2.6.3	CDS	17771	18343
+scaffold_916	Prodigal_v2.6.3	CDS	18407	19399
+scaffold_916	Prodigal_v2.6.3	CDS	19461	20288
+scaffold_916	Prodigal_v2.6.3	CDS	20272	21042
+scaffold_916	Prodigal_v2.6.3	CDS	21649	22239
+scaffold_916	Prodigal_v2.6.3	CDS	22278	24131
+scaffold_916	Prodigal_v2.6.3	CDS	24369	25019
+scaffold_916	Prodigal_v2.6.3	CDS	25028	25639
+scaffold_916	Prodigal_v2.6.3	CDS	25771	26247
+scaffold_916	Prodigal_v2.6.3	CDS	26411	28873
+scaffold_916	Prodigal_v2.6.3	CDS	29097	30125
+scaffold_916	Prodigal_v2.6.3	CDS	30118	30624
+scaffold_916	Prodigal_v2.6.3	CDS	30659	31114
+scaffold_916	Prodigal_v2.6.3	CDS	31561	32574
+scaffold_916	Prodigal_v2.6.3	CDS	32657	33922
+scaffold_916	Prodigal_v2.6.3	CDS	34247	34993
+scaffold_916	Prodigal_v2.6.3	CDS	34983	35714
+scaffold_916	Prodigal_v2.6.3	CDS	35745	36590
+scaffold_916	Prodigal_v2.6.3	CDS	36827	37321
+scaffold_916	Prodigal_v2.6.3	CDS	37365	37589
+scaffold_916	Prodigal_v2.6.3	CDS	37801	38223
+# Sequence Data: seqnum=12;seqlen=55184;seqhdr="scaffold_932"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_932	Prodigal_v2.6.3	CDS	35	295
+scaffold_932	Prodigal_v2.6.3	CDS	426	1340
+scaffold_932	Prodigal_v2.6.3	CDS	1371	2009
+scaffold_932	Prodigal_v2.6.3	CDS	2017	3330
+scaffold_932	Prodigal_v2.6.3	CDS	3327	4133
+scaffold_932	Prodigal_v2.6.3	CDS	4481	5047
+scaffold_932	Prodigal_v2.6.3	CDS	5132	5476
+scaffold_932	Prodigal_v2.6.3	CDS	5957	7162
+scaffold_932	Prodigal_v2.6.3	CDS	7323	9002
+scaffold_932	Prodigal_v2.6.3	CDS	9176	9304
+scaffold_932	Prodigal_v2.6.3	CDS	9246	9680
+scaffold_932	Prodigal_v2.6.3	CDS	9673	10620
+scaffold_932	Prodigal_v2.6.3	CDS	10617	11831
+scaffold_932	Prodigal_v2.6.3	CDS	11834	12046
+scaffold_932	Prodigal_v2.6.3	CDS	12051	12914
+scaffold_932	Prodigal_v2.6.3	CDS	13110	14975
+scaffold_932	Prodigal_v2.6.3	CDS	14977	15798
+scaffold_932	Prodigal_v2.6.3	CDS	15835	16698
+scaffold_932	Prodigal_v2.6.3	CDS	16932	17378
+scaffold_932	Prodigal_v2.6.3	CDS	17394	19058
+scaffold_932	Prodigal_v2.6.3	CDS	19247	21301
+scaffold_932	Prodigal_v2.6.3	CDS	21385	23568
+scaffold_932	Prodigal_v2.6.3	CDS	23684	24142
+scaffold_932	Prodigal_v2.6.3	CDS	24139	24771
+scaffold_932	Prodigal_v2.6.3	CDS	24780	26270
+scaffold_932	Prodigal_v2.6.3	CDS	26399	26959
+scaffold_932	Prodigal_v2.6.3	CDS	27090	29111
+scaffold_932	Prodigal_v2.6.3	CDS	29156	29950
+scaffold_932	Prodigal_v2.6.3	CDS	29971	30246
+scaffold_932	Prodigal_v2.6.3	CDS	30350	31318
+scaffold_932	Prodigal_v2.6.3	CDS	31697	33181
+scaffold_932	Prodigal_v2.6.3	CDS	33494	34108
+scaffold_932	Prodigal_v2.6.3	CDS	34111	38148
+scaffold_932	Prodigal_v2.6.3	CDS	38469	38798
+scaffold_932	Prodigal_v2.6.3	CDS	39355	40392
+scaffold_932	Prodigal_v2.6.3	CDS	40520	41986
+scaffold_932	Prodigal_v2.6.3	CDS	42279	42869
+scaffold_932	Prodigal_v2.6.3	CDS	42948	43241
+scaffold_932	Prodigal_v2.6.3	CDS	43495	45099
+scaffold_932	Prodigal_v2.6.3	CDS	45357	45845
+scaffold_932	Prodigal_v2.6.3	CDS	45996	47294
+scaffold_932	Prodigal_v2.6.3	CDS	47565	48134
+scaffold_932	Prodigal_v2.6.3	CDS	48414	49841
+scaffold_932	Prodigal_v2.6.3	CDS	49838	50632
+scaffold_932	Prodigal_v2.6.3	CDS	50629	51435
+scaffold_932	Prodigal_v2.6.3	CDS	51449	52561
+scaffold_932	Prodigal_v2.6.3	CDS	52700	53881
+scaffold_932	Prodigal_v2.6.3	CDS	54556	55182
+# Sequence Data: seqnum=13;seqlen=27314;seqhdr="scaffold_966"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_966	Prodigal_v2.6.3	CDS	297	437
+scaffold_966	Prodigal_v2.6.3	CDS	742	2907
+scaffold_966	Prodigal_v2.6.3	CDS	2962	3168
+scaffold_966	Prodigal_v2.6.3	CDS	3313	4701
+scaffold_966	Prodigal_v2.6.3	CDS	4840	5469
+scaffold_966	Prodigal_v2.6.3	CDS	5470	6225
+scaffold_966	Prodigal_v2.6.3	CDS	6410	7897
+scaffold_966	Prodigal_v2.6.3	CDS	8051	8284
+scaffold_966	Prodigal_v2.6.3	CDS	8310	10913
+scaffold_966	Prodigal_v2.6.3	CDS	10988	11947
+scaffold_966	Prodigal_v2.6.3	CDS	12035	12787
+scaffold_966	Prodigal_v2.6.3	CDS	13107	15554
+scaffold_966	Prodigal_v2.6.3	CDS	16058	18139
+scaffold_966	Prodigal_v2.6.3	CDS	19743	21209
+scaffold_966	Prodigal_v2.6.3	CDS	21206	21772
+scaffold_966	Prodigal_v2.6.3	CDS	21800	22831
+scaffold_966	Prodigal_v2.6.3	CDS	22828	23610
+scaffold_966	Prodigal_v2.6.3	CDS	23607	24209
+scaffold_966	Prodigal_v2.6.3	CDS	24187	25401
+scaffold_966	Prodigal_v2.6.3	CDS	25394	26170
+scaffold_966	Prodigal_v2.6.3	CDS	26183	26653
+scaffold_966	Prodigal_v2.6.3	CDS	26699	27043
+# Sequence Data: seqnum=14;seqlen=26657;seqhdr="scaffold_986"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_986	Prodigal_v2.6.3	CDS	3	278
+scaffold_986	Prodigal_v2.6.3	CDS	652	2079
+scaffold_986	Prodigal_v2.6.3	CDS	2163	2366
+scaffold_986	Prodigal_v2.6.3	CDS	2335	4695
+scaffold_986	Prodigal_v2.6.3	CDS	4723	5439
+scaffold_986	Prodigal_v2.6.3	CDS	5470	5637
+scaffold_986	Prodigal_v2.6.3	CDS	5621	6385
+scaffold_986	Prodigal_v2.6.3	CDS	6686	9205
+scaffold_986	Prodigal_v2.6.3	CDS	9378	10763
+scaffold_986	Prodigal_v2.6.3	CDS	10791	11702
+scaffold_986	Prodigal_v2.6.3	CDS	12040	12516
+scaffold_986	Prodigal_v2.6.3	CDS	12503	13750
+scaffold_986	Prodigal_v2.6.3	CDS	13763	14929
+scaffold_986	Prodigal_v2.6.3	CDS	15153	16130
+scaffold_986	Prodigal_v2.6.3	CDS	16168	16503
+scaffold_986	Prodigal_v2.6.3	CDS	16535	17545
+scaffold_986	Prodigal_v2.6.3	CDS	17550	17948
+scaffold_986	Prodigal_v2.6.3	CDS	17914	18264
+scaffold_986	Prodigal_v2.6.3	CDS	18293	19021
+scaffold_986	Prodigal_v2.6.3	CDS	19018	19545
+scaffold_986	Prodigal_v2.6.3	CDS	19715	20662
+scaffold_986	Prodigal_v2.6.3	CDS	20805	21131
+scaffold_986	Prodigal_v2.6.3	CDS	21138	21479
+scaffold_986	Prodigal_v2.6.3	CDS	21483	22541
+scaffold_986	Prodigal_v2.6.3	CDS	22571	23125
+scaffold_986	Prodigal_v2.6.3	CDS	23337	23804
+scaffold_986	Prodigal_v2.6.3	CDS	24646	26526
+# Sequence Data: seqnum=15;seqlen=23522;seqhdr="scaffold_1193"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_1193	Prodigal_v2.6.3	CDS	3	926
+scaffold_1193	Prodigal_v2.6.3	CDS	1367	2623
+scaffold_1193	Prodigal_v2.6.3	CDS	2620	3333
+scaffold_1193	Prodigal_v2.6.3	CDS	3460	5217
+scaffold_1193	Prodigal_v2.6.3	CDS	5379	5861
+scaffold_1193	Prodigal_v2.6.3	CDS	5880	6671
+scaffold_1193	Prodigal_v2.6.3	CDS	6770	8050
+scaffold_1193	Prodigal_v2.6.3	CDS	8310	9815
+scaffold_1193	Prodigal_v2.6.3	CDS	10074	12350
+scaffold_1193	Prodigal_v2.6.3	CDS	12673	12843
+scaffold_1193	Prodigal_v2.6.3	CDS	13066	14532
+scaffold_1193	Prodigal_v2.6.3	CDS	14489	15238
+scaffold_1193	Prodigal_v2.6.3	CDS	15232	15858
+scaffold_1193	Prodigal_v2.6.3	CDS	15851	16873
+scaffold_1193	Prodigal_v2.6.3	CDS	16873	17952
+scaffold_1193	Prodigal_v2.6.3	CDS	17969	18196
+scaffold_1193	Prodigal_v2.6.3	CDS	18228	19481
+scaffold_1193	Prodigal_v2.6.3	CDS	19834	21309
+scaffold_1193	Prodigal_v2.6.3	CDS	21313	22149
+scaffold_1193	Prodigal_v2.6.3	CDS	22242	23324
+# Sequence Data: seqnum=16;seqlen=21748;seqhdr="scaffold_1359"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_1359	Prodigal_v2.6.3	CDS	3	1550
+scaffold_1359	Prodigal_v2.6.3	CDS	1581	2375
+scaffold_1359	Prodigal_v2.6.3	CDS	2693	5266
+scaffold_1359	Prodigal_v2.6.3	CDS	5268	5540
+scaffold_1359	Prodigal_v2.6.3	CDS	5662	7041
+scaffold_1359	Prodigal_v2.6.3	CDS	7274	7966
+scaffold_1359	Prodigal_v2.6.3	CDS	8024	9613
+scaffold_1359	Prodigal_v2.6.3	CDS	9631	11286
+scaffold_1359	Prodigal_v2.6.3	CDS	11918	13759
+scaffold_1359	Prodigal_v2.6.3	CDS	13907	14458
+scaffold_1359	Prodigal_v2.6.3	CDS	14606	18289
+scaffold_1359	Prodigal_v2.6.3	CDS	18557	18913
+scaffold_1359	Prodigal_v2.6.3	CDS	19255	21594
+# Sequence Data: seqnum=17;seqlen=30270;seqhdr="scaffold_1405"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_1405	Prodigal_v2.6.3	CDS	1	456
+scaffold_1405	Prodigal_v2.6.3	CDS	466	1398
+scaffold_1405	Prodigal_v2.6.3	CDS	1460	1855
+scaffold_1405	Prodigal_v2.6.3	CDS	1869	2507
+scaffold_1405	Prodigal_v2.6.3	CDS	2590	3222
+scaffold_1405	Prodigal_v2.6.3	CDS	3280	3720
+scaffold_1405	Prodigal_v2.6.3	CDS	3757	4470
+scaffold_1405	Prodigal_v2.6.3	CDS	4472	4855
+scaffold_1405	Prodigal_v2.6.3	CDS	4912	6579
+scaffold_1405	Prodigal_v2.6.3	CDS	6886	8046
+scaffold_1405	Prodigal_v2.6.3	CDS	8117	9202
+scaffold_1405	Prodigal_v2.6.3	CDS	9558	10061
+scaffold_1405	Prodigal_v2.6.3	CDS	10074	10892
+scaffold_1405	Prodigal_v2.6.3	CDS	11125	11598
+scaffold_1405	Prodigal_v2.6.3	CDS	11601	12371
+scaffold_1405	Prodigal_v2.6.3	CDS	12608	15877
+scaffold_1405	Prodigal_v2.6.3	CDS	16126	18363
+scaffold_1405	Prodigal_v2.6.3	CDS	18647	19108
+scaffold_1405	Prodigal_v2.6.3	CDS	19274	20482
+scaffold_1405	Prodigal_v2.6.3	CDS	20498	21151
+scaffold_1405	Prodigal_v2.6.3	CDS	21300	22412
+scaffold_1405	Prodigal_v2.6.3	CDS	22817	24229
+scaffold_1405	Prodigal_v2.6.3	CDS	24226	25761
+scaffold_1405	Prodigal_v2.6.3	CDS	25854	26135
+scaffold_1405	Prodigal_v2.6.3	CDS	26163	27911
+scaffold_1405	Prodigal_v2.6.3	CDS	28291	30171
+# Sequence Data: seqnum=18;seqlen=26024;seqhdr="scaffold_1417"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_1417	Prodigal_v2.6.3	CDS	3	233
+scaffold_1417	Prodigal_v2.6.3	CDS	310	1863
+scaffold_1417	Prodigal_v2.6.3	CDS	2152	4929
+scaffold_1417	Prodigal_v2.6.3	CDS	4880	5557
+scaffold_1417	Prodigal_v2.6.3	CDS	5578	9435
+scaffold_1417	Prodigal_v2.6.3	CDS	9986	12022
+scaffold_1417	Prodigal_v2.6.3	CDS	12012	12704
+scaffold_1417	Prodigal_v2.6.3	CDS	12729	13487
+scaffold_1417	Prodigal_v2.6.3	CDS	13817	15022
+scaffold_1417	Prodigal_v2.6.3	CDS	15045	15524
+scaffold_1417	Prodigal_v2.6.3	CDS	15678	17024
+scaffold_1417	Prodigal_v2.6.3	CDS	17130	18095
+scaffold_1417	Prodigal_v2.6.3	CDS	18349	19818
+scaffold_1417	Prodigal_v2.6.3	CDS	19904	22180
+scaffold_1417	Prodigal_v2.6.3	CDS	22134	23345
+scaffold_1417	Prodigal_v2.6.3	CDS	23364	23945
+scaffold_1417	Prodigal_v2.6.3	CDS	24277	24858
+scaffold_1417	Prodigal_v2.6.3	CDS	24907	25068
+scaffold_1417	Prodigal_v2.6.3	CDS	25095	25685
+scaffold_1417	Prodigal_v2.6.3	CDS	25779	26024
+# Sequence Data: seqnum=19;seqlen=20420;seqhdr="scaffold_1511"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1511	Prodigal_v2.6.3	CDS	312	854
+scaffold_1511	Prodigal_v2.6.3	CDS	1155	2024
+scaffold_1511	Prodigal_v2.6.3	CDS	2108	3385
+scaffold_1511	Prodigal_v2.6.3	CDS	3623	4312
+scaffold_1511	Prodigal_v2.6.3	CDS	4724	6172
+scaffold_1511	Prodigal_v2.6.3	CDS	6258	7361
+scaffold_1511	Prodigal_v2.6.3	CDS	7382	8893
+scaffold_1511	Prodigal_v2.6.3	CDS	8890	9057
+scaffold_1511	Prodigal_v2.6.3	CDS	9080	10438
+scaffold_1511	Prodigal_v2.6.3	CDS	11077	11799
+scaffold_1511	Prodigal_v2.6.3	CDS	11823	12542
+scaffold_1511	Prodigal_v2.6.3	CDS	12726	13583
+scaffold_1511	Prodigal_v2.6.3	CDS	13878	16493
+scaffold_1511	Prodigal_v2.6.3	CDS	16542	19439
+scaffold_1511	Prodigal_v2.6.3	CDS	19523	20023
+scaffold_1511	Prodigal_v2.6.3	CDS	20020	20370
+# Sequence Data: seqnum=20;seqlen=26838;seqhdr="scaffold_1532"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1532	Prodigal_v2.6.3	CDS	103	498
+scaffold_1532	Prodigal_v2.6.3	CDS	730	1098
+scaffold_1532	Prodigal_v2.6.3	CDS	1155	1574
+scaffold_1532	Prodigal_v2.6.3	CDS	2583	2843
+scaffold_1532	Prodigal_v2.6.3	CDS	2914	3501
+scaffold_1532	Prodigal_v2.6.3	CDS	3511	7461
+scaffold_1532	Prodigal_v2.6.3	CDS	8101	8382
+scaffold_1532	Prodigal_v2.6.3	CDS	8658	8780
+scaffold_1532	Prodigal_v2.6.3	CDS	8877	10442
+scaffold_1532	Prodigal_v2.6.3	CDS	10864	12456
+scaffold_1532	Prodigal_v2.6.3	CDS	12550	14238
+scaffold_1532	Prodigal_v2.6.3	CDS	14257	14685
+scaffold_1532	Prodigal_v2.6.3	CDS	14695	15510
+scaffold_1532	Prodigal_v2.6.3	CDS	15724	16500
+scaffold_1532	Prodigal_v2.6.3	CDS	16663	17862
+scaffold_1532	Prodigal_v2.6.3	CDS	17895	19115
+scaffold_1532	Prodigal_v2.6.3	CDS	19118	19804
+scaffold_1532	Prodigal_v2.6.3	CDS	20005	20307
+scaffold_1532	Prodigal_v2.6.3	CDS	20428	21540
+scaffold_1532	Prodigal_v2.6.3	CDS	21599	22000
+scaffold_1532	Prodigal_v2.6.3	CDS	22625	22939
+scaffold_1532	Prodigal_v2.6.3	CDS	22997	23287
+scaffold_1532	Prodigal_v2.6.3	CDS	24327	24632
+scaffold_1532	Prodigal_v2.6.3	CDS	24979	26034
+scaffold_1532	Prodigal_v2.6.3	CDS	26047	26838
+# Sequence Data: seqnum=21;seqlen=32196;seqhdr="scaffold_1571"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_1571	Prodigal_v2.6.3	CDS	2	247
+scaffold_1571	Prodigal_v2.6.3	CDS	247	933
+scaffold_1571	Prodigal_v2.6.3	CDS	1015	2298
+scaffold_1571	Prodigal_v2.6.3	CDS	2399	3001
+scaffold_1571	Prodigal_v2.6.3	CDS	3039	4367
+scaffold_1571	Prodigal_v2.6.3	CDS	4681	7140
+scaffold_1571	Prodigal_v2.6.3	CDS	7338	7934
+scaffold_1571	Prodigal_v2.6.3	CDS	7989	9293
+scaffold_1571	Prodigal_v2.6.3	CDS	9597	11411
+scaffold_1571	Prodigal_v2.6.3	CDS	11475	13502
+scaffold_1571	Prodigal_v2.6.3	CDS	13447	13617
+scaffold_1571	Prodigal_v2.6.3	CDS	13619	14065
+scaffold_1571	Prodigal_v2.6.3	CDS	14203	15567
+scaffold_1571	Prodigal_v2.6.3	CDS	15557	16981
+scaffold_1571	Prodigal_v2.6.3	CDS	16991	17542
+scaffold_1571	Prodigal_v2.6.3	CDS	17606	19729
+scaffold_1571	Prodigal_v2.6.3	CDS	19835	20626
+scaffold_1571	Prodigal_v2.6.3	CDS	20732	21778
+scaffold_1571	Prodigal_v2.6.3	CDS	21841	22599
+scaffold_1571	Prodigal_v2.6.3	CDS	23018	25660
+scaffold_1571	Prodigal_v2.6.3	CDS	25880	26794
+scaffold_1571	Prodigal_v2.6.3	CDS	27027	28820
+scaffold_1571	Prodigal_v2.6.3	CDS	29044	29877
+scaffold_1571	Prodigal_v2.6.3	CDS	29906	30826
+scaffold_1571	Prodigal_v2.6.3	CDS	31035	32195
+# Sequence Data: seqnum=22;seqlen=42288;seqhdr="scaffold_1722"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_1722	Prodigal_v2.6.3	CDS	2	505
+scaffold_1722	Prodigal_v2.6.3	CDS	364	852
+scaffold_1722	Prodigal_v2.6.3	CDS	952	1251
+scaffold_1722	Prodigal_v2.6.3	CDS	1609	2823
+scaffold_1722	Prodigal_v2.6.3	CDS	2865	3089
+scaffold_1722	Prodigal_v2.6.3	CDS	3086	3853
+scaffold_1722	Prodigal_v2.6.3	CDS	3873	4400
+scaffold_1722	Prodigal_v2.6.3	CDS	4429	5568
+scaffold_1722	Prodigal_v2.6.3	CDS	5547	5957
+scaffold_1722	Prodigal_v2.6.3	CDS	6269	7084
+scaffold_1722	Prodigal_v2.6.3	CDS	7504	8037
+scaffold_1722	Prodigal_v2.6.3	CDS	8356	9501
+scaffold_1722	Prodigal_v2.6.3	CDS	9558	10106
+scaffold_1722	Prodigal_v2.6.3	CDS	10337	11251
+scaffold_1722	Prodigal_v2.6.3	CDS	11409	11951
+scaffold_1722	Prodigal_v2.6.3	CDS	12081	13748
+scaffold_1722	Prodigal_v2.6.3	CDS	13880	14767
+scaffold_1722	Prodigal_v2.6.3	CDS	14820	15539
+scaffold_1722	Prodigal_v2.6.3	CDS	15584	16906
+scaffold_1722	Prodigal_v2.6.3	CDS	16948	18249
+scaffold_1722	Prodigal_v2.6.3	CDS	18412	18594
+scaffold_1722	Prodigal_v2.6.3	CDS	18652	19146
+scaffold_1722	Prodigal_v2.6.3	CDS	19441	20964
+scaffold_1722	Prodigal_v2.6.3	CDS	21271	22671
+scaffold_1722	Prodigal_v2.6.3	CDS	22697	24199
+scaffold_1722	Prodigal_v2.6.3	CDS	24510	25448
+scaffold_1722	Prodigal_v2.6.3	CDS	25529	25969
+scaffold_1722	Prodigal_v2.6.3	CDS	26279	27145
+scaffold_1722	Prodigal_v2.6.3	CDS	27291	28463
+scaffold_1722	Prodigal_v2.6.3	CDS	28669	30459
+scaffold_1722	Prodigal_v2.6.3	CDS	30487	31803
+scaffold_1722	Prodigal_v2.6.3	CDS	31946	32341
+scaffold_1722	Prodigal_v2.6.3	CDS	32394	33131
+scaffold_1722	Prodigal_v2.6.3	CDS	33597	34274
+scaffold_1722	Prodigal_v2.6.3	CDS	34404	35780
+scaffold_1722	Prodigal_v2.6.3	CDS	35931	36350
+scaffold_1722	Prodigal_v2.6.3	CDS	36490	38034
+scaffold_1722	Prodigal_v2.6.3	CDS	38288	39169
+scaffold_1722	Prodigal_v2.6.3	CDS	39215	39424
+scaffold_1722	Prodigal_v2.6.3	CDS	40572	40868
+scaffold_1722	Prodigal_v2.6.3	CDS	41065	41415
+scaffold_1722	Prodigal_v2.6.3	CDS	42071	42286
+# Sequence Data: seqnum=23;seqlen=45678;seqhdr="scaffold_1872"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1872	Prodigal_v2.6.3	CDS	3	302
+scaffold_1872	Prodigal_v2.6.3	CDS	958	1269
+scaffold_1872	Prodigal_v2.6.3	CDS	1600	2622
+scaffold_1872	Prodigal_v2.6.3	CDS	2627	4153
+scaffold_1872	Prodigal_v2.6.3	CDS	4150	4842
+scaffold_1872	Prodigal_v2.6.3	CDS	4826	9118
+scaffold_1872	Prodigal_v2.6.3	CDS	9919	10443
+scaffold_1872	Prodigal_v2.6.3	CDS	10586	11092
+scaffold_1872	Prodigal_v2.6.3	CDS	11453	12286
+scaffold_1872	Prodigal_v2.6.3	CDS	12524	15358
+scaffold_1872	Prodigal_v2.6.3	CDS	15663	17291
+scaffold_1872	Prodigal_v2.6.3	CDS	17275	18024
+scaffold_1872	Prodigal_v2.6.3	CDS	18217	18927
+scaffold_1872	Prodigal_v2.6.3	CDS	18920	19579
+scaffold_1872	Prodigal_v2.6.3	CDS	19554	19865
+scaffold_1872	Prodigal_v2.6.3	CDS	19906	21471
+scaffold_1872	Prodigal_v2.6.3	CDS	21524	22138
+scaffold_1872	Prodigal_v2.6.3	CDS	22296	22655
+scaffold_1872	Prodigal_v2.6.3	CDS	22828	23373
+scaffold_1872	Prodigal_v2.6.3	CDS	23557	24054
+scaffold_1872	Prodigal_v2.6.3	CDS	24202	25104
+scaffold_1872	Prodigal_v2.6.3	CDS	25120	25524
+scaffold_1872	Prodigal_v2.6.3	CDS	25659	27782
+scaffold_1872	Prodigal_v2.6.3	CDS	27952	28602
+scaffold_1872	Prodigal_v2.6.3	CDS	28587	29471
+scaffold_1872	Prodigal_v2.6.3	CDS	29578	30468
+scaffold_1872	Prodigal_v2.6.3	CDS	30627	31223
+scaffold_1872	Prodigal_v2.6.3	CDS	31571	32515
+scaffold_1872	Prodigal_v2.6.3	CDS	32665	33105
+scaffold_1872	Prodigal_v2.6.3	CDS	33290	34273
+scaffold_1872	Prodigal_v2.6.3	CDS	34420	34782
+scaffold_1872	Prodigal_v2.6.3	CDS	34863	35663
+scaffold_1872	Prodigal_v2.6.3	CDS	35688	36350
+scaffold_1872	Prodigal_v2.6.3	CDS	36343	37500
+scaffold_1872	Prodigal_v2.6.3	CDS	37544	38314
+scaffold_1872	Prodigal_v2.6.3	CDS	38367	38561
+scaffold_1872	Prodigal_v2.6.3	CDS	38842	40044
+scaffold_1872	Prodigal_v2.6.3	CDS	40170	40952
+scaffold_1872	Prodigal_v2.6.3	CDS	41416	41667
+scaffold_1872	Prodigal_v2.6.3	CDS	41718	42719
+scaffold_1872	Prodigal_v2.6.3	CDS	42940	44388
+scaffold_1872	Prodigal_v2.6.3	CDS	44410	45609
+# Sequence Data: seqnum=24;seqlen=16843;seqhdr="scaffold_2090"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_2090	Prodigal_v2.6.3	CDS	1	2121
+scaffold_2090	Prodigal_v2.6.3	CDS	2504	2668
+scaffold_2090	Prodigal_v2.6.3	CDS	2795	4582
+scaffold_2090	Prodigal_v2.6.3	CDS	4675	4785
+scaffold_2090	Prodigal_v2.6.3	CDS	4871	5122
+scaffold_2090	Prodigal_v2.6.3	CDS	5483	6847
+scaffold_2090	Prodigal_v2.6.3	CDS	6877	7527
+scaffold_2090	Prodigal_v2.6.3	CDS	8208	8801
+scaffold_2090	Prodigal_v2.6.3	CDS	8864	9817
+scaffold_2090	Prodigal_v2.6.3	CDS	10025	10228
+scaffold_2090	Prodigal_v2.6.3	CDS	10659	16535
+# Sequence Data: seqnum=25;seqlen=16714;seqhdr="scaffold_2120"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_2120	Prodigal_v2.6.3	CDS	224	937
+scaffold_2120	Prodigal_v2.6.3	CDS	930	2573
+scaffold_2120	Prodigal_v2.6.3	CDS	2899	4962
+scaffold_2120	Prodigal_v2.6.3	CDS	5269	6030
+scaffold_2120	Prodigal_v2.6.3	CDS	6228	8339
+scaffold_2120	Prodigal_v2.6.3	CDS	8695	9921
+scaffold_2120	Prodigal_v2.6.3	CDS	9911	11026
+scaffold_2120	Prodigal_v2.6.3	CDS	11087	12517
+scaffold_2120	Prodigal_v2.6.3	CDS	12709	13053
+scaffold_2120	Prodigal_v2.6.3	CDS	13312	13983
+scaffold_2120	Prodigal_v2.6.3	CDS	13988	14365
+scaffold_2120	Prodigal_v2.6.3	CDS	14393	15475
+scaffold_2120	Prodigal_v2.6.3	CDS	15529	16545
+# Sequence Data: seqnum=26;seqlen=17021;seqhdr="scaffold_2135"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_2135	Prodigal_v2.6.3	CDS	195	1409
+scaffold_2135	Prodigal_v2.6.3	CDS	1493	3424
+scaffold_2135	Prodigal_v2.6.3	CDS	3599	4474
+scaffold_2135	Prodigal_v2.6.3	CDS	4637	5734
+scaffold_2135	Prodigal_v2.6.3	CDS	6002	7195
+scaffold_2135	Prodigal_v2.6.3	CDS	7212	7847
+scaffold_2135	Prodigal_v2.6.3	CDS	8024	9325
+scaffold_2135	Prodigal_v2.6.3	CDS	9332	10381
+scaffold_2135	Prodigal_v2.6.3	CDS	10396	10977
+scaffold_2135	Prodigal_v2.6.3	CDS	11001	11750
+scaffold_2135	Prodigal_v2.6.3	CDS	11750	12094
+scaffold_2135	Prodigal_v2.6.3	CDS	12087	12416
+scaffold_2135	Prodigal_v2.6.3	CDS	12465	12881
+scaffold_2135	Prodigal_v2.6.3	CDS	13095	13769
+scaffold_2135	Prodigal_v2.6.3	CDS	13821	14831
+scaffold_2135	Prodigal_v2.6.3	CDS	14838	15287
+scaffold_2135	Prodigal_v2.6.3	CDS	15277	15720
+scaffold_2135	Prodigal_v2.6.3	CDS	15735	16061
+scaffold_2135	Prodigal_v2.6.3	CDS	16220	16606
+scaffold_2135	Prodigal_v2.6.3	CDS	16611	17021
+# Sequence Data: seqnum=27;seqlen=40625;seqhdr="scaffold_2249"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_2249	Prodigal_v2.6.3	CDS	493	876
+scaffold_2249	Prodigal_v2.6.3	CDS	1448	2416
+scaffold_2249	Prodigal_v2.6.3	CDS	3219	5687
+scaffold_2249	Prodigal_v2.6.3	CDS	5946	7175
+scaffold_2249	Prodigal_v2.6.3	CDS	7332	8540
+scaffold_2249	Prodigal_v2.6.3	CDS	8653	8931
+scaffold_2249	Prodigal_v2.6.3	CDS	9226	10155
+scaffold_2249	Prodigal_v2.6.3	CDS	10145	11377
+scaffold_2249	Prodigal_v2.6.3	CDS	11524	12252
+scaffold_2249	Prodigal_v2.6.3	CDS	12315	12959
+scaffold_2249	Prodigal_v2.6.3	CDS	12977	14947
+scaffold_2249	Prodigal_v2.6.3	CDS	15128	16060
+scaffold_2249	Prodigal_v2.6.3	CDS	16209	16745
+scaffold_2249	Prodigal_v2.6.3	CDS	16768	17730
+scaffold_2249	Prodigal_v2.6.3	CDS	17776	18726
+scaffold_2249	Prodigal_v2.6.3	CDS	18714	19616
+scaffold_2249	Prodigal_v2.6.3	CDS	19637	20380
+scaffold_2249	Prodigal_v2.6.3	CDS	20416	21648
+scaffold_2249	Prodigal_v2.6.3	CDS	21833	22285
+scaffold_2249	Prodigal_v2.6.3	CDS	22326	22745
+scaffold_2249	Prodigal_v2.6.3	CDS	22791	24146
+scaffold_2249	Prodigal_v2.6.3	CDS	24197	25147
+scaffold_2249	Prodigal_v2.6.3	CDS	25144	25935
+scaffold_2249	Prodigal_v2.6.3	CDS	26027	28948
+scaffold_2249	Prodigal_v2.6.3	CDS	29159	29383
+scaffold_2249	Prodigal_v2.6.3	CDS	29364	29609
+scaffold_2249	Prodigal_v2.6.3	CDS	29663	30760
+scaffold_2249	Prodigal_v2.6.3	CDS	31183	31368
+scaffold_2249	Prodigal_v2.6.3	CDS	31334	32077
+scaffold_2249	Prodigal_v2.6.3	CDS	32086	32745
+scaffold_2249	Prodigal_v2.6.3	CDS	33050	33274
+scaffold_2249	Prodigal_v2.6.3	CDS	33569	33853
+scaffold_2249	Prodigal_v2.6.3	CDS	33908	35530
+scaffold_2249	Prodigal_v2.6.3	CDS	35705	37228
+scaffold_2249	Prodigal_v2.6.3	CDS	37530	38423
+scaffold_2249	Prodigal_v2.6.3	CDS	38443	38841
+scaffold_2249	Prodigal_v2.6.3	CDS	38863	39720
+scaffold_2249	Prodigal_v2.6.3	CDS	39887	40624
+# Sequence Data: seqnum=28;seqlen=16065;seqhdr="scaffold_2254"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_2254	Prodigal_v2.6.3	CDS	1	273
+scaffold_2254	Prodigal_v2.6.3	CDS	559	1062
+scaffold_2254	Prodigal_v2.6.3	CDS	1199	1381
+scaffold_2254	Prodigal_v2.6.3	CDS	1453	3198
+scaffold_2254	Prodigal_v2.6.3	CDS	3420	3674
+scaffold_2254	Prodigal_v2.6.3	CDS	4045	5130
+scaffold_2254	Prodigal_v2.6.3	CDS	5260	6825
+scaffold_2254	Prodigal_v2.6.3	CDS	7124	8152
+scaffold_2254	Prodigal_v2.6.3	CDS	8797	10350
+scaffold_2254	Prodigal_v2.6.3	CDS	10528	11367
+scaffold_2254	Prodigal_v2.6.3	CDS	11582	13108
+scaffold_2254	Prodigal_v2.6.3	CDS	13432	14892
+scaffold_2254	Prodigal_v2.6.3	CDS	15046	16065
+# Sequence Data: seqnum=29;seqlen=22129;seqhdr="scaffold_2322"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_2322	Prodigal_v2.6.3	CDS	2	355
+scaffold_2322	Prodigal_v2.6.3	CDS	362	1225
+scaffold_2322	Prodigal_v2.6.3	CDS	1412	1801
+scaffold_2322	Prodigal_v2.6.3	CDS	1945	3207
+scaffold_2322	Prodigal_v2.6.3	CDS	3311	5974
+scaffold_2322	Prodigal_v2.6.3	CDS	6393	7508
+scaffold_2322	Prodigal_v2.6.3	CDS	8035	8517
+scaffold_2322	Prodigal_v2.6.3	CDS	8534	9505
+scaffold_2322	Prodigal_v2.6.3	CDS	9498	10274
+scaffold_2322	Prodigal_v2.6.3	CDS	10278	11012
+scaffold_2322	Prodigal_v2.6.3	CDS	11180	11962
+scaffold_2322	Prodigal_v2.6.3	CDS	11970	12860
+scaffold_2322	Prodigal_v2.6.3	CDS	13039	14010
+scaffold_2322	Prodigal_v2.6.3	CDS	14027	15007
+scaffold_2322	Prodigal_v2.6.3	CDS	15007	16020
+scaffold_2322	Prodigal_v2.6.3	CDS	16010	16558
+scaffold_2322	Prodigal_v2.6.3	CDS	16565	17677
+scaffold_2322	Prodigal_v2.6.3	CDS	17923	19008
+scaffold_2322	Prodigal_v2.6.3	CDS	19224	20093
+scaffold_2322	Prodigal_v2.6.3	CDS	20090	20947
+scaffold_2322	Prodigal_v2.6.3	CDS	21135	21869
+scaffold_2322	Prodigal_v2.6.3	CDS	22037	22129
+# Sequence Data: seqnum=30;seqlen=28986;seqhdr="scaffold_2382"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_2382	Prodigal_v2.6.3	CDS	3	152
+scaffold_2382	Prodigal_v2.6.3	CDS	361	1263
+scaffold_2382	Prodigal_v2.6.3	CDS	1353	2771
+scaffold_2382	Prodigal_v2.6.3	CDS	2954	3658
+scaffold_2382	Prodigal_v2.6.3	CDS	3722	4276
+scaffold_2382	Prodigal_v2.6.3	CDS	4300	5055
+scaffold_2382	Prodigal_v2.6.3	CDS	5333	6160
+scaffold_2382	Prodigal_v2.6.3	CDS	6256	7401
+scaffold_2382	Prodigal_v2.6.3	CDS	7439	8152
+scaffold_2382	Prodigal_v2.6.3	CDS	8170	8907
+scaffold_2382	Prodigal_v2.6.3	CDS	8981	10057
+scaffold_2382	Prodigal_v2.6.3	CDS	10528	11409
+scaffold_2382	Prodigal_v2.6.3	CDS	11596	11937
+scaffold_2382	Prodigal_v2.6.3	CDS	11953	12309
+scaffold_2382	Prodigal_v2.6.3	CDS	12311	12553
+scaffold_2382	Prodigal_v2.6.3	CDS	12718	13185
+scaffold_2382	Prodigal_v2.6.3	CDS	13217	14716
+scaffold_2382	Prodigal_v2.6.3	CDS	15016	15537
+scaffold_2382	Prodigal_v2.6.3	CDS	15647	16204
+scaffold_2382	Prodigal_v2.6.3	CDS	16267	16536
+scaffold_2382	Prodigal_v2.6.3	CDS	16553	17911
+scaffold_2382	Prodigal_v2.6.3	CDS	17949	19571
+scaffold_2382	Prodigal_v2.6.3	CDS	19893	21275
+scaffold_2382	Prodigal_v2.6.3	CDS	21275	22255
+scaffold_2382	Prodigal_v2.6.3	CDS	22468	22920
+scaffold_2382	Prodigal_v2.6.3	CDS	23215	23988
+scaffold_2382	Prodigal_v2.6.3	CDS	24137	24781
+scaffold_2382	Prodigal_v2.6.3	CDS	24989	28015
+scaffold_2382	Prodigal_v2.6.3	CDS	28046	28885
+# Sequence Data: seqnum=31;seqlen=19351;seqhdr="scaffold_2602"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_2602	Prodigal_v2.6.3	CDS	3	188
+scaffold_2602	Prodigal_v2.6.3	CDS	185	1045
+scaffold_2602	Prodigal_v2.6.3	CDS	1399	2406
+scaffold_2602	Prodigal_v2.6.3	CDS	2812	3774
+scaffold_2602	Prodigal_v2.6.3	CDS	3876	4790
+scaffold_2602	Prodigal_v2.6.3	CDS	4821	5684
+scaffold_2602	Prodigal_v2.6.3	CDS	5718	6647
+scaffold_2602	Prodigal_v2.6.3	CDS	6687	10235
+scaffold_2602	Prodigal_v2.6.3	CDS	10219	10488
+scaffold_2602	Prodigal_v2.6.3	CDS	10628	11596
+scaffold_2602	Prodigal_v2.6.3	CDS	12121	13395
+scaffold_2602	Prodigal_v2.6.3	CDS	13435	14547
+scaffold_2602	Prodigal_v2.6.3	CDS	14809	15456
+scaffold_2602	Prodigal_v2.6.3	CDS	15736	16464
+scaffold_2602	Prodigal_v2.6.3	CDS	16505	18247
+scaffold_2602	Prodigal_v2.6.3	CDS	18432	19115
+scaffold_2602	Prodigal_v2.6.3	CDS	19248	19349
+# Sequence Data: seqnum=32;seqlen=28410;seqhdr="scaffold_2614"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_2614	Prodigal_v2.6.3	CDS	436	723
+scaffold_2614	Prodigal_v2.6.3	CDS	955	1719
+scaffold_2614	Prodigal_v2.6.3	CDS	1733	4273
+scaffold_2614	Prodigal_v2.6.3	CDS	4485	7088
+scaffold_2614	Prodigal_v2.6.3	CDS	7244	8170
+scaffold_2614	Prodigal_v2.6.3	CDS	8572	9909
+scaffold_2614	Prodigal_v2.6.3	CDS	9925	10494
+scaffold_2614	Prodigal_v2.6.3	CDS	10518	11078
+scaffold_2614	Prodigal_v2.6.3	CDS	11364	13700
+scaffold_2614	Prodigal_v2.6.3	CDS	13827	14369
+scaffold_2614	Prodigal_v2.6.3	CDS	14458	14772
+scaffold_2614	Prodigal_v2.6.3	CDS	14931	15449
+scaffold_2614	Prodigal_v2.6.3	CDS	15536	17227
+scaffold_2614	Prodigal_v2.6.3	CDS	17374	18834
+scaffold_2614	Prodigal_v2.6.3	CDS	19132	20646
+scaffold_2614	Prodigal_v2.6.3	CDS	20702	22204
+scaffold_2614	Prodigal_v2.6.3	CDS	22201	22347
+scaffold_2614	Prodigal_v2.6.3	CDS	22481	24247
+scaffold_2614	Prodigal_v2.6.3	CDS	24762	26384
+scaffold_2614	Prodigal_v2.6.3	CDS	26405	26746
+scaffold_2614	Prodigal_v2.6.3	CDS	26754	27356
+scaffold_2614	Prodigal_v2.6.3	CDS	27438	27905
+# Sequence Data: seqnum=33;seqlen=29909;seqhdr="scaffold_2638"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_2638	Prodigal_v2.6.3	CDS	1	534
+scaffold_2638	Prodigal_v2.6.3	CDS	573	827
+scaffold_2638	Prodigal_v2.6.3	CDS	820	1425
+scaffold_2638	Prodigal_v2.6.3	CDS	1422	1628
+scaffold_2638	Prodigal_v2.6.3	CDS	1633	4137
+scaffold_2638	Prodigal_v2.6.3	CDS	4180	4650
+scaffold_2638	Prodigal_v2.6.3	CDS	4937	5854
+scaffold_2638	Prodigal_v2.6.3	CDS	5900	7381
+scaffold_2638	Prodigal_v2.6.3	CDS	7418	8449
+scaffold_2638	Prodigal_v2.6.3	CDS	8487	9230
+scaffold_2638	Prodigal_v2.6.3	CDS	9236	11302
+scaffold_2638	Prodigal_v2.6.3	CDS	11457	11573
+scaffold_2638	Prodigal_v2.6.3	CDS	11615	13393
+scaffold_2638	Prodigal_v2.6.3	CDS	13624	14733
+scaffold_2638	Prodigal_v2.6.3	CDS	14697	15203
+scaffold_2638	Prodigal_v2.6.3	CDS	15225	15701
+scaffold_2638	Prodigal_v2.6.3	CDS	15802	16839
+scaffold_2638	Prodigal_v2.6.3	CDS	17083	17514
+scaffold_2638	Prodigal_v2.6.3	CDS	17558	18832
+scaffold_2638	Prodigal_v2.6.3	CDS	19049	19621
+scaffold_2638	Prodigal_v2.6.3	CDS	19626	21365
+scaffold_2638	Prodigal_v2.6.3	CDS	21400	22701
+scaffold_2638	Prodigal_v2.6.3	CDS	22941	24602
+scaffold_2638	Prodigal_v2.6.3	CDS	24760	25599
+scaffold_2638	Prodigal_v2.6.3	CDS	25915	26739
+scaffold_2638	Prodigal_v2.6.3	CDS	26934	27371
+scaffold_2638	Prodigal_v2.6.3	CDS	27517	29598
+# Sequence Data: seqnum=34;seqlen=14213;seqhdr="scaffold_2760"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="24|Ignisphaera_aggregans_DSM_17230|A|35.7|11|1";gc_cont=35.70;transl_table=11;uses_sd=1
+scaffold_2760	Prodigal_v2.6.3	CDS	2	289
+scaffold_2760	Prodigal_v2.6.3	CDS	318	1412
+scaffold_2760	Prodigal_v2.6.3	CDS	1436	2284
+scaffold_2760	Prodigal_v2.6.3	CDS	2301	3587
+scaffold_2760	Prodigal_v2.6.3	CDS	3618	4415
+scaffold_2760	Prodigal_v2.6.3	CDS	4435	5430
+scaffold_2760	Prodigal_v2.6.3	CDS	5443	6426
+scaffold_2760	Prodigal_v2.6.3	CDS	6441	7439
+scaffold_2760	Prodigal_v2.6.3	CDS	7456	8223
+scaffold_2760	Prodigal_v2.6.3	CDS	8444	11272
+scaffold_2760	Prodigal_v2.6.3	CDS	11537	13240
+# Sequence Data: seqnum=35;seqlen=15637;seqhdr="scaffold_2761"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_2761	Prodigal_v2.6.3	CDS	2	166
+scaffold_2761	Prodigal_v2.6.3	CDS	225	1616
+scaffold_2761	Prodigal_v2.6.3	CDS	1900	3816
+scaffold_2761	Prodigal_v2.6.3	CDS	3980	4468
+scaffold_2761	Prodigal_v2.6.3	CDS	4825	5499
+scaffold_2761	Prodigal_v2.6.3	CDS	5550	6134
+scaffold_2761	Prodigal_v2.6.3	CDS	6578	7213
+scaffold_2761	Prodigal_v2.6.3	CDS	7362	9608
+scaffold_2761	Prodigal_v2.6.3	CDS	9819	11105
+scaffold_2761	Prodigal_v2.6.3	CDS	11102	12385
+scaffold_2761	Prodigal_v2.6.3	CDS	12612	13784
+scaffold_2761	Prodigal_v2.6.3	CDS	13801	14658
+scaffold_2761	Prodigal_v2.6.3	CDS	14774	15637
+# Sequence Data: seqnum=36;seqlen=14329;seqhdr="scaffold_3096"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_3096	Prodigal_v2.6.3	CDS	3	1034
+scaffold_3096	Prodigal_v2.6.3	CDS	1110	3035
+scaffold_3096	Prodigal_v2.6.3	CDS	3340	3606
+scaffold_3096	Prodigal_v2.6.3	CDS	3985	6186
+scaffold_3096	Prodigal_v2.6.3	CDS	6444	12362
+scaffold_3096	Prodigal_v2.6.3	CDS	12411	13313
+scaffold_3096	Prodigal_v2.6.3	CDS	13267	14328
+# Sequence Data: seqnum=37;seqlen=20597;seqhdr="scaffold_3116"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_3116	Prodigal_v2.6.3	CDS	79	633
+scaffold_3116	Prodigal_v2.6.3	CDS	575	1462
+scaffold_3116	Prodigal_v2.6.3	CDS	1720	2193
+scaffold_3116	Prodigal_v2.6.3	CDS	2249	2407
+scaffold_3116	Prodigal_v2.6.3	CDS	2591	2782
+scaffold_3116	Prodigal_v2.6.3	CDS	3137	3553
+scaffold_3116	Prodigal_v2.6.3	CDS	3609	4946
+scaffold_3116	Prodigal_v2.6.3	CDS	5160	6485
+scaffold_3116	Prodigal_v2.6.3	CDS	6743	7429
+scaffold_3116	Prodigal_v2.6.3	CDS	7395	9128
+scaffold_3116	Prodigal_v2.6.3	CDS	9373	11205
+scaffold_3116	Prodigal_v2.6.3	CDS	11221	12015
+scaffold_3116	Prodigal_v2.6.3	CDS	12192	13466
+scaffold_3116	Prodigal_v2.6.3	CDS	13575	14417
+scaffold_3116	Prodigal_v2.6.3	CDS	14812	15111
+scaffold_3116	Prodigal_v2.6.3	CDS	15156	16448
+scaffold_3116	Prodigal_v2.6.3	CDS	16711	17250
+scaffold_3116	Prodigal_v2.6.3	CDS	17556	18233
+scaffold_3116	Prodigal_v2.6.3	CDS	18220	19023
+scaffold_3116	Prodigal_v2.6.3	CDS	19122	19904
+scaffold_3116	Prodigal_v2.6.3	CDS	19904	20158
+scaffold_3116	Prodigal_v2.6.3	CDS	20145	20453
+# Sequence Data: seqnum=38;seqlen=12925;seqhdr="scaffold_3247"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_3247	Prodigal_v2.6.3	CDS	2	355
+scaffold_3247	Prodigal_v2.6.3	CDS	467	664
+scaffold_3247	Prodigal_v2.6.3	CDS	661	903
+scaffold_3247	Prodigal_v2.6.3	CDS	928	1614
+scaffold_3247	Prodigal_v2.6.3	CDS	1644	2153
+scaffold_3247	Prodigal_v2.6.3	CDS	2617	12480
+scaffold_3247	Prodigal_v2.6.3	CDS	12519	12698
+# Sequence Data: seqnum=39;seqlen=14571;seqhdr="scaffold_3307"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_3307	Prodigal_v2.6.3	CDS	71	1471
+scaffold_3307	Prodigal_v2.6.3	CDS	1590	2216
+scaffold_3307	Prodigal_v2.6.3	CDS	2209	3210
+scaffold_3307	Prodigal_v2.6.3	CDS	3212	4048
+scaffold_3307	Prodigal_v2.6.3	CDS	4157	5893
+scaffold_3307	Prodigal_v2.6.3	CDS	5945	8533
+scaffold_3307	Prodigal_v2.6.3	CDS	8555	9976
+scaffold_3307	Prodigal_v2.6.3	CDS	10512	11570
+scaffold_3307	Prodigal_v2.6.3	CDS	11656	12528
+scaffold_3307	Prodigal_v2.6.3	CDS	12714	13295
+scaffold_3307	Prodigal_v2.6.3	CDS	13321	14082
+scaffold_3307	Prodigal_v2.6.3	CDS	14083	14571
+# Sequence Data: seqnum=40;seqlen=12562;seqhdr="scaffold_3808"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_3808	Prodigal_v2.6.3	CDS	1	501
+scaffold_3808	Prodigal_v2.6.3	CDS	686	2407
+scaffold_3808	Prodigal_v2.6.3	CDS	2884	4701
+scaffold_3808	Prodigal_v2.6.3	CDS	4813	5148
+scaffold_3808	Prodigal_v2.6.3	CDS	5617	6885
+scaffold_3808	Prodigal_v2.6.3	CDS	6907	7389
+scaffold_3808	Prodigal_v2.6.3	CDS	7405	8970
+scaffold_3808	Prodigal_v2.6.3	CDS	9286	10899
+scaffold_3808	Prodigal_v2.6.3	CDS	11150	12562
+# Sequence Data: seqnum=41;seqlen=14639;seqhdr="scaffold_3947"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_3947	Prodigal_v2.6.3	CDS	1	4248
+scaffold_3947	Prodigal_v2.6.3	CDS	4354	5412
+scaffold_3947	Prodigal_v2.6.3	CDS	5609	7777
+scaffold_3947	Prodigal_v2.6.3	CDS	7936	8568
+scaffold_3947	Prodigal_v2.6.3	CDS	8905	9165
+scaffold_3947	Prodigal_v2.6.3	CDS	9352	9609
+scaffold_3947	Prodigal_v2.6.3	CDS	9636	9968
+scaffold_3947	Prodigal_v2.6.3	CDS	10329	11339
+scaffold_3947	Prodigal_v2.6.3	CDS	11504	12052
+scaffold_3947	Prodigal_v2.6.3	CDS	12101	13162
+scaffold_3947	Prodigal_v2.6.3	CDS	13348	14328
+scaffold_3947	Prodigal_v2.6.3	CDS	14341	14637
+# Sequence Data: seqnum=42;seqlen=11207;seqhdr="scaffold_4100"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_4100	Prodigal_v2.6.3	CDS	2	796
+scaffold_4100	Prodigal_v2.6.3	CDS	980	2053
+scaffold_4100	Prodigal_v2.6.3	CDS	2098	2580
+scaffold_4100	Prodigal_v2.6.3	CDS	2766	3695
+scaffold_4100	Prodigal_v2.6.3	CDS	3929	4795
+scaffold_4100	Prodigal_v2.6.3	CDS	4815	5495
+scaffold_4100	Prodigal_v2.6.3	CDS	5485	7842
+scaffold_4100	Prodigal_v2.6.3	CDS	8285	8761
+scaffold_4100	Prodigal_v2.6.3	CDS	8962	9537
+scaffold_4100	Prodigal_v2.6.3	CDS	9541	10302
+scaffold_4100	Prodigal_v2.6.3	CDS	10525	11079
+# Sequence Data: seqnum=43;seqlen=26579;seqhdr="scaffold_4120"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_4120	Prodigal_v2.6.3	CDS	1	477
+scaffold_4120	Prodigal_v2.6.3	CDS	525	1433
+scaffold_4120	Prodigal_v2.6.3	CDS	1559	2728
+scaffold_4120	Prodigal_v2.6.3	CDS	2765	3196
+scaffold_4120	Prodigal_v2.6.3	CDS	3223	4158
+scaffold_4120	Prodigal_v2.6.3	CDS	4210	5244
+scaffold_4120	Prodigal_v2.6.3	CDS	5285	5833
+scaffold_4120	Prodigal_v2.6.3	CDS	5842	6354
+scaffold_4120	Prodigal_v2.6.3	CDS	6357	7721
+scaffold_4120	Prodigal_v2.6.3	CDS	7812	9041
+scaffold_4120	Prodigal_v2.6.3	CDS	9434	9946
+scaffold_4120	Prodigal_v2.6.3	CDS	9952	10692
+scaffold_4120	Prodigal_v2.6.3	CDS	10898	11620
+scaffold_4120	Prodigal_v2.6.3	CDS	11586	13253
+scaffold_4120	Prodigal_v2.6.3	CDS	13478	14461
+scaffold_4120	Prodigal_v2.6.3	CDS	14556	16808
+scaffold_4120	Prodigal_v2.6.3	CDS	16946	18934
+scaffold_4120	Prodigal_v2.6.3	CDS	18951	20915
+scaffold_4120	Prodigal_v2.6.3	CDS	20944	21690
+scaffold_4120	Prodigal_v2.6.3	CDS	21815	22246
+scaffold_4120	Prodigal_v2.6.3	CDS	22503	22742
+scaffold_4120	Prodigal_v2.6.3	CDS	22885	23460
+scaffold_4120	Prodigal_v2.6.3	CDS	23478	24005
+scaffold_4120	Prodigal_v2.6.3	CDS	24094	24363
+scaffold_4120	Prodigal_v2.6.3	CDS	24704	26368
+# Sequence Data: seqnum=44;seqlen=11024;seqhdr="scaffold_4201"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_4201	Prodigal_v2.6.3	CDS	3	1529
+scaffold_4201	Prodigal_v2.6.3	CDS	1888	6414
+scaffold_4201	Prodigal_v2.6.3	CDS	6427	7911
+scaffold_4201	Prodigal_v2.6.3	CDS	8039	8683
+scaffold_4201	Prodigal_v2.6.3	CDS	8731	10029
+scaffold_4201	Prodigal_v2.6.3	CDS	9995	10915
+# Sequence Data: seqnum=45;seqlen=10933;seqhdr="scaffold_4250"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_4250	Prodigal_v2.6.3	CDS	3	1481
+scaffold_4250	Prodigal_v2.6.3	CDS	1524	2756
+scaffold_4250	Prodigal_v2.6.3	CDS	3006	4718
+scaffold_4250	Prodigal_v2.6.3	CDS	4984	5736
+scaffold_4250	Prodigal_v2.6.3	CDS	5743	6456
+scaffold_4250	Prodigal_v2.6.3	CDS	6456	7313
+scaffold_4250	Prodigal_v2.6.3	CDS	7672	8259
+scaffold_4250	Prodigal_v2.6.3	CDS	8312	8800
+scaffold_4250	Prodigal_v2.6.3	CDS	8824	10107
+scaffold_4250	Prodigal_v2.6.3	CDS	10174	10887
+# Sequence Data: seqnum=46;seqlen=15416;seqhdr="scaffold_4330"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_4330	Prodigal_v2.6.3	CDS	154	1290
+scaffold_4330	Prodigal_v2.6.3	CDS	1373	2191
+scaffold_4330	Prodigal_v2.6.3	CDS	2208	3542
+scaffold_4330	Prodigal_v2.6.3	CDS	3560	4225
+scaffold_4330	Prodigal_v2.6.3	CDS	4438	4728
+scaffold_4330	Prodigal_v2.6.3	CDS	4866	5366
+scaffold_4330	Prodigal_v2.6.3	CDS	5363	6091
+scaffold_4330	Prodigal_v2.6.3	CDS	6253	7386
+scaffold_4330	Prodigal_v2.6.3	CDS	7521	8303
+scaffold_4330	Prodigal_v2.6.3	CDS	8948	9211
+scaffold_4330	Prodigal_v2.6.3	CDS	9278	9868
+scaffold_4330	Prodigal_v2.6.3	CDS	9949	10788
+scaffold_4330	Prodigal_v2.6.3	CDS	11045	11986
+scaffold_4330	Prodigal_v2.6.3	CDS	12143	13072
+scaffold_4330	Prodigal_v2.6.3	CDS	13143	14387
+scaffold_4330	Prodigal_v2.6.3	CDS	14593	15156
+# Sequence Data: seqnum=47;seqlen=26446;seqhdr="scaffold_4636"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_4636	Prodigal_v2.6.3	CDS	125	451
+scaffold_4636	Prodigal_v2.6.3	CDS	572	1354
+scaffold_4636	Prodigal_v2.6.3	CDS	1392	2063
+scaffold_4636	Prodigal_v2.6.3	CDS	2179	2919
+scaffold_4636	Prodigal_v2.6.3	CDS	2906	3622
+scaffold_4636	Prodigal_v2.6.3	CDS	3777	4487
+scaffold_4636	Prodigal_v2.6.3	CDS	4590	5972
+scaffold_4636	Prodigal_v2.6.3	CDS	5991	6149
+scaffold_4636	Prodigal_v2.6.3	CDS	6172	7755
+scaffold_4636	Prodigal_v2.6.3	CDS	7776	8864
+scaffold_4636	Prodigal_v2.6.3	CDS	8886	9626
+scaffold_4636	Prodigal_v2.6.3	CDS	9593	9730
+scaffold_4636	Prodigal_v2.6.3	CDS	9755	10540
+scaffold_4636	Prodigal_v2.6.3	CDS	10563	11786
+scaffold_4636	Prodigal_v2.6.3	CDS	11870	13270
+scaffold_4636	Prodigal_v2.6.3	CDS	13279	13998
+scaffold_4636	Prodigal_v2.6.3	CDS	14020	15324
+scaffold_4636	Prodigal_v2.6.3	CDS	15473	16534
+scaffold_4636	Prodigal_v2.6.3	CDS	16562	18127
+scaffold_4636	Prodigal_v2.6.3	CDS	18164	18661
+scaffold_4636	Prodigal_v2.6.3	CDS	18665	20095
+scaffold_4636	Prodigal_v2.6.3	CDS	20038	20550
+scaffold_4636	Prodigal_v2.6.3	CDS	20540	22273
+scaffold_4636	Prodigal_v2.6.3	CDS	22276	24030
+scaffold_4636	Prodigal_v2.6.3	CDS	24441	26135
+# Sequence Data: seqnum=48;seqlen=10375;seqhdr="scaffold_4671"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_4671	Prodigal_v2.6.3	CDS	91	2475
+scaffold_4671	Prodigal_v2.6.3	CDS	2837	4930
+scaffold_4671	Prodigal_v2.6.3	CDS	5275	6183
+scaffold_4671	Prodigal_v2.6.3	CDS	6301	7053
+scaffold_4671	Prodigal_v2.6.3	CDS	7353	8291
+scaffold_4671	Prodigal_v2.6.3	CDS	8684	9709
+scaffold_4671	Prodigal_v2.6.3	CDS	9859	10374
+# Sequence Data: seqnum=49;seqlen=17776;seqhdr="scaffold_4968"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_4968	Prodigal_v2.6.3	CDS	3	86
+scaffold_4968	Prodigal_v2.6.3	CDS	191	424
+scaffold_4968	Prodigal_v2.6.3	CDS	514	1452
+scaffold_4968	Prodigal_v2.6.3	CDS	1730	2494
+scaffold_4968	Prodigal_v2.6.3	CDS	2724	2993
+scaffold_4968	Prodigal_v2.6.3	CDS	3040	3777
+scaffold_4968	Prodigal_v2.6.3	CDS	3817	4956
+scaffold_4968	Prodigal_v2.6.3	CDS	5161	6078
+scaffold_4968	Prodigal_v2.6.3	CDS	6199	6906
+scaffold_4968	Prodigal_v2.6.3	CDS	6959	8401
+scaffold_4968	Prodigal_v2.6.3	CDS	8418	9848
+scaffold_4968	Prodigal_v2.6.3	CDS	9884	11242
+scaffold_4968	Prodigal_v2.6.3	CDS	11256	12797
+scaffold_4968	Prodigal_v2.6.3	CDS	12964	13233
+scaffold_4968	Prodigal_v2.6.3	CDS	13226	13669
+scaffold_4968	Prodigal_v2.6.3	CDS	13909	15162
+scaffold_4968	Prodigal_v2.6.3	CDS	15196	15717
+scaffold_4968	Prodigal_v2.6.3	CDS	15965	17242
+# Sequence Data: seqnum=50;seqlen=9642;seqhdr="scaffold_5273"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_5273	Prodigal_v2.6.3	CDS	1	144
+scaffold_5273	Prodigal_v2.6.3	CDS	264	1187
+scaffold_5273	Prodigal_v2.6.3	CDS	1271	2383
+scaffold_5273	Prodigal_v2.6.3	CDS	2620	3237
+scaffold_5273	Prodigal_v2.6.3	CDS	3273	4466
+scaffold_5273	Prodigal_v2.6.3	CDS	4607	5422
+scaffold_5273	Prodigal_v2.6.3	CDS	5564	6433
+scaffold_5273	Prodigal_v2.6.3	CDS	6550	7131
+scaffold_5273	Prodigal_v2.6.3	CDS	7530	8258
+scaffold_5273	Prodigal_v2.6.3	CDS	8255	9373
+# Sequence Data: seqnum=51;seqlen=9154;seqhdr="scaffold_5720"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_5720	Prodigal_v2.6.3	CDS	2	595
+scaffold_5720	Prodigal_v2.6.3	CDS	668	1468
+scaffold_5720	Prodigal_v2.6.3	CDS	1694	2932
+scaffold_5720	Prodigal_v2.6.3	CDS	2929	3609
+scaffold_5720	Prodigal_v2.6.3	CDS	3902	4657
+scaffold_5720	Prodigal_v2.6.3	CDS	4657	5568
+scaffold_5720	Prodigal_v2.6.3	CDS	5576	5998
+scaffold_5720	Prodigal_v2.6.3	CDS	6224	7639
+scaffold_5720	Prodigal_v2.6.3	CDS	7651	8862
+# Sequence Data: seqnum=52;seqlen=9140;seqhdr="scaffold_5736"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_5736	Prodigal_v2.6.3	CDS	43	177
+scaffold_5736	Prodigal_v2.6.3	CDS	628	876
+scaffold_5736	Prodigal_v2.6.3	CDS	963	2126
+scaffold_5736	Prodigal_v2.6.3	CDS	2304	2774
+scaffold_5736	Prodigal_v2.6.3	CDS	2800	5178
+scaffold_5736	Prodigal_v2.6.3	CDS	5671	5886
+scaffold_5736	Prodigal_v2.6.3	CDS	6073	6312
+scaffold_5736	Prodigal_v2.6.3	CDS	6509	6991
+scaffold_5736	Prodigal_v2.6.3	CDS	6994	8502
+scaffold_5736	Prodigal_v2.6.3	CDS	8751	9140
+# Sequence Data: seqnum=53;seqlen=19214;seqhdr="scaffold_6030"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_6030	Prodigal_v2.6.3	CDS	1	1305
+scaffold_6030	Prodigal_v2.6.3	CDS	1435	1683
+scaffold_6030	Prodigal_v2.6.3	CDS	1728	2549
+scaffold_6030	Prodigal_v2.6.3	CDS	2761	3099
+scaffold_6030	Prodigal_v2.6.3	CDS	3165	3701
+scaffold_6030	Prodigal_v2.6.3	CDS	3892	6069
+scaffold_6030	Prodigal_v2.6.3	CDS	6057	7103
+scaffold_6030	Prodigal_v2.6.3	CDS	7100	7726
+scaffold_6030	Prodigal_v2.6.3	CDS	7803	8801
+scaffold_6030	Prodigal_v2.6.3	CDS	8798	9907
+scaffold_6030	Prodigal_v2.6.3	CDS	9951	10874
+scaffold_6030	Prodigal_v2.6.3	CDS	10861	11250
+scaffold_6030	Prodigal_v2.6.3	CDS	11262	11861
+scaffold_6030	Prodigal_v2.6.3	CDS	11992	12822
+scaffold_6030	Prodigal_v2.6.3	CDS	12872	13447
+scaffold_6030	Prodigal_v2.6.3	CDS	13725	15719
+scaffold_6030	Prodigal_v2.6.3	CDS	16093	16281
+scaffold_6030	Prodigal_v2.6.3	CDS	16464	17846
+scaffold_6030	Prodigal_v2.6.3	CDS	18058	19128
+# Sequence Data: seqnum=54;seqlen=8710;seqhdr="scaffold_6195"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_6195	Prodigal_v2.6.3	CDS	1	174
+scaffold_6195	Prodigal_v2.6.3	CDS	330	1622
+scaffold_6195	Prodigal_v2.6.3	CDS	1865	3115
+scaffold_6195	Prodigal_v2.6.3	CDS	3267	3551
+scaffold_6195	Prodigal_v2.6.3	CDS	3558	4490
+scaffold_6195	Prodigal_v2.6.3	CDS	4557	5981
+scaffold_6195	Prodigal_v2.6.3	CDS	6135	7079
+scaffold_6195	Prodigal_v2.6.3	CDS	7355	8710
+# Sequence Data: seqnum=55;seqlen=8658;seqhdr="scaffold_6251"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_6251	Prodigal_v2.6.3	CDS	7	678
+scaffold_6251	Prodigal_v2.6.3	CDS	681	1520
+scaffold_6251	Prodigal_v2.6.3	CDS	1522	1905
+scaffold_6251	Prodigal_v2.6.3	CDS	2096	3373
+scaffold_6251	Prodigal_v2.6.3	CDS	3422	3952
+scaffold_6251	Prodigal_v2.6.3	CDS	4066	4299
+scaffold_6251	Prodigal_v2.6.3	CDS	4324	4569
+scaffold_6251	Prodigal_v2.6.3	CDS	4654	6042
+scaffold_6251	Prodigal_v2.6.3	CDS	6091	6462
+scaffold_6251	Prodigal_v2.6.3	CDS	6638	7852
+scaffold_6251	Prodigal_v2.6.3	CDS	8237	8656
+# Sequence Data: seqnum=56;seqlen=8439;seqhdr="scaffold_6505"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_6505	Prodigal_v2.6.3	CDS	1	291
+scaffold_6505	Prodigal_v2.6.3	CDS	549	3584
+scaffold_6505	Prodigal_v2.6.3	CDS	3928	5436
+scaffold_6505	Prodigal_v2.6.3	CDS	5784	5990
+scaffold_6505	Prodigal_v2.6.3	CDS	6421	6708
+scaffold_6505	Prodigal_v2.6.3	CDS	6829	7509
+# Sequence Data: seqnum=57;seqlen=10107;seqhdr="scaffold_6632"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_6632	Prodigal_v2.6.3	CDS	1	444
+scaffold_6632	Prodigal_v2.6.3	CDS	985	1863
+scaffold_6632	Prodigal_v2.6.3	CDS	2684	5452
+scaffold_6632	Prodigal_v2.6.3	CDS	5705	6667
+scaffold_6632	Prodigal_v2.6.3	CDS	6701	7015
+scaffold_6632	Prodigal_v2.6.3	CDS	7293	7853
+scaffold_6632	Prodigal_v2.6.3	CDS	8013	8375
+scaffold_6632	Prodigal_v2.6.3	CDS	8427	9005
+scaffold_6632	Prodigal_v2.6.3	CDS	9263	10105
+# Sequence Data: seqnum=58;seqlen=7804;seqhdr="scaffold_7374"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_7374	Prodigal_v2.6.3	CDS	317	532
+scaffold_7374	Prodigal_v2.6.3	CDS	697	834
+scaffold_7374	Prodigal_v2.6.3	CDS	1614	2312
+scaffold_7374	Prodigal_v2.6.3	CDS	2465	3202
+scaffold_7374	Prodigal_v2.6.3	CDS	3189	3827
+scaffold_7374	Prodigal_v2.6.3	CDS	3853	4506
+scaffold_7374	Prodigal_v2.6.3	CDS	4595	5044
+scaffold_7374	Prodigal_v2.6.3	CDS	5333	6250
+scaffold_7374	Prodigal_v2.6.3	CDS	6243	7022
+scaffold_7374	Prodigal_v2.6.3	CDS	7241	7804
+# Sequence Data: seqnum=59;seqlen=10835;seqhdr="scaffold_7426"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_7426	Prodigal_v2.6.3	CDS	76	231
+scaffold_7426	Prodigal_v2.6.3	CDS	239	1369
+scaffold_7426	Prodigal_v2.6.3	CDS	1531	2694
+scaffold_7426	Prodigal_v2.6.3	CDS	2636	3733
+scaffold_7426	Prodigal_v2.6.3	CDS	3739	4950
+scaffold_7426	Prodigal_v2.6.3	CDS	4954	6210
+scaffold_7426	Prodigal_v2.6.3	CDS	6440	7492
+scaffold_7426	Prodigal_v2.6.3	CDS	7489	8247
+scaffold_7426	Prodigal_v2.6.3	CDS	8437	8946
+scaffold_7426	Prodigal_v2.6.3	CDS	8968	9813
+scaffold_7426	Prodigal_v2.6.3	CDS	10053	10280
+scaffold_7426	Prodigal_v2.6.3	CDS	10479	10835
+# Sequence Data: seqnum=60;seqlen=11994;seqhdr="scaffold_7432"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_7432	Prodigal_v2.6.3	CDS	280	651
+scaffold_7432	Prodigal_v2.6.3	CDS	726	1256
+scaffold_7432	Prodigal_v2.6.3	CDS	1469	2179
+scaffold_7432	Prodigal_v2.6.3	CDS	2239	2664
+scaffold_7432	Prodigal_v2.6.3	CDS	2799	3323
+scaffold_7432	Prodigal_v2.6.3	CDS	3348	3665
+scaffold_7432	Prodigal_v2.6.3	CDS	4096	4596
+scaffold_7432	Prodigal_v2.6.3	CDS	4984	5166
+scaffold_7432	Prodigal_v2.6.3	CDS	5177	6160
+scaffold_7432	Prodigal_v2.6.3	CDS	6415	6729
+scaffold_7432	Prodigal_v2.6.3	CDS	6571	7032
+scaffold_7432	Prodigal_v2.6.3	CDS	7146	7754
+scaffold_7432	Prodigal_v2.6.3	CDS	7936	8598
+scaffold_7432	Prodigal_v2.6.3	CDS	8642	9241
+scaffold_7432	Prodigal_v2.6.3	CDS	9473	9676
+scaffold_7432	Prodigal_v2.6.3	CDS	9689	10360
+scaffold_7432	Prodigal_v2.6.3	CDS	10579	10878
+scaffold_7432	Prodigal_v2.6.3	CDS	10991	11671
+scaffold_7432	Prodigal_v2.6.3	CDS	11690	11821
+# Sequence Data: seqnum=61;seqlen=13246;seqhdr="scaffold_7800"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_7800	Prodigal_v2.6.3	CDS	3	140
+scaffold_7800	Prodigal_v2.6.3	CDS	271	561
+scaffold_7800	Prodigal_v2.6.3	CDS	561	1184
+scaffold_7800	Prodigal_v2.6.3	CDS	1201	1833
+scaffold_7800	Prodigal_v2.6.3	CDS	1935	2246
+scaffold_7800	Prodigal_v2.6.3	CDS	2976	4700
+scaffold_7800	Prodigal_v2.6.3	CDS	5043	5729
+scaffold_7800	Prodigal_v2.6.3	CDS	5780	6469
+scaffold_7800	Prodigal_v2.6.3	CDS	6648	6962
+scaffold_7800	Prodigal_v2.6.3	CDS	7015	7545
+scaffold_7800	Prodigal_v2.6.3	CDS	7542	8228
+scaffold_7800	Prodigal_v2.6.3	CDS	8334	8987
+scaffold_7800	Prodigal_v2.6.3	CDS	9089	11449
+scaffold_7800	Prodigal_v2.6.3	CDS	11449	12939
+# Sequence Data: seqnum=62;seqlen=7099;seqhdr="scaffold_8610"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_8610	Prodigal_v2.6.3	CDS	3	131
+scaffold_8610	Prodigal_v2.6.3	CDS	134	1462
+scaffold_8610	Prodigal_v2.6.3	CDS	1474	5916
+scaffold_8610	Prodigal_v2.6.3	CDS	5916	7097
+# Sequence Data: seqnum=63;seqlen=6778;seqhdr="scaffold_9264"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_9264	Prodigal_v2.6.3	CDS	3	176
+scaffold_9264	Prodigal_v2.6.3	CDS	120	779
+scaffold_9264	Prodigal_v2.6.3	CDS	935	3133
+scaffold_9264	Prodigal_v2.6.3	CDS	3149	4891
+scaffold_9264	Prodigal_v2.6.3	CDS	4888	5367
+scaffold_9264	Prodigal_v2.6.3	CDS	5534	5701
+scaffold_9264	Prodigal_v2.6.3	CDS	5893	6777
+# Sequence Data: seqnum=64;seqlen=6690;seqhdr="scaffold_9461"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_9461	Prodigal_v2.6.3	CDS	3	86
+scaffold_9461	Prodigal_v2.6.3	CDS	424	639
+scaffold_9461	Prodigal_v2.6.3	CDS	636	941
+scaffold_9461	Prodigal_v2.6.3	CDS	1075	2607
+scaffold_9461	Prodigal_v2.6.3	CDS	2620	4098
+scaffold_9461	Prodigal_v2.6.3	CDS	4452	6542
+# Sequence Data: seqnum=65;seqlen=6488;seqhdr="scaffold_9938"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_9938	Prodigal_v2.6.3	CDS	2	79
+scaffold_9938	Prodigal_v2.6.3	CDS	237	1073
+scaffold_9938	Prodigal_v2.6.3	CDS	1254	2144
+scaffold_9938	Prodigal_v2.6.3	CDS	2201	3790
+scaffold_9938	Prodigal_v2.6.3	CDS	3981	6329
+# Sequence Data: seqnum=66;seqlen=6931;seqhdr="scaffold_10184"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_10184	Prodigal_v2.6.3	CDS	3	389
+scaffold_10184	Prodigal_v2.6.3	CDS	896	2695
+scaffold_10184	Prodigal_v2.6.3	CDS	2733	3500
+scaffold_10184	Prodigal_v2.6.3	CDS	3518	4327
+scaffold_10184	Prodigal_v2.6.3	CDS	4415	4897
+scaffold_10184	Prodigal_v2.6.3	CDS	4941	6422
+scaffold_10184	Prodigal_v2.6.3	CDS	6398	6502
+scaffold_10184	Prodigal_v2.6.3	CDS	6520	6930
+# Sequence Data: seqnum=67;seqlen=6538;seqhdr="scaffold_10729"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_10729	Prodigal_v2.6.3	CDS	1	498
+scaffold_10729	Prodigal_v2.6.3	CDS	485	1474
+scaffold_10729	Prodigal_v2.6.3	CDS	1527	2774
+scaffold_10729	Prodigal_v2.6.3	CDS	3715	4908
+scaffold_10729	Prodigal_v2.6.3	CDS	4953	6353
+# Sequence Data: seqnum=68;seqlen=7606;seqhdr="scaffold_11538"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_11538	Prodigal_v2.6.3	CDS	211	1158
+scaffold_11538	Prodigal_v2.6.3	CDS	1433	5500
+scaffold_11538	Prodigal_v2.6.3	CDS	6001	7236
+# Sequence Data: seqnum=69;seqlen=5912;seqhdr="scaffold_11604"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_11604	Prodigal_v2.6.3	CDS	3	161
+scaffold_11604	Prodigal_v2.6.3	CDS	139	876
+scaffold_11604	Prodigal_v2.6.3	CDS	1247	2059
+scaffold_11604	Prodigal_v2.6.3	CDS	2089	2523
+scaffold_11604	Prodigal_v2.6.3	CDS	2567	3715
+scaffold_11604	Prodigal_v2.6.3	CDS	3926	4588
+scaffold_11604	Prodigal_v2.6.3	CDS	4748	5839
+# Sequence Data: seqnum=70;seqlen=6737;seqhdr="scaffold_12371"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_12371	Prodigal_v2.6.3	CDS	3	524
+scaffold_12371	Prodigal_v2.6.3	CDS	939	2564
+scaffold_12371	Prodigal_v2.6.3	CDS	2656	2955
+scaffold_12371	Prodigal_v2.6.3	CDS	3061	3690
+scaffold_12371	Prodigal_v2.6.3	CDS	3858	4139
+scaffold_12371	Prodigal_v2.6.3	CDS	4617	5192
+scaffold_12371	Prodigal_v2.6.3	CDS	5396	6736
+# Sequence Data: seqnum=71;seqlen=5652;seqhdr="scaffold_12553"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_12553	Prodigal_v2.6.3	CDS	1	753
+scaffold_12553	Prodigal_v2.6.3	CDS	772	1872
+scaffold_12553	Prodigal_v2.6.3	CDS	1869	3188
+scaffold_12553	Prodigal_v2.6.3	CDS	3312	4520
+scaffold_12553	Prodigal_v2.6.3	CDS	4633	5652
+# Sequence Data: seqnum=72;seqlen=5652;seqhdr="scaffold_12554"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_12554	Prodigal_v2.6.3	CDS	182	445
+scaffold_12554	Prodigal_v2.6.3	CDS	732	1241
+scaffold_12554	Prodigal_v2.6.3	CDS	1231	1941
+scaffold_12554	Prodigal_v2.6.3	CDS	1990	3645
+scaffold_12554	Prodigal_v2.6.3	CDS	3709	4635
+scaffold_12554	Prodigal_v2.6.3	CDS	5065	5463
+scaffold_12554	Prodigal_v2.6.3	CDS	5500	5652
+# Sequence Data: seqnum=73;seqlen=5553;seqhdr="scaffold_12942"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_12942	Prodigal_v2.6.3	CDS	1	834
+scaffold_12942	Prodigal_v2.6.3	CDS	1179	2567
+scaffold_12942	Prodigal_v2.6.3	CDS	2590	2841
+scaffold_12942	Prodigal_v2.6.3	CDS	2849	4390
+scaffold_12942	Prodigal_v2.6.3	CDS	4387	5343
+# Sequence Data: seqnum=74;seqlen=5499;seqhdr="scaffold_13141"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_13141	Prodigal_v2.6.3	CDS	48	797
+scaffold_13141	Prodigal_v2.6.3	CDS	1393	2136
+scaffold_13141	Prodigal_v2.6.3	CDS	2133	3056
+scaffold_13141	Prodigal_v2.6.3	CDS	3153	4124
+scaffold_13141	Prodigal_v2.6.3	CDS	4342	5154
+scaffold_13141	Prodigal_v2.6.3	CDS	5173	5499
+# Sequence Data: seqnum=75;seqlen=6646;seqhdr="scaffold_13213"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_13213	Prodigal_v2.6.3	CDS	2	1348
+scaffold_13213	Prodigal_v2.6.3	CDS	1623	4040
+scaffold_13213	Prodigal_v2.6.3	CDS	4200	5201
+scaffold_13213	Prodigal_v2.6.3	CDS	5217	5387
+scaffold_13213	Prodigal_v2.6.3	CDS	5490	5987
+scaffold_13213	Prodigal_v2.6.3	CDS	6006	6545
+# Sequence Data: seqnum=76;seqlen=5261;seqhdr="scaffold_14127"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_14127	Prodigal_v2.6.3	CDS	166	843
+scaffold_14127	Prodigal_v2.6.3	CDS	989	1537
+scaffold_14127	Prodigal_v2.6.3	CDS	1612	2214
+scaffold_14127	Prodigal_v2.6.3	CDS	2373	4055
+scaffold_14127	Prodigal_v2.6.3	CDS	4173	4580
+scaffold_14127	Prodigal_v2.6.3	CDS	4613	5260
+# Sequence Data: seqnum=77;seqlen=5234;seqhdr="scaffold_14240"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_14240	Prodigal_v2.6.3	CDS	322	1458
+scaffold_14240	Prodigal_v2.6.3	CDS	1510	3228
+scaffold_14240	Prodigal_v2.6.3	CDS	3388	5124
+# Sequence Data: seqnum=78;seqlen=5567;seqhdr="scaffold_14670"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_14670	Prodigal_v2.6.3	CDS	2	334
+scaffold_14670	Prodigal_v2.6.3	CDS	1798	3108
+scaffold_14670	Prodigal_v2.6.3	CDS	3163	3519
+scaffold_14670	Prodigal_v2.6.3	CDS	3554	4960
+scaffold_14670	Prodigal_v2.6.3	CDS	5118	5567
+# Sequence Data: seqnum=79;seqlen=5521;seqhdr="scaffold_15495"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_15495	Prodigal_v2.6.3	CDS	185	604
+scaffold_15495	Prodigal_v2.6.3	CDS	595	1077
+scaffold_15495	Prodigal_v2.6.3	CDS	1106	2188
+scaffold_15495	Prodigal_v2.6.3	CDS	2406	2822
+scaffold_15495	Prodigal_v2.6.3	CDS	2838	3179
+scaffold_15495	Prodigal_v2.6.3	CDS	3309	4664
+scaffold_15495	Prodigal_v2.6.3	CDS	4690	5520
+# Sequence Data: seqnum=80;seqlen=8849;seqhdr="scaffold_15814"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_15814	Prodigal_v2.6.3	CDS	85	939
+scaffold_15814	Prodigal_v2.6.3	CDS	1138	1953
+scaffold_15814	Prodigal_v2.6.3	CDS	2279	2743
+scaffold_15814	Prodigal_v2.6.3	CDS	2827	4902
+scaffold_15814	Prodigal_v2.6.3	CDS	4880	5275
+scaffold_15814	Prodigal_v2.6.3	CDS	5466	5816
+scaffold_15814	Prodigal_v2.6.3	CDS	5824	6408
+scaffold_15814	Prodigal_v2.6.3	CDS	6453	6761
+scaffold_15814	Prodigal_v2.6.3	CDS	6761	7474
+scaffold_15814	Prodigal_v2.6.3	CDS	7677	8426
+scaffold_15814	Prodigal_v2.6.3	CDS	8487	8849
+# Sequence Data: seqnum=81;seqlen=4794;seqhdr="scaffold_16348"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_16348	Prodigal_v2.6.3	CDS	1	2547
+scaffold_16348	Prodigal_v2.6.3	CDS	2866	3621
+scaffold_16348	Prodigal_v2.6.3	CDS	3814	4794
+# Sequence Data: seqnum=82;seqlen=4729;seqhdr="scaffold_16716"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_16716	Prodigal_v2.6.3	CDS	3	224
+scaffold_16716	Prodigal_v2.6.3	CDS	784	1809
+scaffold_16716	Prodigal_v2.6.3	CDS	1825	2391
+scaffold_16716	Prodigal_v2.6.3	CDS	2486	4369
+scaffold_16716	Prodigal_v2.6.3	CDS	4641	4727
+# Sequence Data: seqnum=83;seqlen=4466;seqhdr="scaffold_18330"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_18330	Prodigal_v2.6.3	CDS	3	407
+scaffold_18330	Prodigal_v2.6.3	CDS	553	1983
+scaffold_18330	Prodigal_v2.6.3	CDS	2873	3301
+scaffold_18330	Prodigal_v2.6.3	CDS	3319	3720
+scaffold_18330	Prodigal_v2.6.3	CDS	3908	4321
+# Sequence Data: seqnum=84;seqlen=4857;seqhdr="scaffold_18799"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_18799	Prodigal_v2.6.3	CDS	1	837
+scaffold_18799	Prodigal_v2.6.3	CDS	856	1620
+scaffold_18799	Prodigal_v2.6.3	CDS	1897	2658
+scaffold_18799	Prodigal_v2.6.3	CDS	2627	3706
+scaffold_18799	Prodigal_v2.6.3	CDS	3723	4502
+scaffold_18799	Prodigal_v2.6.3	CDS	4532	4855
+# Sequence Data: seqnum=85;seqlen=4200;seqhdr="scaffold_20251"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_20251	Prodigal_v2.6.3	CDS	418	1062
+scaffold_20251	Prodigal_v2.6.3	CDS	1780	4020
+# Sequence Data: seqnum=86;seqlen=4066;seqhdr="scaffold_21404"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="39|Rickettsia_conorii_Malish_7|B|32.4|11|1";gc_cont=32.40;transl_table=11;uses_sd=1
+scaffold_21404	Prodigal_v2.6.3	CDS	84	1304
+scaffold_21404	Prodigal_v2.6.3	CDS	1291	1503
+scaffold_21404	Prodigal_v2.6.3	CDS	2142	3143
+scaffold_21404	Prodigal_v2.6.3	CDS	3158	3850
+# Sequence Data: seqnum=87;seqlen=3963;seqhdr="scaffold_22335"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="24|Ignisphaera_aggregans_DSM_17230|A|35.7|11|1";gc_cont=35.70;transl_table=11;uses_sd=1
+scaffold_22335	Prodigal_v2.6.3	CDS	201	359
+scaffold_22335	Prodigal_v2.6.3	CDS	668	1849
+scaffold_22335	Prodigal_v2.6.3	CDS	1864	2133
+scaffold_22335	Prodigal_v2.6.3	CDS	2238	3269
+scaffold_22335	Prodigal_v2.6.3	CDS	3421	3963
+# Sequence Data: seqnum=88;seqlen=3712;seqhdr="scaffold_24764"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_24764	Prodigal_v2.6.3	CDS	192	1634
+scaffold_24764	Prodigal_v2.6.3	CDS	1704	2672
+scaffold_24764	Prodigal_v2.6.3	CDS	2862	3710
+# Sequence Data: seqnum=89;seqlen=5938;seqhdr="scaffold_29065"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_29065	Prodigal_v2.6.3	CDS	123	713
+scaffold_29065	Prodigal_v2.6.3	CDS	741	1229
+scaffold_29065	Prodigal_v2.6.3	CDS	1240	2427
+scaffold_29065	Prodigal_v2.6.3	CDS	2442	2759
+scaffold_29065	Prodigal_v2.6.3	CDS	2762	3037
+scaffold_29065	Prodigal_v2.6.3	CDS	3206	3469
+scaffold_29065	Prodigal_v2.6.3	CDS	3719	4441
+scaffold_29065	Prodigal_v2.6.3	CDS	4481	5821
+# Sequence Data: seqnum=90;seqlen=3332;seqhdr="scaffold_29562"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_29562	Prodigal_v2.6.3	CDS	176	1561
+scaffold_29562	Prodigal_v2.6.3	CDS	1715	3076
+# Sequence Data: seqnum=91;seqlen=3145;seqhdr="scaffold_40165"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_40165	Prodigal_v2.6.3	CDS	2	559
+scaffold_40165	Prodigal_v2.6.3	CDS	578	1213
+scaffold_40165	Prodigal_v2.6.3	CDS	1412	2341
+scaffold_40165	Prodigal_v2.6.3	CDS	2739	3083
+# Sequence Data: seqnum=92;seqlen=3040;seqhdr="scaffold_42078"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_42078	Prodigal_v2.6.3	CDS	2	256
+scaffold_42078	Prodigal_v2.6.3	CDS	429	1112
+scaffold_42078	Prodigal_v2.6.3	CDS	1182	1937
+scaffold_42078	Prodigal_v2.6.3	CDS	1994	2593
+scaffold_42078	Prodigal_v2.6.3	CDS	2782	3039
+# Sequence Data: seqnum=93;seqlen=5318;seqhdr="scaffold_42731"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_42731	Prodigal_v2.6.3	CDS	1	1260
+scaffold_42731	Prodigal_v2.6.3	CDS	1283	1789
+scaffold_42731	Prodigal_v2.6.3	CDS	2172	2855
+scaffold_42731	Prodigal_v2.6.3	CDS	3230	3712
+scaffold_42731	Prodigal_v2.6.3	CDS	3726	5318
+# Sequence Data: seqnum=94;seqlen=4806;seqhdr="scaffold_44858"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_44858	Prodigal_v2.6.3	CDS	1	1242
+scaffold_44858	Prodigal_v2.6.3	CDS	1539	2189
+scaffold_44858	Prodigal_v2.6.3	CDS	2143	2592
+scaffold_44858	Prodigal_v2.6.3	CDS	2891	3793
+scaffold_44858	Prodigal_v2.6.3	CDS	3947	4621
+scaffold_44858	Prodigal_v2.6.3	CDS	4618	4806
+# Sequence Data: seqnum=95;seqlen=2268;seqhdr="scaffold_55648"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_55648	Prodigal_v2.6.3	CDS	1	981
+scaffold_55648	Prodigal_v2.6.3	CDS	1070	2188
+# Sequence Data: seqnum=96;seqlen=2143;seqhdr="scaffold_61154"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_61154	Prodigal_v2.6.3	CDS	98	571
+scaffold_61154	Prodigal_v2.6.3	CDS	635	1759
+scaffold_61154	Prodigal_v2.6.3	CDS	1811	2143
+# Sequence Data: seqnum=97;seqlen=2382;seqhdr="scaffold_74373"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_74373	Prodigal_v2.6.3	CDS	1	354
+scaffold_74373	Prodigal_v2.6.3	CDS	472	1548
+scaffold_74373	Prodigal_v2.6.3	CDS	1556	2380
+# Sequence Data: seqnum=98;seqlen=2608;seqhdr="scaffold_103820"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="44|Thermoplasma_volcanium_GSS1|A|39.9|11|1";gc_cont=39.90;transl_table=11;uses_sd=1
+scaffold_103820	Prodigal_v2.6.3	CDS	2	304
+scaffold_103820	Prodigal_v2.6.3	CDS	391	1686
+scaffold_103820	Prodigal_v2.6.3	CDS	1634	2608

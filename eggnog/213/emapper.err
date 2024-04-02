@@ -1,0 +1,6 @@
+[1;32mFunctional annotation of hits...[0m
+0 5.4836273193359375e-06 0.00 q/s (% mem usage: 23.10, % mem avail: 76.95)
+[1;32mDecorating gff file /emapper_web_jobs/emapper_jobs/user_data/MM_p10_phch/out.emapper.decorated.gff...[0m
+500 232.85933589935303 2.15 q/s (% mem usage: 23.20, % mem avail: 76.78)
+1000 232.87612009048462 4.29 q/s (% mem usage: 23.20, % mem avail: 76.78)
+1262 232.94559621810913 5.42 q/s (% mem usage: 23.20, % mem avail: 76.78)

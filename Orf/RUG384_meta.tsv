@@ -1,0 +1,3332 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=72170;seqhdr="scaffold_88"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_88	Prodigal_v2.6.3	CDS	1	672
+scaffold_88	Prodigal_v2.6.3	CDS	747	1745
+scaffold_88	Prodigal_v2.6.3	CDS	1742	1921
+scaffold_88	Prodigal_v2.6.3	CDS	2176	2511
+scaffold_88	Prodigal_v2.6.3	CDS	2794	3732
+scaffold_88	Prodigal_v2.6.3	CDS	3729	4181
+scaffold_88	Prodigal_v2.6.3	CDS	4272	4679
+scaffold_88	Prodigal_v2.6.3	CDS	4729	5556
+scaffold_88	Prodigal_v2.6.3	CDS	5705	6535
+scaffold_88	Prodigal_v2.6.3	CDS	6651	6911
+scaffold_88	Prodigal_v2.6.3	CDS	7286	8293
+scaffold_88	Prodigal_v2.6.3	CDS	8494	9156
+scaffold_88	Prodigal_v2.6.3	CDS	9263	10444
+scaffold_88	Prodigal_v2.6.3	CDS	11194	11445
+scaffold_88	Prodigal_v2.6.3	CDS	11617	11910
+scaffold_88	Prodigal_v2.6.3	CDS	11930	12283
+scaffold_88	Prodigal_v2.6.3	CDS	12843	13298
+scaffold_88	Prodigal_v2.6.3	CDS	13304	13738
+scaffold_88	Prodigal_v2.6.3	CDS	13741	14313
+scaffold_88	Prodigal_v2.6.3	CDS	14370	14786
+scaffold_88	Prodigal_v2.6.3	CDS	14800	15222
+scaffold_88	Prodigal_v2.6.3	CDS	15206	16516
+scaffold_88	Prodigal_v2.6.3	CDS	16849	18549
+scaffold_88	Prodigal_v2.6.3	CDS	18542	19273
+scaffold_88	Prodigal_v2.6.3	CDS	19294	19917
+scaffold_88	Prodigal_v2.6.3	CDS	19958	20302
+scaffold_88	Prodigal_v2.6.3	CDS	20320	21246
+scaffold_88	Prodigal_v2.6.3	CDS	21246	21707
+scaffold_88	Prodigal_v2.6.3	CDS	21704	25741
+scaffold_88	Prodigal_v2.6.3	CDS	25741	26196
+scaffold_88	Prodigal_v2.6.3	CDS	26193	26801
+scaffold_88	Prodigal_v2.6.3	CDS	26804	27373
+scaffold_88	Prodigal_v2.6.3	CDS	27374	30172
+scaffold_88	Prodigal_v2.6.3	CDS	30662	31162
+scaffold_88	Prodigal_v2.6.3	CDS	31159	31665
+scaffold_88	Prodigal_v2.6.3	CDS	31662	32024
+scaffold_88	Prodigal_v2.6.3	CDS	32361	32723
+scaffold_88	Prodigal_v2.6.3	CDS	32720	33016
+scaffold_88	Prodigal_v2.6.3	CDS	33080	33532
+scaffold_88	Prodigal_v2.6.3	CDS	33574	34866
+scaffold_88	Prodigal_v2.6.3	CDS	34881	35540
+scaffold_88	Prodigal_v2.6.3	CDS	35506	36783
+scaffold_88	Prodigal_v2.6.3	CDS	36787	38571
+scaffold_88	Prodigal_v2.6.3	CDS	38537	38875
+scaffold_88	Prodigal_v2.6.3	CDS	38998	39666
+scaffold_88	Prodigal_v2.6.3	CDS	39668	40036
+scaffold_88	Prodigal_v2.6.3	CDS	40126	40521
+scaffold_88	Prodigal_v2.6.3	CDS	40511	40894
+scaffold_88	Prodigal_v2.6.3	CDS	40902	41624
+scaffold_88	Prodigal_v2.6.3	CDS	41772	43511
+scaffold_88	Prodigal_v2.6.3	CDS	43498	44850
+scaffold_88	Prodigal_v2.6.3	CDS	44847	45119
+scaffold_88	Prodigal_v2.6.3	CDS	45268	45687
+scaffold_88	Prodigal_v2.6.3	CDS	46117	46323
+scaffold_88	Prodigal_v2.6.3	CDS	46323	46544
+scaffold_88	Prodigal_v2.6.3	CDS	46537	46644
+scaffold_88	Prodigal_v2.6.3	CDS	46658	46981
+scaffold_88	Prodigal_v2.6.3	CDS	46965	47342
+scaffold_88	Prodigal_v2.6.3	CDS	47339	47506
+scaffold_88	Prodigal_v2.6.3	CDS	47522	47884
+scaffold_88	Prodigal_v2.6.3	CDS	47890	48084
+scaffold_88	Prodigal_v2.6.3	CDS	48247	48429
+scaffold_88	Prodigal_v2.6.3	CDS	48417	48635
+scaffold_88	Prodigal_v2.6.3	CDS	48644	48844
+scaffold_88	Prodigal_v2.6.3	CDS	48884	49243
+scaffold_88	Prodigal_v2.6.3	CDS	49243	49530
+scaffold_88	Prodigal_v2.6.3	CDS	49527	49808
+scaffold_88	Prodigal_v2.6.3	CDS	49827	51344
+scaffold_88	Prodigal_v2.6.3	CDS	51325	52149
+scaffold_88	Prodigal_v2.6.3	CDS	52149	52328
+scaffold_88	Prodigal_v2.6.3	CDS	52318	52773
+scaffold_88	Prodigal_v2.6.3	CDS	52767	53060
+scaffold_88	Prodigal_v2.6.3	CDS	53076	53312
+scaffold_88	Prodigal_v2.6.3	CDS	53319	53735
+scaffold_88	Prodigal_v2.6.3	CDS	53780	54055
+scaffold_88	Prodigal_v2.6.3	CDS	54052	54597
+scaffold_88	Prodigal_v2.6.3	CDS	54594	55409
+scaffold_88	Prodigal_v2.6.3	CDS	55428	55904
+scaffold_88	Prodigal_v2.6.3	CDS	55901	56236
+scaffold_88	Prodigal_v2.6.3	CDS	56257	56973
+scaffold_88	Prodigal_v2.6.3	CDS	56973	57992
+scaffold_88	Prodigal_v2.6.3	CDS	58006	59964
+scaffold_88	Prodigal_v2.6.3	CDS	59961	60245
+scaffold_88	Prodigal_v2.6.3	CDS	60341	60721
+scaffold_88	Prodigal_v2.6.3	CDS	60715	60903
+scaffold_88	Prodigal_v2.6.3	CDS	60999	61280
+scaffold_88	Prodigal_v2.6.3	CDS	61274	61747
+scaffold_88	Prodigal_v2.6.3	CDS	61758	61925
+scaffold_88	Prodigal_v2.6.3	CDS	61933	62226
+scaffold_88	Prodigal_v2.6.3	CDS	62190	62426
+scaffold_88	Prodigal_v2.6.3	CDS	62438	62647
+scaffold_88	Prodigal_v2.6.3	CDS	62899	63168
+scaffold_88	Prodigal_v2.6.3	CDS	63192	63446
+scaffold_88	Prodigal_v2.6.3	CDS	63627	64019
+scaffold_88	Prodigal_v2.6.3	CDS	64205	65845
+scaffold_88	Prodigal_v2.6.3	CDS	65944	66414
+scaffold_88	Prodigal_v2.6.3	CDS	66645	67361
+scaffold_88	Prodigal_v2.6.3	CDS	67460	67840
+scaffold_88	Prodigal_v2.6.3	CDS	68072	68785
+scaffold_88	Prodigal_v2.6.3	CDS	68939	69697
+scaffold_88	Prodigal_v2.6.3	CDS	70036	70905
+scaffold_88	Prodigal_v2.6.3	CDS	70902	71486
+scaffold_88	Prodigal_v2.6.3	CDS	71895	72170
+# Sequence Data: seqnum=2;seqlen=55121;seqhdr="scaffold_121"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_121	Prodigal_v2.6.3	CDS	3	2312
+scaffold_121	Prodigal_v2.6.3	CDS	2858	4051
+scaffold_121	Prodigal_v2.6.3	CDS	4213	5133
+scaffold_121	Prodigal_v2.6.3	CDS	5136	6209
+scaffold_121	Prodigal_v2.6.3	CDS	6206	6997
+scaffold_121	Prodigal_v2.6.3	CDS	6990	7703
+scaffold_121	Prodigal_v2.6.3	CDS	8000	8182
+scaffold_121	Prodigal_v2.6.3	CDS	8224	8739
+scaffold_121	Prodigal_v2.6.3	CDS	8979	10307
+scaffold_121	Prodigal_v2.6.3	CDS	10698	12575
+scaffold_121	Prodigal_v2.6.3	CDS	13666	14943
+scaffold_121	Prodigal_v2.6.3	CDS	14930	16147
+scaffold_121	Prodigal_v2.6.3	CDS	16183	17655
+scaffold_121	Prodigal_v2.6.3	CDS	17659	18417
+scaffold_121	Prodigal_v2.6.3	CDS	18423	19319
+scaffold_121	Prodigal_v2.6.3	CDS	19369	20430
+scaffold_121	Prodigal_v2.6.3	CDS	20482	21690
+scaffold_121	Prodigal_v2.6.3	CDS	21780	22955
+scaffold_121	Prodigal_v2.6.3	CDS	23019	24068
+scaffold_121	Prodigal_v2.6.3	CDS	24093	24722
+scaffold_121	Prodigal_v2.6.3	CDS	24722	25714
+scaffold_121	Prodigal_v2.6.3	CDS	25711	26883
+scaffold_121	Prodigal_v2.6.3	CDS	26880	27572
+scaffold_121	Prodigal_v2.6.3	CDS	27744	29156
+scaffold_121	Prodigal_v2.6.3	CDS	29229	30323
+scaffold_121	Prodigal_v2.6.3	CDS	30391	31818
+scaffold_121	Prodigal_v2.6.3	CDS	31902	33323
+scaffold_121	Prodigal_v2.6.3	CDS	33486	34409
+scaffold_121	Prodigal_v2.6.3	CDS	34519	35985
+scaffold_121	Prodigal_v2.6.3	CDS	36032	36994
+scaffold_121	Prodigal_v2.6.3	CDS	36987	38399
+scaffold_121	Prodigal_v2.6.3	CDS	38445	39872
+scaffold_121	Prodigal_v2.6.3	CDS	39899	40573
+scaffold_121	Prodigal_v2.6.3	CDS	40743	41690
+scaffold_121	Prodigal_v2.6.3	CDS	41694	43406
+scaffold_121	Prodigal_v2.6.3	CDS	43444	44262
+scaffold_121	Prodigal_v2.6.3	CDS	44277	45401
+scaffold_121	Prodigal_v2.6.3	CDS	45405	46373
+scaffold_121	Prodigal_v2.6.3	CDS	46451	46639
+scaffold_121	Prodigal_v2.6.3	CDS	46717	47112
+scaffold_121	Prodigal_v2.6.3	CDS	47250	48635
+scaffold_121	Prodigal_v2.6.3	CDS	48641	49585
+scaffold_121	Prodigal_v2.6.3	CDS	49608	49943
+scaffold_121	Prodigal_v2.6.3	CDS	50133	52388
+scaffold_121	Prodigal_v2.6.3	CDS	52435	53349
+scaffold_121	Prodigal_v2.6.3	CDS	53578	54510
+scaffold_121	Prodigal_v2.6.3	CDS	54833	55120
+# Sequence Data: seqnum=3;seqlen=43793;seqhdr="scaffold_317"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_317	Prodigal_v2.6.3	CDS	2	148
+scaffold_317	Prodigal_v2.6.3	CDS	252	1433
+scaffold_317	Prodigal_v2.6.3	CDS	1433	1633
+scaffold_317	Prodigal_v2.6.3	CDS	1710	2693
+scaffold_317	Prodigal_v2.6.3	CDS	3080	4798
+scaffold_317	Prodigal_v2.6.3	CDS	4930	5748
+scaffold_317	Prodigal_v2.6.3	CDS	6051	27314
+scaffold_317	Prodigal_v2.6.3	CDS	27410	28630
+scaffold_317	Prodigal_v2.6.3	CDS	28735	30438
+scaffold_317	Prodigal_v2.6.3	CDS	30669	31691
+scaffold_317	Prodigal_v2.6.3	CDS	31933	32967
+scaffold_317	Prodigal_v2.6.3	CDS	33242	33451
+scaffold_317	Prodigal_v2.6.3	CDS	34001	35746
+scaffold_317	Prodigal_v2.6.3	CDS	35901	37634
+scaffold_317	Prodigal_v2.6.3	CDS	37638	39281
+scaffold_317	Prodigal_v2.6.3	CDS	39310	40500
+scaffold_317	Prodigal_v2.6.3	CDS	41498	41638
+scaffold_317	Prodigal_v2.6.3	CDS	41613	43424
+scaffold_317	Prodigal_v2.6.3	CDS	43415	43753
+# Sequence Data: seqnum=4;seqlen=35891;seqhdr="scaffold_452"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="15|Chlorobium_phaeobacteroides_BS1|B|48.9|11|0";gc_cont=48.90;transl_table=11;uses_sd=0
+scaffold_452	Prodigal_v2.6.3	CDS	1	1968
+scaffold_452	Prodigal_v2.6.3	CDS	2011	2709
+scaffold_452	Prodigal_v2.6.3	CDS	3030	5924
+scaffold_452	Prodigal_v2.6.3	CDS	5973	8171
+scaffold_452	Prodigal_v2.6.3	CDS	8259	9899
+scaffold_452	Prodigal_v2.6.3	CDS	10026	10913
+scaffold_452	Prodigal_v2.6.3	CDS	11201	27406
+scaffold_452	Prodigal_v2.6.3	CDS	27722	29296
+scaffold_452	Prodigal_v2.6.3	CDS	29278	29814
+scaffold_452	Prodigal_v2.6.3	CDS	29854	32574
+scaffold_452	Prodigal_v2.6.3	CDS	32701	34920
+scaffold_452	Prodigal_v2.6.3	CDS	34925	35890
+# Sequence Data: seqnum=5;seqlen=41152;seqhdr="scaffold_793"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="15|Chlorobium_phaeobacteroides_BS1|B|48.9|11|0";gc_cont=48.90;transl_table=11;uses_sd=0
+scaffold_793	Prodigal_v2.6.3	CDS	3	95
+scaffold_793	Prodigal_v2.6.3	CDS	113	1459
+scaffold_793	Prodigal_v2.6.3	CDS	1695	4748
+scaffold_793	Prodigal_v2.6.3	CDS	4745	5854
+scaffold_793	Prodigal_v2.6.3	CDS	5970	7907
+scaffold_793	Prodigal_v2.6.3	CDS	8047	9675
+scaffold_793	Prodigal_v2.6.3	CDS	9706	10134
+scaffold_793	Prodigal_v2.6.3	CDS	10219	13560
+scaffold_793	Prodigal_v2.6.3	CDS	13568	13879
+scaffold_793	Prodigal_v2.6.3	CDS	13818	14084
+scaffold_793	Prodigal_v2.6.3	CDS	14099	14545
+scaffold_793	Prodigal_v2.6.3	CDS	14538	15035
+scaffold_793	Prodigal_v2.6.3	CDS	15017	36079
+scaffold_793	Prodigal_v2.6.3	CDS	36204	37865
+scaffold_793	Prodigal_v2.6.3	CDS	38034	41150
+# Sequence Data: seqnum=6;seqlen=44737;seqhdr="scaffold_875"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_875	Prodigal_v2.6.3	CDS	1	345
+scaffold_875	Prodigal_v2.6.3	CDS	440	2140
+scaffold_875	Prodigal_v2.6.3	CDS	2146	3555
+scaffold_875	Prodigal_v2.6.3	CDS	3573	4448
+scaffold_875	Prodigal_v2.6.3	CDS	4417	6072
+scaffold_875	Prodigal_v2.6.3	CDS	6082	7737
+scaffold_875	Prodigal_v2.6.3	CDS	7734	8594
+scaffold_875	Prodigal_v2.6.3	CDS	8702	9220
+scaffold_875	Prodigal_v2.6.3	CDS	9865	11229
+scaffold_875	Prodigal_v2.6.3	CDS	11276	13258
+scaffold_875	Prodigal_v2.6.3	CDS	13357	13953
+scaffold_875	Prodigal_v2.6.3	CDS	14384	15655
+scaffold_875	Prodigal_v2.6.3	CDS	15652	18708
+scaffold_875	Prodigal_v2.6.3	CDS	18803	19468
+scaffold_875	Prodigal_v2.6.3	CDS	19428	19688
+scaffold_875	Prodigal_v2.6.3	CDS	19731	20501
+scaffold_875	Prodigal_v2.6.3	CDS	20561	21607
+scaffold_875	Prodigal_v2.6.3	CDS	21821	22834
+scaffold_875	Prodigal_v2.6.3	CDS	22958	24340
+scaffold_875	Prodigal_v2.6.3	CDS	24337	24516
+scaffold_875	Prodigal_v2.6.3	CDS	25243	27180
+scaffold_875	Prodigal_v2.6.3	CDS	27183	28208
+scaffold_875	Prodigal_v2.6.3	CDS	28303	29259
+scaffold_875	Prodigal_v2.6.3	CDS	29324	30427
+scaffold_875	Prodigal_v2.6.3	CDS	30424	34215
+scaffold_875	Prodigal_v2.6.3	CDS	34230	35258
+scaffold_875	Prodigal_v2.6.3	CDS	35341	36405
+scaffold_875	Prodigal_v2.6.3	CDS	36408	37448
+scaffold_875	Prodigal_v2.6.3	CDS	37611	38540
+scaffold_875	Prodigal_v2.6.3	CDS	38794	39108
+scaffold_875	Prodigal_v2.6.3	CDS	39506	40168
+scaffold_875	Prodigal_v2.6.3	CDS	40165	40578
+scaffold_875	Prodigal_v2.6.3	CDS	40656	41285
+scaffold_875	Prodigal_v2.6.3	CDS	41554	41874
+scaffold_875	Prodigal_v2.6.3	CDS	42100	42639
+scaffold_875	Prodigal_v2.6.3	CDS	42705	43382
+scaffold_875	Prodigal_v2.6.3	CDS	43459	43788
+scaffold_875	Prodigal_v2.6.3	CDS	43985	44239
+scaffold_875	Prodigal_v2.6.3	CDS	44303	44476
+scaffold_875	Prodigal_v2.6.3	CDS	44473	44667
+# Sequence Data: seqnum=7;seqlen=25416;seqhdr="scaffold_897"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_897	Prodigal_v2.6.3	CDS	3	323
+scaffold_897	Prodigal_v2.6.3	CDS	402	2384
+scaffold_897	Prodigal_v2.6.3	CDS	2596	3351
+scaffold_897	Prodigal_v2.6.3	CDS	3365	4588
+scaffold_897	Prodigal_v2.6.3	CDS	4805	5605
+scaffold_897	Prodigal_v2.6.3	CDS	5640	6356
+scaffold_897	Prodigal_v2.6.3	CDS	6492	7058
+scaffold_897	Prodigal_v2.6.3	CDS	7071	7916
+scaffold_897	Prodigal_v2.6.3	CDS	7966	8454
+scaffold_897	Prodigal_v2.6.3	CDS	8530	9291
+scaffold_897	Prodigal_v2.6.3	CDS	9312	9842
+scaffold_897	Prodigal_v2.6.3	CDS	9855	10496
+scaffold_897	Prodigal_v2.6.3	CDS	10590	11009
+scaffold_897	Prodigal_v2.6.3	CDS	11193	11879
+scaffold_897	Prodigal_v2.6.3	CDS	11950	13395
+scaffold_897	Prodigal_v2.6.3	CDS	13647	14543
+scaffold_897	Prodigal_v2.6.3	CDS	14914	15378
+scaffold_897	Prodigal_v2.6.3	CDS	15488	17512
+scaffold_897	Prodigal_v2.6.3	CDS	17568	18560
+scaffold_897	Prodigal_v2.6.3	CDS	18652	19536
+scaffold_897	Prodigal_v2.6.3	CDS	19533	20918
+scaffold_897	Prodigal_v2.6.3	CDS	21188	21967
+scaffold_897	Prodigal_v2.6.3	CDS	22071	23420
+scaffold_897	Prodigal_v2.6.3	CDS	23482	23913
+scaffold_897	Prodigal_v2.6.3	CDS	24140	25048
+# Sequence Data: seqnum=8;seqlen=37957;seqhdr="scaffold_926"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_926	Prodigal_v2.6.3	CDS	224	316
+scaffold_926	Prodigal_v2.6.3	CDS	496	1677
+scaffold_926	Prodigal_v2.6.3	CDS	1904	2362
+scaffold_926	Prodigal_v2.6.3	CDS	2730	2852
+scaffold_926	Prodigal_v2.6.3	CDS	3338	7864
+scaffold_926	Prodigal_v2.6.3	CDS	8441	9949
+scaffold_926	Prodigal_v2.6.3	CDS	10487	11305
+scaffold_926	Prodigal_v2.6.3	CDS	11508	13370
+scaffold_926	Prodigal_v2.6.3	CDS	13670	14332
+scaffold_926	Prodigal_v2.6.3	CDS	14469	15953
+scaffold_926	Prodigal_v2.6.3	CDS	15969	16790
+scaffold_926	Prodigal_v2.6.3	CDS	16820	18124
+scaffold_926	Prodigal_v2.6.3	CDS	18159	18347
+scaffold_926	Prodigal_v2.6.3	CDS	18340	18930
+scaffold_926	Prodigal_v2.6.3	CDS	18989	20539
+scaffold_926	Prodigal_v2.6.3	CDS	20740	21180
+scaffold_926	Prodigal_v2.6.3	CDS	21167	21823
+scaffold_926	Prodigal_v2.6.3	CDS	21845	22282
+scaffold_926	Prodigal_v2.6.3	CDS	22309	22947
+scaffold_926	Prodigal_v2.6.3	CDS	22940	23593
+scaffold_926	Prodigal_v2.6.3	CDS	23593	24216
+scaffold_926	Prodigal_v2.6.3	CDS	24231	25334
+scaffold_926	Prodigal_v2.6.3	CDS	25359	26120
+scaffold_926	Prodigal_v2.6.3	CDS	26124	26897
+scaffold_926	Prodigal_v2.6.3	CDS	26916	27983
+scaffold_926	Prodigal_v2.6.3	CDS	27995	28759
+scaffold_926	Prodigal_v2.6.3	CDS	28769	29839
+scaffold_926	Prodigal_v2.6.3	CDS	29877	30101
+scaffold_926	Prodigal_v2.6.3	CDS	30142	30381
+scaffold_926	Prodigal_v2.6.3	CDS	30407	31450
+scaffold_926	Prodigal_v2.6.3	CDS	31523	32824
+scaffold_926	Prodigal_v2.6.3	CDS	32876	33769
+scaffold_926	Prodigal_v2.6.3	CDS	33810	35243
+scaffold_926	Prodigal_v2.6.3	CDS	35304	36620
+scaffold_926	Prodigal_v2.6.3	CDS	36770	37957
+# Sequence Data: seqnum=9;seqlen=31264;seqhdr="scaffold_1061"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1061	Prodigal_v2.6.3	CDS	485	790
+scaffold_1061	Prodigal_v2.6.3	CDS	787	2454
+scaffold_1061	Prodigal_v2.6.3	CDS	2456	7060
+scaffold_1061	Prodigal_v2.6.3	CDS	7193	7636
+scaffold_1061	Prodigal_v2.6.3	CDS	7926	8855
+scaffold_1061	Prodigal_v2.6.3	CDS	8873	10177
+scaffold_1061	Prodigal_v2.6.3	CDS	10260	10751
+scaffold_1061	Prodigal_v2.6.3	CDS	10811	11422
+scaffold_1061	Prodigal_v2.6.3	CDS	11424	12755
+scaffold_1061	Prodigal_v2.6.3	CDS	12854	13381
+scaffold_1061	Prodigal_v2.6.3	CDS	13409	14809
+scaffold_1061	Prodigal_v2.6.3	CDS	14926	15192
+scaffold_1061	Prodigal_v2.6.3	CDS	15391	16470
+scaffold_1061	Prodigal_v2.6.3	CDS	16502	17380
+scaffold_1061	Prodigal_v2.6.3	CDS	17377	18330
+scaffold_1061	Prodigal_v2.6.3	CDS	18332	18685
+scaffold_1061	Prodigal_v2.6.3	CDS	18707	21727
+scaffold_1061	Prodigal_v2.6.3	CDS	21748	22053
+scaffold_1061	Prodigal_v2.6.3	CDS	22046	22312
+scaffold_1061	Prodigal_v2.6.3	CDS	22309	23382
+scaffold_1061	Prodigal_v2.6.3	CDS	23398	23874
+scaffold_1061	Prodigal_v2.6.3	CDS	24091	27864
+scaffold_1061	Prodigal_v2.6.3	CDS	27884	28612
+scaffold_1061	Prodigal_v2.6.3	CDS	28693	30411
+scaffold_1061	Prodigal_v2.6.3	CDS	30412	31263
+# Sequence Data: seqnum=10;seqlen=27293;seqhdr="scaffold_1132"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1132	Prodigal_v2.6.3	CDS	388	1317
+scaffold_1132	Prodigal_v2.6.3	CDS	1484	2479
+scaffold_1132	Prodigal_v2.6.3	CDS	2661	3212
+scaffold_1132	Prodigal_v2.6.3	CDS	3775	4434
+scaffold_1132	Prodigal_v2.6.3	CDS	4572	4970
+scaffold_1132	Prodigal_v2.6.3	CDS	5030	5380
+scaffold_1132	Prodigal_v2.6.3	CDS	5559	5825
+scaffold_1132	Prodigal_v2.6.3	CDS	6046	9138
+scaffold_1132	Prodigal_v2.6.3	CDS	9430	10518
+scaffold_1132	Prodigal_v2.6.3	CDS	10738	11406
+scaffold_1132	Prodigal_v2.6.3	CDS	11406	11816
+scaffold_1132	Prodigal_v2.6.3	CDS	11819	12010
+scaffold_1132	Prodigal_v2.6.3	CDS	12105	13376
+scaffold_1132	Prodigal_v2.6.3	CDS	13373	15103
+scaffold_1132	Prodigal_v2.6.3	CDS	15246	15725
+scaffold_1132	Prodigal_v2.6.3	CDS	15932	16378
+scaffold_1132	Prodigal_v2.6.3	CDS	16595	16798
+scaffold_1132	Prodigal_v2.6.3	CDS	16822	17922
+scaffold_1132	Prodigal_v2.6.3	CDS	18221	20110
+scaffold_1132	Prodigal_v2.6.3	CDS	20103	20711
+scaffold_1132	Prodigal_v2.6.3	CDS	20984	21568
+scaffold_1132	Prodigal_v2.6.3	CDS	22190	22570
+scaffold_1132	Prodigal_v2.6.3	CDS	22813	23124
+scaffold_1132	Prodigal_v2.6.3	CDS	23105	23782
+scaffold_1132	Prodigal_v2.6.3	CDS	23977	25653
+scaffold_1132	Prodigal_v2.6.3	CDS	25960	27291
+# Sequence Data: seqnum=11;seqlen=21165;seqhdr="scaffold_1272"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1272	Prodigal_v2.6.3	CDS	1	120
+scaffold_1272	Prodigal_v2.6.3	CDS	127	1206
+scaffold_1272	Prodigal_v2.6.3	CDS	1261	2256
+scaffold_1272	Prodigal_v2.6.3	CDS	2326	2589
+scaffold_1272	Prodigal_v2.6.3	CDS	2608	3087
+scaffold_1272	Prodigal_v2.6.3	CDS	3945	6509
+scaffold_1272	Prodigal_v2.6.3	CDS	6553	6849
+scaffold_1272	Prodigal_v2.6.3	CDS	6842	7048
+scaffold_1272	Prodigal_v2.6.3	CDS	7332	7538
+scaffold_1272	Prodigal_v2.6.3	CDS	7550	9340
+scaffold_1272	Prodigal_v2.6.3	CDS	10146	11753
+scaffold_1272	Prodigal_v2.6.3	CDS	11961	12266
+scaffold_1272	Prodigal_v2.6.3	CDS	12285	13124
+scaffold_1272	Prodigal_v2.6.3	CDS	13148	13618
+scaffold_1272	Prodigal_v2.6.3	CDS	13691	14647
+scaffold_1272	Prodigal_v2.6.3	CDS	14713	15381
+scaffold_1272	Prodigal_v2.6.3	CDS	15443	15997
+scaffold_1272	Prodigal_v2.6.3	CDS	16044	16724
+scaffold_1272	Prodigal_v2.6.3	CDS	17067	17417
+scaffold_1272	Prodigal_v2.6.3	CDS	17435	17869
+scaffold_1272	Prodigal_v2.6.3	CDS	17933	18358
+scaffold_1272	Prodigal_v2.6.3	CDS	18537	19502
+scaffold_1272	Prodigal_v2.6.3	CDS	19522	19728
+scaffold_1272	Prodigal_v2.6.3	CDS	19800	21047
+# Sequence Data: seqnum=12;seqlen=38890;seqhdr="scaffold_1393"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_1393	Prodigal_v2.6.3	CDS	1	5451
+scaffold_1393	Prodigal_v2.6.3	CDS	5466	7658
+scaffold_1393	Prodigal_v2.6.3	CDS	7642	8307
+scaffold_1393	Prodigal_v2.6.3	CDS	8294	26887
+scaffold_1393	Prodigal_v2.6.3	CDS	27030	28325
+scaffold_1393	Prodigal_v2.6.3	CDS	28327	28695
+scaffold_1393	Prodigal_v2.6.3	CDS	28971	29765
+scaffold_1393	Prodigal_v2.6.3	CDS	29907	33257
+scaffold_1393	Prodigal_v2.6.3	CDS	33702	34139
+scaffold_1393	Prodigal_v2.6.3	CDS	34091	34540
+scaffold_1393	Prodigal_v2.6.3	CDS	34533	35321
+scaffold_1393	Prodigal_v2.6.3	CDS	35334	36164
+scaffold_1393	Prodigal_v2.6.3	CDS	36169	37107
+scaffold_1393	Prodigal_v2.6.3	CDS	37238	38851
+# Sequence Data: seqnum=13;seqlen=32898;seqhdr="scaffold_1445"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1445	Prodigal_v2.6.3	CDS	95	1021
+scaffold_1445	Prodigal_v2.6.3	CDS	1084	2316
+scaffold_1445	Prodigal_v2.6.3	CDS	2333	3166
+scaffold_1445	Prodigal_v2.6.3	CDS	3247	7425
+scaffold_1445	Prodigal_v2.6.3	CDS	7422	7640
+scaffold_1445	Prodigal_v2.6.3	CDS	7667	9094
+scaffold_1445	Prodigal_v2.6.3	CDS	9367	11115
+scaffold_1445	Prodigal_v2.6.3	CDS	11117	13117
+scaffold_1445	Prodigal_v2.6.3	CDS	13595	13864
+scaffold_1445	Prodigal_v2.6.3	CDS	13970	15040
+scaffold_1445	Prodigal_v2.6.3	CDS	15337	15597
+scaffold_1445	Prodigal_v2.6.3	CDS	15757	16236
+scaffold_1445	Prodigal_v2.6.3	CDS	16390	16755
+scaffold_1445	Prodigal_v2.6.3	CDS	16964	18079
+scaffold_1445	Prodigal_v2.6.3	CDS	18251	19477
+scaffold_1445	Prodigal_v2.6.3	CDS	19909	21105
+scaffold_1445	Prodigal_v2.6.3	CDS	21309	22052
+scaffold_1445	Prodigal_v2.6.3	CDS	22211	23575
+scaffold_1445	Prodigal_v2.6.3	CDS	23568	25775
+scaffold_1445	Prodigal_v2.6.3	CDS	25925	28840
+scaffold_1445	Prodigal_v2.6.3	CDS	29250	30479
+scaffold_1445	Prodigal_v2.6.3	CDS	30535	31341
+scaffold_1445	Prodigal_v2.6.3	CDS	31486	32814
+# Sequence Data: seqnum=14;seqlen=19893;seqhdr="scaffold_1447"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_1447	Prodigal_v2.6.3	CDS	3	1457
+scaffold_1447	Prodigal_v2.6.3	CDS	1476	1934
+scaffold_1447	Prodigal_v2.6.3	CDS	2099	3106
+scaffold_1447	Prodigal_v2.6.3	CDS	3410	4180
+scaffold_1447	Prodigal_v2.6.3	CDS	4186	5436
+scaffold_1447	Prodigal_v2.6.3	CDS	5504	6460
+scaffold_1447	Prodigal_v2.6.3	CDS	6557	6793
+scaffold_1447	Prodigal_v2.6.3	CDS	6843	7589
+scaffold_1447	Prodigal_v2.6.3	CDS	7591	8538
+scaffold_1447	Prodigal_v2.6.3	CDS	8624	9535
+scaffold_1447	Prodigal_v2.6.3	CDS	9652	10683
+scaffold_1447	Prodigal_v2.6.3	CDS	10789	11361
+scaffold_1447	Prodigal_v2.6.3	CDS	11604	11783
+scaffold_1447	Prodigal_v2.6.3	CDS	11823	12323
+scaffold_1447	Prodigal_v2.6.3	CDS	12466	13701
+scaffold_1447	Prodigal_v2.6.3	CDS	13882	14520
+scaffold_1447	Prodigal_v2.6.3	CDS	14626	15117
+scaffold_1447	Prodigal_v2.6.3	CDS	15244	15801
+scaffold_1447	Prodigal_v2.6.3	CDS	16067	17146
+scaffold_1447	Prodigal_v2.6.3	CDS	17149	17700
+scaffold_1447	Prodigal_v2.6.3	CDS	17943	18803
+scaffold_1447	Prodigal_v2.6.3	CDS	19162	19893
+# Sequence Data: seqnum=15;seqlen=22866;seqhdr="scaffold_1456"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_1456	Prodigal_v2.6.3	CDS	2	379
+scaffold_1456	Prodigal_v2.6.3	CDS	724	1944
+scaffold_1456	Prodigal_v2.6.3	CDS	2292	3566
+scaffold_1456	Prodigal_v2.6.3	CDS	3797	5251
+scaffold_1456	Prodigal_v2.6.3	CDS	5459	6511
+scaffold_1456	Prodigal_v2.6.3	CDS	6802	7929
+scaffold_1456	Prodigal_v2.6.3	CDS	8061	9752
+scaffold_1456	Prodigal_v2.6.3	CDS	10009	10866
+scaffold_1456	Prodigal_v2.6.3	CDS	11073	12092
+scaffold_1456	Prodigal_v2.6.3	CDS	12160	12702
+scaffold_1456	Prodigal_v2.6.3	CDS	12717	13847
+scaffold_1456	Prodigal_v2.6.3	CDS	13957	14541
+scaffold_1456	Prodigal_v2.6.3	CDS	14541	15425
+scaffold_1456	Prodigal_v2.6.3	CDS	15583	16587
+scaffold_1456	Prodigal_v2.6.3	CDS	16658	18355
+scaffold_1456	Prodigal_v2.6.3	CDS	18534	19769
+scaffold_1456	Prodigal_v2.6.3	CDS	19981	20364
+scaffold_1456	Prodigal_v2.6.3	CDS	20500	21258
+scaffold_1456	Prodigal_v2.6.3	CDS	21317	22642
+# Sequence Data: seqnum=16;seqlen=30196;seqhdr="scaffold_1546"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1546	Prodigal_v2.6.3	CDS	1	456
+scaffold_1546	Prodigal_v2.6.3	CDS	880	2979
+scaffold_1546	Prodigal_v2.6.3	CDS	3017	3553
+scaffold_1546	Prodigal_v2.6.3	CDS	3641	3811
+scaffold_1546	Prodigal_v2.6.3	CDS	3808	4287
+scaffold_1546	Prodigal_v2.6.3	CDS	4442	5356
+scaffold_1546	Prodigal_v2.6.3	CDS	5458	6474
+scaffold_1546	Prodigal_v2.6.3	CDS	6576	7202
+scaffold_1546	Prodigal_v2.6.3	CDS	7409	8521
+scaffold_1546	Prodigal_v2.6.3	CDS	8582	9580
+scaffold_1546	Prodigal_v2.6.3	CDS	9602	11095
+scaffold_1546	Prodigal_v2.6.3	CDS	11171	12541
+scaffold_1546	Prodigal_v2.6.3	CDS	12568	14631
+scaffold_1546	Prodigal_v2.6.3	CDS	14816	15259
+scaffold_1546	Prodigal_v2.6.3	CDS	15589	16167
+scaffold_1546	Prodigal_v2.6.3	CDS	16266	16724
+scaffold_1546	Prodigal_v2.6.3	CDS	16911	17147
+scaffold_1546	Prodigal_v2.6.3	CDS	17295	17570
+scaffold_1546	Prodigal_v2.6.3	CDS	17567	17848
+scaffold_1546	Prodigal_v2.6.3	CDS	18096	18404
+scaffold_1546	Prodigal_v2.6.3	CDS	18406	18771
+scaffold_1546	Prodigal_v2.6.3	CDS	18913	19302
+scaffold_1546	Prodigal_v2.6.3	CDS	19542	19706
+scaffold_1546	Prodigal_v2.6.3	CDS	20384	21109
+scaffold_1546	Prodigal_v2.6.3	CDS	21536	23026
+scaffold_1546	Prodigal_v2.6.3	CDS	23411	24289
+scaffold_1546	Prodigal_v2.6.3	CDS	24291	25121
+scaffold_1546	Prodigal_v2.6.3	CDS	25161	25352
+scaffold_1546	Prodigal_v2.6.3	CDS	25565	28357
+scaffold_1546	Prodigal_v2.6.3	CDS	28420	28515
+scaffold_1546	Prodigal_v2.6.3	CDS	28542	28655
+scaffold_1546	Prodigal_v2.6.3	CDS	28704	28922
+scaffold_1546	Prodigal_v2.6.3	CDS	28976	29122
+scaffold_1546	Prodigal_v2.6.3	CDS	29119	29244
+scaffold_1546	Prodigal_v2.6.3	CDS	29532	29987
+# Sequence Data: seqnum=17;seqlen=18455;seqhdr="scaffold_1678"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_1678	Prodigal_v2.6.3	CDS	195	983
+scaffold_1678	Prodigal_v2.6.3	CDS	1040	1528
+scaffold_1678	Prodigal_v2.6.3	CDS	1545	2051
+scaffold_1678	Prodigal_v2.6.3	CDS	2180	3109
+scaffold_1678	Prodigal_v2.6.3	CDS	3130	3627
+scaffold_1678	Prodigal_v2.6.3	CDS	3669	4307
+scaffold_1678	Prodigal_v2.6.3	CDS	4335	4607
+scaffold_1678	Prodigal_v2.6.3	CDS	4546	4809
+scaffold_1678	Prodigal_v2.6.3	CDS	4869	6047
+scaffold_1678	Prodigal_v2.6.3	CDS	6142	7848
+scaffold_1678	Prodigal_v2.6.3	CDS	7927	9054
+scaffold_1678	Prodigal_v2.6.3	CDS	9210	9968
+scaffold_1678	Prodigal_v2.6.3	CDS	9990	11195
+scaffold_1678	Prodigal_v2.6.3	CDS	11226	12965
+scaffold_1678	Prodigal_v2.6.3	CDS	12962	13906
+scaffold_1678	Prodigal_v2.6.3	CDS	13993	16098
+scaffold_1678	Prodigal_v2.6.3	CDS	16402	17691
+scaffold_1678	Prodigal_v2.6.3	CDS	17867	18454
+# Sequence Data: seqnum=18;seqlen=18071;seqhdr="scaffold_1739"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_1739	Prodigal_v2.6.3	CDS	142	609
+scaffold_1739	Prodigal_v2.6.3	CDS	689	1222
+scaffold_1739	Prodigal_v2.6.3	CDS	1241	1468
+scaffold_1739	Prodigal_v2.6.3	CDS	1560	1982
+scaffold_1739	Prodigal_v2.6.3	CDS	2072	3127
+scaffold_1739	Prodigal_v2.6.3	CDS	3234	4721
+scaffold_1739	Prodigal_v2.6.3	CDS	4807	5067
+scaffold_1739	Prodigal_v2.6.3	CDS	5198	6073
+scaffold_1739	Prodigal_v2.6.3	CDS	6256	8133
+scaffold_1739	Prodigal_v2.6.3	CDS	8145	9020
+scaffold_1739	Prodigal_v2.6.3	CDS	9131	9985
+scaffold_1739	Prodigal_v2.6.3	CDS	10111	10563
+scaffold_1739	Prodigal_v2.6.3	CDS	10613	12304
+scaffold_1739	Prodigal_v2.6.3	CDS	12319	12876
+scaffold_1739	Prodigal_v2.6.3	CDS	12976	13773
+scaffold_1739	Prodigal_v2.6.3	CDS	13875	15941
+scaffold_1739	Prodigal_v2.6.3	CDS	16125	18071
+# Sequence Data: seqnum=19;seqlen=17792;seqhdr="scaffold_1797"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1797	Prodigal_v2.6.3	CDS	3	80
+scaffold_1797	Prodigal_v2.6.3	CDS	322	489
+scaffold_1797	Prodigal_v2.6.3	CDS	522	743
+scaffold_1797	Prodigal_v2.6.3	CDS	896	1120
+scaffold_1797	Prodigal_v2.6.3	CDS	1276	1902
+scaffold_1797	Prodigal_v2.6.3	CDS	2262	2852
+scaffold_1797	Prodigal_v2.6.3	CDS	3051	3821
+scaffold_1797	Prodigal_v2.6.3	CDS	3984	5288
+scaffold_1797	Prodigal_v2.6.3	CDS	5419	6207
+scaffold_1797	Prodigal_v2.6.3	CDS	6498	7958
+scaffold_1797	Prodigal_v2.6.3	CDS	7948	8253
+scaffold_1797	Prodigal_v2.6.3	CDS	8260	8625
+scaffold_1797	Prodigal_v2.6.3	CDS	8978	9091
+scaffold_1797	Prodigal_v2.6.3	CDS	9720	11207
+scaffold_1797	Prodigal_v2.6.3	CDS	11446	11562
+scaffold_1797	Prodigal_v2.6.3	CDS	11594	15259
+scaffold_1797	Prodigal_v2.6.3	CDS	15314	16852
+scaffold_1797	Prodigal_v2.6.3	CDS	16922	17077
+scaffold_1797	Prodigal_v2.6.3	CDS	17251	17790
+# Sequence Data: seqnum=20;seqlen=27752;seqhdr="scaffold_1820"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_1820	Prodigal_v2.6.3	CDS	3	602
+scaffold_1820	Prodigal_v2.6.3	CDS	705	1415
+scaffold_1820	Prodigal_v2.6.3	CDS	1420	2196
+scaffold_1820	Prodigal_v2.6.3	CDS	2189	3136
+scaffold_1820	Prodigal_v2.6.3	CDS	3149	3988
+scaffold_1820	Prodigal_v2.6.3	CDS	4071	5342
+scaffold_1820	Prodigal_v2.6.3	CDS	5502	6197
+scaffold_1820	Prodigal_v2.6.3	CDS	6252	7265
+scaffold_1820	Prodigal_v2.6.3	CDS	7258	8022
+scaffold_1820	Prodigal_v2.6.3	CDS	8139	9017
+scaffold_1820	Prodigal_v2.6.3	CDS	9156	9935
+scaffold_1820	Prodigal_v2.6.3	CDS	10165	11778
+scaffold_1820	Prodigal_v2.6.3	CDS	11785	13167
+scaffold_1820	Prodigal_v2.6.3	CDS	13232	14209
+scaffold_1820	Prodigal_v2.6.3	CDS	14241	14906
+scaffold_1820	Prodigal_v2.6.3	CDS	14934	15167
+scaffold_1820	Prodigal_v2.6.3	CDS	15170	15526
+scaffold_1820	Prodigal_v2.6.3	CDS	15935	17296
+scaffold_1820	Prodigal_v2.6.3	CDS	17558	18670
+scaffold_1820	Prodigal_v2.6.3	CDS	18674	19804
+scaffold_1820	Prodigal_v2.6.3	CDS	19806	20636
+scaffold_1820	Prodigal_v2.6.3	CDS	20638	20904
+scaffold_1820	Prodigal_v2.6.3	CDS	20897	22909
+scaffold_1820	Prodigal_v2.6.3	CDS	22992	23303
+scaffold_1820	Prodigal_v2.6.3	CDS	23300	24028
+scaffold_1820	Prodigal_v2.6.3	CDS	24084	26606
+scaffold_1820	Prodigal_v2.6.3	CDS	26769	27752
+# Sequence Data: seqnum=21;seqlen=18648;seqhdr="scaffold_1836"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_1836	Prodigal_v2.6.3	CDS	1	681
+scaffold_1836	Prodigal_v2.6.3	CDS	947	1261
+scaffold_1836	Prodigal_v2.6.3	CDS	1363	2709
+scaffold_1836	Prodigal_v2.6.3	CDS	2791	3372
+scaffold_1836	Prodigal_v2.6.3	CDS	3491	4249
+scaffold_1836	Prodigal_v2.6.3	CDS	4258	6651
+scaffold_1836	Prodigal_v2.6.3	CDS	6735	7208
+scaffold_1836	Prodigal_v2.6.3	CDS	7212	8156
+scaffold_1836	Prodigal_v2.6.3	CDS	8165	8959
+scaffold_1836	Prodigal_v2.6.3	CDS	8946	10307
+scaffold_1836	Prodigal_v2.6.3	CDS	10428	11468
+scaffold_1836	Prodigal_v2.6.3	CDS	11519	12262
+scaffold_1836	Prodigal_v2.6.3	CDS	12252	14720
+scaffold_1836	Prodigal_v2.6.3	CDS	14714	15601
+scaffold_1836	Prodigal_v2.6.3	CDS	15598	16242
+scaffold_1836	Prodigal_v2.6.3	CDS	16546	17643
+scaffold_1836	Prodigal_v2.6.3	CDS	17782	18474
+scaffold_1836	Prodigal_v2.6.3	CDS	18575	18646
+# Sequence Data: seqnum=22;seqlen=28807;seqhdr="scaffold_1870"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_1870	Prodigal_v2.6.3	CDS	2	538
+scaffold_1870	Prodigal_v2.6.3	CDS	745	981
+scaffold_1870	Prodigal_v2.6.3	CDS	1177	1443
+scaffold_1870	Prodigal_v2.6.3	CDS	1507	1701
+scaffold_1870	Prodigal_v2.6.3	CDS	1922	2656
+scaffold_1870	Prodigal_v2.6.3	CDS	2808	3056
+scaffold_1870	Prodigal_v2.6.3	CDS	3282	4067
+scaffold_1870	Prodigal_v2.6.3	CDS	4358	5281
+scaffold_1870	Prodigal_v2.6.3	CDS	5548	5778
+scaffold_1870	Prodigal_v2.6.3	CDS	6400	7296
+scaffold_1870	Prodigal_v2.6.3	CDS	7636	9576
+scaffold_1870	Prodigal_v2.6.3	CDS	9611	10036
+scaffold_1870	Prodigal_v2.6.3	CDS	10073	10873
+scaffold_1870	Prodigal_v2.6.3	CDS	11115	11816
+scaffold_1870	Prodigal_v2.6.3	CDS	11922	13532
+scaffold_1870	Prodigal_v2.6.3	CDS	13662	14399
+scaffold_1870	Prodigal_v2.6.3	CDS	14689	15318
+scaffold_1870	Prodigal_v2.6.3	CDS	15376	16056
+scaffold_1870	Prodigal_v2.6.3	CDS	16103	17383
+scaffold_1870	Prodigal_v2.6.3	CDS	17577	19034
+scaffold_1870	Prodigal_v2.6.3	CDS	18973	20133
+scaffold_1870	Prodigal_v2.6.3	CDS	20478	21152
+scaffold_1870	Prodigal_v2.6.3	CDS	21209	23935
+scaffold_1870	Prodigal_v2.6.3	CDS	23942	27022
+scaffold_1870	Prodigal_v2.6.3	CDS	27209	28438
+scaffold_1870	Prodigal_v2.6.3	CDS	28740	28805
+# Sequence Data: seqnum=23;seqlen=17274;seqhdr="scaffold_1914"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_1914	Prodigal_v2.6.3	CDS	3	3161
+scaffold_1914	Prodigal_v2.6.3	CDS	3294	3632
+scaffold_1914	Prodigal_v2.6.3	CDS	3696	5408
+scaffold_1914	Prodigal_v2.6.3	CDS	5521	6003
+scaffold_1914	Prodigal_v2.6.3	CDS	6005	7636
+scaffold_1914	Prodigal_v2.6.3	CDS	7683	9401
+scaffold_1914	Prodigal_v2.6.3	CDS	9565	10830
+scaffold_1914	Prodigal_v2.6.3	CDS	10965	12095
+scaffold_1914	Prodigal_v2.6.3	CDS	12211	12741
+scaffold_1914	Prodigal_v2.6.3	CDS	12886	14115
+scaffold_1914	Prodigal_v2.6.3	CDS	14177	15484
+scaffold_1914	Prodigal_v2.6.3	CDS	15605	16852
+scaffold_1914	Prodigal_v2.6.3	CDS	17112	17273
+# Sequence Data: seqnum=24;seqlen=20853;seqhdr="scaffold_2111"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_2111	Prodigal_v2.6.3	CDS	2	184
+scaffold_2111	Prodigal_v2.6.3	CDS	395	1609
+scaffold_2111	Prodigal_v2.6.3	CDS	1751	2383
+scaffold_2111	Prodigal_v2.6.3	CDS	2866	4158
+scaffold_2111	Prodigal_v2.6.3	CDS	4459	6078
+scaffold_2111	Prodigal_v2.6.3	CDS	6246	7253
+scaffold_2111	Prodigal_v2.6.3	CDS	7965	8591
+scaffold_2111	Prodigal_v2.6.3	CDS	8618	9436
+scaffold_2111	Prodigal_v2.6.3	CDS	9462	9779
+scaffold_2111	Prodigal_v2.6.3	CDS	9905	11062
+scaffold_2111	Prodigal_v2.6.3	CDS	11141	12235
+scaffold_2111	Prodigal_v2.6.3	CDS	12336	13445
+scaffold_2111	Prodigal_v2.6.3	CDS	13488	14255
+scaffold_2111	Prodigal_v2.6.3	CDS	14287	15909
+scaffold_2111	Prodigal_v2.6.3	CDS	15955	17577
+scaffold_2111	Prodigal_v2.6.3	CDS	17731	19200
+scaffold_2111	Prodigal_v2.6.3	CDS	19436	20851
+# Sequence Data: seqnum=25;seqlen=16724;seqhdr="scaffold_2170"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_2170	Prodigal_v2.6.3	CDS	1	864
+scaffold_2170	Prodigal_v2.6.3	CDS	928	1821
+scaffold_2170	Prodigal_v2.6.3	CDS	1954	2709
+scaffold_2170	Prodigal_v2.6.3	CDS	3201	5996
+scaffold_2170	Prodigal_v2.6.3	CDS	6022	7620
+scaffold_2170	Prodigal_v2.6.3	CDS	7634	7960
+scaffold_2170	Prodigal_v2.6.3	CDS	7957	9171
+scaffold_2170	Prodigal_v2.6.3	CDS	9168	9674
+scaffold_2170	Prodigal_v2.6.3	CDS	9675	12803
+scaffold_2170	Prodigal_v2.6.3	CDS	12845	14833
+scaffold_2170	Prodigal_v2.6.3	CDS	14936	15496
+scaffold_2170	Prodigal_v2.6.3	CDS	15514	16650
+scaffold_2170	Prodigal_v2.6.3	CDS	16647	16724
+# Sequence Data: seqnum=26;seqlen=16034;seqhdr="scaffold_2231"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_2231	Prodigal_v2.6.3	CDS	1	6951
+scaffold_2231	Prodigal_v2.6.3	CDS	7110	8177
+scaffold_2231	Prodigal_v2.6.3	CDS	8465	9997
+scaffold_2231	Prodigal_v2.6.3	CDS	10089	10481
+scaffold_2231	Prodigal_v2.6.3	CDS	10929	11447
+scaffold_2231	Prodigal_v2.6.3	CDS	11514	14054
+scaffold_2231	Prodigal_v2.6.3	CDS	14436	16034
+# Sequence Data: seqnum=27;seqlen=19792;seqhdr="scaffold_2246"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_2246	Prodigal_v2.6.3	CDS	1	966
+scaffold_2246	Prodigal_v2.6.3	CDS	1087	1425
+scaffold_2246	Prodigal_v2.6.3	CDS	1588	1695
+scaffold_2246	Prodigal_v2.6.3	CDS	1914	2618
+scaffold_2246	Prodigal_v2.6.3	CDS	2691	3470
+scaffold_2246	Prodigal_v2.6.3	CDS	3563	4726
+scaffold_2246	Prodigal_v2.6.3	CDS	4799	5107
+scaffold_2246	Prodigal_v2.6.3	CDS	5198	6076
+scaffold_2246	Prodigal_v2.6.3	CDS	6194	7102
+scaffold_2246	Prodigal_v2.6.3	CDS	7548	8153
+scaffold_2246	Prodigal_v2.6.3	CDS	8150	9013
+scaffold_2246	Prodigal_v2.6.3	CDS	9010	9816
+scaffold_2246	Prodigal_v2.6.3	CDS	9813	10487
+scaffold_2246	Prodigal_v2.6.3	CDS	10918	13044
+scaffold_2246	Prodigal_v2.6.3	CDS	13057	13608
+scaffold_2246	Prodigal_v2.6.3	CDS	13721	14917
+scaffold_2246	Prodigal_v2.6.3	CDS	15008	15658
+scaffold_2246	Prodigal_v2.6.3	CDS	15703	15840
+scaffold_2246	Prodigal_v2.6.3	CDS	15924	16820
+scaffold_2246	Prodigal_v2.6.3	CDS	17329	18891
+scaffold_2246	Prodigal_v2.6.3	CDS	19166	19792
+# Sequence Data: seqnum=28;seqlen=16302;seqhdr="scaffold_2253"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_2253	Prodigal_v2.6.3	CDS	1	150
+scaffold_2253	Prodigal_v2.6.3	CDS	294	1100
+scaffold_2253	Prodigal_v2.6.3	CDS	1423	2433
+scaffold_2253	Prodigal_v2.6.3	CDS	3007	3792
+scaffold_2253	Prodigal_v2.6.3	CDS	3861	4058
+scaffold_2253	Prodigal_v2.6.3	CDS	4183	4410
+scaffold_2253	Prodigal_v2.6.3	CDS	4407	5525
+scaffold_2253	Prodigal_v2.6.3	CDS	5660	5842
+scaffold_2253	Prodigal_v2.6.3	CDS	5835	6080
+scaffold_2253	Prodigal_v2.6.3	CDS	6448	7017
+scaffold_2253	Prodigal_v2.6.3	CDS	7541	7774
+scaffold_2253	Prodigal_v2.6.3	CDS	7794	7967
+scaffold_2253	Prodigal_v2.6.3	CDS	8275	9255
+scaffold_2253	Prodigal_v2.6.3	CDS	9371	9739
+scaffold_2253	Prodigal_v2.6.3	CDS	9929	10429
+scaffold_2253	Prodigal_v2.6.3	CDS	10506	11642
+scaffold_2253	Prodigal_v2.6.3	CDS	12032	13405
+scaffold_2253	Prodigal_v2.6.3	CDS	13407	13781
+scaffold_2253	Prodigal_v2.6.3	CDS	14201	14533
+scaffold_2253	Prodigal_v2.6.3	CDS	14533	14832
+scaffold_2253	Prodigal_v2.6.3	CDS	14983	16302
+# Sequence Data: seqnum=29;seqlen=15942;seqhdr="scaffold_2256"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_2256	Prodigal_v2.6.3	CDS	47	3811
+scaffold_2256	Prodigal_v2.6.3	CDS	3857	7852
+scaffold_2256	Prodigal_v2.6.3	CDS	8249	9538
+scaffold_2256	Prodigal_v2.6.3	CDS	9641	10957
+scaffold_2256	Prodigal_v2.6.3	CDS	10960	11919
+scaffold_2256	Prodigal_v2.6.3	CDS	11923	14310
+scaffold_2256	Prodigal_v2.6.3	CDS	14315	15940
+# Sequence Data: seqnum=30;seqlen=16205;seqhdr="scaffold_2438"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_2438	Prodigal_v2.6.3	CDS	2	445
+scaffold_2438	Prodigal_v2.6.3	CDS	574	1275
+scaffold_2438	Prodigal_v2.6.3	CDS	1501	1737
+scaffold_2438	Prodigal_v2.6.3	CDS	1737	2141
+scaffold_2438	Prodigal_v2.6.3	CDS	2192	3523
+scaffold_2438	Prodigal_v2.6.3	CDS	3770	5062
+scaffold_2438	Prodigal_v2.6.3	CDS	5272	6378
+scaffold_2438	Prodigal_v2.6.3	CDS	6507	8750
+scaffold_2438	Prodigal_v2.6.3	CDS	8847	10193
+scaffold_2438	Prodigal_v2.6.3	CDS	10391	11308
+scaffold_2438	Prodigal_v2.6.3	CDS	11342	12112
+scaffold_2438	Prodigal_v2.6.3	CDS	12162	13265
+scaffold_2438	Prodigal_v2.6.3	CDS	13502	14464
+scaffold_2438	Prodigal_v2.6.3	CDS	14788	15378
+scaffold_2438	Prodigal_v2.6.3	CDS	15347	15955
+# Sequence Data: seqnum=31;seqlen=15555;seqhdr="scaffold_2463"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_2463	Prodigal_v2.6.3	CDS	1	900
+scaffold_2463	Prodigal_v2.6.3	CDS	1004	1966
+scaffold_2463	Prodigal_v2.6.3	CDS	2030	3142
+scaffold_2463	Prodigal_v2.6.3	CDS	3394	4479
+scaffold_2463	Prodigal_v2.6.3	CDS	4512	5765
+scaffold_2463	Prodigal_v2.6.3	CDS	5996	6691
+scaffold_2463	Prodigal_v2.6.3	CDS	6763	7092
+scaffold_2463	Prodigal_v2.6.3	CDS	7274	7795
+scaffold_2463	Prodigal_v2.6.3	CDS	7883	9055
+scaffold_2463	Prodigal_v2.6.3	CDS	9134	11089
+scaffold_2463	Prodigal_v2.6.3	CDS	11374	12765
+scaffold_2463	Prodigal_v2.6.3	CDS	12790	13617
+scaffold_2463	Prodigal_v2.6.3	CDS	13980	15554
+# Sequence Data: seqnum=32;seqlen=16346;seqhdr="scaffold_2466"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_2466	Prodigal_v2.6.3	CDS	1	159
+scaffold_2466	Prodigal_v2.6.3	CDS	326	769
+scaffold_2466	Prodigal_v2.6.3	CDS	887	1243
+scaffold_2466	Prodigal_v2.6.3	CDS	1569	2282
+scaffold_2466	Prodigal_v2.6.3	CDS	2806	3024
+scaffold_2466	Prodigal_v2.6.3	CDS	3365	3622
+scaffold_2466	Prodigal_v2.6.3	CDS	4089	4436
+scaffold_2466	Prodigal_v2.6.3	CDS	4439	4750
+scaffold_2466	Prodigal_v2.6.3	CDS	4940	5494
+scaffold_2466	Prodigal_v2.6.3	CDS	5804	8716
+scaffold_2466	Prodigal_v2.6.3	CDS	8869	9369
+scaffold_2466	Prodigal_v2.6.3	CDS	9580	10689
+scaffold_2466	Prodigal_v2.6.3	CDS	10693	12417
+scaffold_2466	Prodigal_v2.6.3	CDS	12414	13505
+scaffold_2466	Prodigal_v2.6.3	CDS	13664	14713
+scaffold_2466	Prodigal_v2.6.3	CDS	14936	15316
+scaffold_2466	Prodigal_v2.6.3	CDS	15774	15947
+scaffold_2466	Prodigal_v2.6.3	CDS	16003	16344
+# Sequence Data: seqnum=33;seqlen=24192;seqhdr="scaffold_2559"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_2559	Prodigal_v2.6.3	CDS	1	441
+scaffold_2559	Prodigal_v2.6.3	CDS	531	1655
+scaffold_2559	Prodigal_v2.6.3	CDS	2062	2274
+scaffold_2559	Prodigal_v2.6.3	CDS	2442	2660
+scaffold_2559	Prodigal_v2.6.3	CDS	2672	4732
+scaffold_2559	Prodigal_v2.6.3	CDS	4777	4959
+scaffold_2559	Prodigal_v2.6.3	CDS	5068	5814
+scaffold_2559	Prodigal_v2.6.3	CDS	5913	6728
+scaffold_2559	Prodigal_v2.6.3	CDS	6810	7271
+scaffold_2559	Prodigal_v2.6.3	CDS	7293	7898
+scaffold_2559	Prodigal_v2.6.3	CDS	8204	9181
+scaffold_2559	Prodigal_v2.6.3	CDS	9417	10103
+scaffold_2559	Prodigal_v2.6.3	CDS	10117	11640
+scaffold_2559	Prodigal_v2.6.3	CDS	11880	13013
+scaffold_2559	Prodigal_v2.6.3	CDS	13158	14273
+scaffold_2559	Prodigal_v2.6.3	CDS	14411	16615
+scaffold_2559	Prodigal_v2.6.3	CDS	16628	17818
+scaffold_2559	Prodigal_v2.6.3	CDS	17859	18899
+scaffold_2559	Prodigal_v2.6.3	CDS	18918	19427
+scaffold_2559	Prodigal_v2.6.3	CDS	19683	20318
+scaffold_2559	Prodigal_v2.6.3	CDS	20347	21300
+scaffold_2559	Prodigal_v2.6.3	CDS	21485	21850
+scaffold_2559	Prodigal_v2.6.3	CDS	21878	22738
+scaffold_2559	Prodigal_v2.6.3	CDS	22802	23542
+scaffold_2559	Prodigal_v2.6.3	CDS	23562	23945
+# Sequence Data: seqnum=34;seqlen=15415;seqhdr="scaffold_2597"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_2597	Prodigal_v2.6.3	CDS	3	116
+scaffold_2597	Prodigal_v2.6.3	CDS	282	665
+scaffold_2597	Prodigal_v2.6.3	CDS	1168	3945
+scaffold_2597	Prodigal_v2.6.3	CDS	4190	4576
+scaffold_2597	Prodigal_v2.6.3	CDS	4618	5802
+scaffold_2597	Prodigal_v2.6.3	CDS	6055	7296
+scaffold_2597	Prodigal_v2.6.3	CDS	7801	8799
+scaffold_2597	Prodigal_v2.6.3	CDS	8881	9738
+scaffold_2597	Prodigal_v2.6.3	CDS	9719	10513
+scaffold_2597	Prodigal_v2.6.3	CDS	10767	11849
+scaffold_2597	Prodigal_v2.6.3	CDS	11979	12356
+scaffold_2597	Prodigal_v2.6.3	CDS	12349	13428
+scaffold_2597	Prodigal_v2.6.3	CDS	13491	13949
+scaffold_2597	Prodigal_v2.6.3	CDS	14246	15343
+# Sequence Data: seqnum=35;seqlen=23450;seqhdr="scaffold_2718"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_2718	Prodigal_v2.6.3	CDS	2	937
+scaffold_2718	Prodigal_v2.6.3	CDS	1042	1935
+scaffold_2718	Prodigal_v2.6.3	CDS	2288	3610
+scaffold_2718	Prodigal_v2.6.3	CDS	3607	5154
+scaffold_2718	Prodigal_v2.6.3	CDS	5155	5997
+scaffold_2718	Prodigal_v2.6.3	CDS	6157	7269
+scaffold_2718	Prodigal_v2.6.3	CDS	7389	7643
+scaffold_2718	Prodigal_v2.6.3	CDS	7606	8295
+scaffold_2718	Prodigal_v2.6.3	CDS	8551	10023
+scaffold_2718	Prodigal_v2.6.3	CDS	10128	10472
+scaffold_2718	Prodigal_v2.6.3	CDS	10704	11687
+scaffold_2718	Prodigal_v2.6.3	CDS	11693	12235
+scaffold_2718	Prodigal_v2.6.3	CDS	12309	14273
+scaffold_2718	Prodigal_v2.6.3	CDS	14584	16248
+scaffold_2718	Prodigal_v2.6.3	CDS	16310	19219
+scaffold_2718	Prodigal_v2.6.3	CDS	19330	21183
+scaffold_2718	Prodigal_v2.6.3	CDS	21355	22293
+scaffold_2718	Prodigal_v2.6.3	CDS	22290	23450
+# Sequence Data: seqnum=36;seqlen=15586;seqhdr="scaffold_2973"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_2973	Prodigal_v2.6.3	CDS	3	536
+scaffold_2973	Prodigal_v2.6.3	CDS	624	1061
+scaffold_2973	Prodigal_v2.6.3	CDS	1393	3006
+scaffold_2973	Prodigal_v2.6.3	CDS	3402	4127
+scaffold_2973	Prodigal_v2.6.3	CDS	4492	4653
+scaffold_2973	Prodigal_v2.6.3	CDS	4669	5577
+scaffold_2973	Prodigal_v2.6.3	CDS	5627	5800
+scaffold_2973	Prodigal_v2.6.3	CDS	6137	6517
+scaffold_2973	Prodigal_v2.6.3	CDS	6519	7358
+scaffold_2973	Prodigal_v2.6.3	CDS	7473	8462
+scaffold_2973	Prodigal_v2.6.3	CDS	8515	8817
+scaffold_2973	Prodigal_v2.6.3	CDS	8835	9596
+scaffold_2973	Prodigal_v2.6.3	CDS	9737	9994
+scaffold_2973	Prodigal_v2.6.3	CDS	10044	11573
+scaffold_2973	Prodigal_v2.6.3	CDS	12251	12646
+scaffold_2973	Prodigal_v2.6.3	CDS	12998	13738
+scaffold_2973	Prodigal_v2.6.3	CDS	13940	14578
+scaffold_2973	Prodigal_v2.6.3	CDS	14544	15236
+scaffold_2973	Prodigal_v2.6.3	CDS	15496	15585
+# Sequence Data: seqnum=37;seqlen=13545;seqhdr="scaffold_3041"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_3041	Prodigal_v2.6.3	CDS	2	250
+scaffold_3041	Prodigal_v2.6.3	CDS	377	1438
+scaffold_3041	Prodigal_v2.6.3	CDS	1431	2039
+scaffold_3041	Prodigal_v2.6.3	CDS	2163	2756
+scaffold_3041	Prodigal_v2.6.3	CDS	2868	4148
+scaffold_3041	Prodigal_v2.6.3	CDS	4285	5805
+scaffold_3041	Prodigal_v2.6.3	CDS	6071	7717
+scaffold_3041	Prodigal_v2.6.3	CDS	8000	9535
+scaffold_3041	Prodigal_v2.6.3	CDS	9945	11498
+scaffold_3041	Prodigal_v2.6.3	CDS	11495	13543
+# Sequence Data: seqnum=38;seqlen=13369;seqhdr="scaffold_3112"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_3112	Prodigal_v2.6.3	CDS	1	2850
+scaffold_3112	Prodigal_v2.6.3	CDS	2887	4239
+scaffold_3112	Prodigal_v2.6.3	CDS	4835	5857
+scaffold_3112	Prodigal_v2.6.3	CDS	5925	6842
+scaffold_3112	Prodigal_v2.6.3	CDS	6947	7645
+scaffold_3112	Prodigal_v2.6.3	CDS	7865	9049
+scaffold_3112	Prodigal_v2.6.3	CDS	9042	9821
+scaffold_3112	Prodigal_v2.6.3	CDS	9860	11200
+scaffold_3112	Prodigal_v2.6.3	CDS	11215	11778
+scaffold_3112	Prodigal_v2.6.3	CDS	11784	12173
+scaffold_3112	Prodigal_v2.6.3	CDS	12237	13367
+# Sequence Data: seqnum=39;seqlen=13868;seqhdr="scaffold_3167"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_3167	Prodigal_v2.6.3	CDS	2	157
+scaffold_3167	Prodigal_v2.6.3	CDS	160	360
+scaffold_3167	Prodigal_v2.6.3	CDS	471	836
+scaffold_3167	Prodigal_v2.6.3	CDS	1801	2586
+scaffold_3167	Prodigal_v2.6.3	CDS	3046	4320
+scaffold_3167	Prodigal_v2.6.3	CDS	4460	5566
+scaffold_3167	Prodigal_v2.6.3	CDS	5660	6457
+scaffold_3167	Prodigal_v2.6.3	CDS	6462	7799
+scaffold_3167	Prodigal_v2.6.3	CDS	8108	8965
+scaffold_3167	Prodigal_v2.6.3	CDS	9076	9498
+scaffold_3167	Prodigal_v2.6.3	CDS	10046	10549
+scaffold_3167	Prodigal_v2.6.3	CDS	10748	11851
+scaffold_3167	Prodigal_v2.6.3	CDS	12001	13701
+# Sequence Data: seqnum=40;seqlen=14370;seqhdr="scaffold_3173"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_3173	Prodigal_v2.6.3	CDS	1	435
+scaffold_3173	Prodigal_v2.6.3	CDS	650	1333
+scaffold_3173	Prodigal_v2.6.3	CDS	1432	2433
+scaffold_3173	Prodigal_v2.6.3	CDS	2657	3709
+scaffold_3173	Prodigal_v2.6.3	CDS	3853	5532
+scaffold_3173	Prodigal_v2.6.3	CDS	5739	6791
+scaffold_3173	Prodigal_v2.6.3	CDS	6988	8130
+scaffold_3173	Prodigal_v2.6.3	CDS	8311	8688
+scaffold_3173	Prodigal_v2.6.3	CDS	8929	9951
+scaffold_3173	Prodigal_v2.6.3	CDS	10159	11955
+scaffold_3173	Prodigal_v2.6.3	CDS	12027	13802
+scaffold_3173	Prodigal_v2.6.3	CDS	13822	14370
+# Sequence Data: seqnum=41;seqlen=13138;seqhdr="scaffold_3198"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_3198	Prodigal_v2.6.3	CDS	192	2981
+scaffold_3198	Prodigal_v2.6.3	CDS	3333	4019
+scaffold_3198	Prodigal_v2.6.3	CDS	4021	5808
+scaffold_3198	Prodigal_v2.6.3	CDS	5910	6695
+scaffold_3198	Prodigal_v2.6.3	CDS	6698	7525
+scaffold_3198	Prodigal_v2.6.3	CDS	7510	8091
+scaffold_3198	Prodigal_v2.6.3	CDS	8234	8935
+scaffold_3198	Prodigal_v2.6.3	CDS	9142	9951
+scaffold_3198	Prodigal_v2.6.3	CDS	9986	11707
+scaffold_3198	Prodigal_v2.6.3	CDS	11825	13138
+# Sequence Data: seqnum=42;seqlen=12950;seqhdr="scaffold_3273"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+scaffold_3273	Prodigal_v2.6.3	CDS	1	681
+scaffold_3273	Prodigal_v2.6.3	CDS	751	3816
+scaffold_3273	Prodigal_v2.6.3	CDS	3809	7342
+scaffold_3273	Prodigal_v2.6.3	CDS	7484	7741
+scaffold_3273	Prodigal_v2.6.3	CDS	7757	8209
+scaffold_3273	Prodigal_v2.6.3	CDS	8284	9867
+scaffold_3273	Prodigal_v2.6.3	CDS	9980	10357
+scaffold_3273	Prodigal_v2.6.3	CDS	10424	11443
+scaffold_3273	Prodigal_v2.6.3	CDS	11440	12663
+scaffold_3273	Prodigal_v2.6.3	CDS	12726	12950
+# Sequence Data: seqnum=43;seqlen=24893;seqhdr="scaffold_3310"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_3310	Prodigal_v2.6.3	CDS	1	882
+scaffold_3310	Prodigal_v2.6.3	CDS	967	1143
+scaffold_3310	Prodigal_v2.6.3	CDS	1368	1976
+scaffold_3310	Prodigal_v2.6.3	CDS	1973	2611
+scaffold_3310	Prodigal_v2.6.3	CDS	2725	4068
+scaffold_3310	Prodigal_v2.6.3	CDS	4208	4573
+scaffold_3310	Prodigal_v2.6.3	CDS	4560	5432
+scaffold_3310	Prodigal_v2.6.3	CDS	5600	6856
+scaffold_3310	Prodigal_v2.6.3	CDS	6876	7160
+scaffold_3310	Prodigal_v2.6.3	CDS	7716	9002
+scaffold_3310	Prodigal_v2.6.3	CDS	9339	10601
+scaffold_3310	Prodigal_v2.6.3	CDS	10637	10891
+scaffold_3310	Prodigal_v2.6.3	CDS	10959	12209
+scaffold_3310	Prodigal_v2.6.3	CDS	12516	13532
+scaffold_3310	Prodigal_v2.6.3	CDS	13800	15119
+scaffold_3310	Prodigal_v2.6.3	CDS	15498	16052
+scaffold_3310	Prodigal_v2.6.3	CDS	16316	16885
+scaffold_3310	Prodigal_v2.6.3	CDS	17204	18454
+scaffold_3310	Prodigal_v2.6.3	CDS	18818	19318
+scaffold_3310	Prodigal_v2.6.3	CDS	19358	19687
+scaffold_3310	Prodigal_v2.6.3	CDS	19796	20266
+scaffold_3310	Prodigal_v2.6.3	CDS	20345	21031
+scaffold_3310	Prodigal_v2.6.3	CDS	21132	22166
+scaffold_3310	Prodigal_v2.6.3	CDS	22232	23101
+scaffold_3310	Prodigal_v2.6.3	CDS	23098	23598
+scaffold_3310	Prodigal_v2.6.3	CDS	23688	24893
+# Sequence Data: seqnum=44;seqlen=12637;seqhdr="scaffold_3419"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_3419	Prodigal_v2.6.3	CDS	356	1177
+scaffold_3419	Prodigal_v2.6.3	CDS	1333	2382
+scaffold_3419	Prodigal_v2.6.3	CDS	2499	3653
+scaffold_3419	Prodigal_v2.6.3	CDS	3650	5299
+scaffold_3419	Prodigal_v2.6.3	CDS	5449	5850
+scaffold_3419	Prodigal_v2.6.3	CDS	5981	6784
+scaffold_3419	Prodigal_v2.6.3	CDS	6946	8697
+scaffold_3419	Prodigal_v2.6.3	CDS	8836	9522
+scaffold_3419	Prodigal_v2.6.3	CDS	9540	10439
+scaffold_3419	Prodigal_v2.6.3	CDS	10458	10721
+scaffold_3419	Prodigal_v2.6.3	CDS	10718	11350
+scaffold_3419	Prodigal_v2.6.3	CDS	11377	11565
+scaffold_3419	Prodigal_v2.6.3	CDS	11579	12637
+# Sequence Data: seqnum=45;seqlen=13563;seqhdr="scaffold_3435"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_3435	Prodigal_v2.6.3	CDS	1	288
+scaffold_3435	Prodigal_v2.6.3	CDS	233	1291
+scaffold_3435	Prodigal_v2.6.3	CDS	1409	2881
+scaffold_3435	Prodigal_v2.6.3	CDS	3008	3487
+scaffold_3435	Prodigal_v2.6.3	CDS	3581	4294
+scaffold_3435	Prodigal_v2.6.3	CDS	4291	5493
+scaffold_3435	Prodigal_v2.6.3	CDS	5694	6182
+scaffold_3435	Prodigal_v2.6.3	CDS	6349	7713
+scaffold_3435	Prodigal_v2.6.3	CDS	7706	10270
+scaffold_3435	Prodigal_v2.6.3	CDS	10367	10774
+scaffold_3435	Prodigal_v2.6.3	CDS	11258	12700
+scaffold_3435	Prodigal_v2.6.3	CDS	12829	12981
+# Sequence Data: seqnum=46;seqlen=13645;seqhdr="scaffold_3540"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_3540	Prodigal_v2.6.3	CDS	1	249
+scaffold_3540	Prodigal_v2.6.3	CDS	268	1368
+scaffold_3540	Prodigal_v2.6.3	CDS	1314	1544
+scaffold_3540	Prodigal_v2.6.3	CDS	1586	2491
+scaffold_3540	Prodigal_v2.6.3	CDS	2495	3694
+scaffold_3540	Prodigal_v2.6.3	CDS	3711	5720
+scaffold_3540	Prodigal_v2.6.3	CDS	5816	6853
+scaffold_3540	Prodigal_v2.6.3	CDS	7052	9130
+scaffold_3540	Prodigal_v2.6.3	CDS	9361	12279
+scaffold_3540	Prodigal_v2.6.3	CDS	12599	12889
+scaffold_3540	Prodigal_v2.6.3	CDS	13122	13643
+# Sequence Data: seqnum=47;seqlen=15344;seqhdr="scaffold_3735"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_3735	Prodigal_v2.6.3	CDS	2	67
+scaffold_3735	Prodigal_v2.6.3	CDS	147	245
+scaffold_3735	Prodigal_v2.6.3	CDS	242	532
+scaffold_3735	Prodigal_v2.6.3	CDS	520	1065
+scaffold_3735	Prodigal_v2.6.3	CDS	1235	1573
+scaffold_3735	Prodigal_v2.6.3	CDS	1589	2578
+scaffold_3735	Prodigal_v2.6.3	CDS	2648	3241
+scaffold_3735	Prodigal_v2.6.3	CDS	3261	3653
+scaffold_3735	Prodigal_v2.6.3	CDS	3678	4040
+scaffold_3735	Prodigal_v2.6.3	CDS	4058	4171
+scaffold_3735	Prodigal_v2.6.3	CDS	4200	4418
+scaffold_3735	Prodigal_v2.6.3	CDS	4425	5081
+scaffold_3735	Prodigal_v2.6.3	CDS	5096	6352
+scaffold_3735	Prodigal_v2.6.3	CDS	6355	6795
+scaffold_3735	Prodigal_v2.6.3	CDS	6813	6998
+scaffold_3735	Prodigal_v2.6.3	CDS	7016	7534
+scaffold_3735	Prodigal_v2.6.3	CDS	7552	7911
+scaffold_3735	Prodigal_v2.6.3	CDS	7933	8481
+scaffold_3735	Prodigal_v2.6.3	CDS	8506	8904
+scaffold_3735	Prodigal_v2.6.3	CDS	8935	9120
+scaffold_3735	Prodigal_v2.6.3	CDS	9138	9683
+scaffold_3735	Prodigal_v2.6.3	CDS	9711	10040
+scaffold_3735	Prodigal_v2.6.3	CDS	10078	10446
+scaffold_3735	Prodigal_v2.6.3	CDS	10490	10750
+scaffold_3735	Prodigal_v2.6.3	CDS	10783	10977
+scaffold_3735	Prodigal_v2.6.3	CDS	10974	11429
+scaffold_3735	Prodigal_v2.6.3	CDS	11431	12105
+scaffold_3735	Prodigal_v2.6.3	CDS	12127	12459
+scaffold_3735	Prodigal_v2.6.3	CDS	12470	12736
+scaffold_3735	Prodigal_v2.6.3	CDS	12762	13550
+scaffold_3735	Prodigal_v2.6.3	CDS	13564	13854
+scaffold_3735	Prodigal_v2.6.3	CDS	13854	14483
+scaffold_3735	Prodigal_v2.6.3	CDS	14513	14716
+scaffold_3735	Prodigal_v2.6.3	CDS	14878	15087
+scaffold_3735	Prodigal_v2.6.3	CDS	15101	15343
+# Sequence Data: seqnum=48;seqlen=21149;seqhdr="scaffold_3766"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_3766	Prodigal_v2.6.3	CDS	26	676
+scaffold_3766	Prodigal_v2.6.3	CDS	799	2097
+scaffold_3766	Prodigal_v2.6.3	CDS	2234	2536
+scaffold_3766	Prodigal_v2.6.3	CDS	2650	3036
+scaffold_3766	Prodigal_v2.6.3	CDS	3622	3843
+scaffold_3766	Prodigal_v2.6.3	CDS	3859	4287
+scaffold_3766	Prodigal_v2.6.3	CDS	4304	4648
+scaffold_3766	Prodigal_v2.6.3	CDS	4729	7392
+scaffold_3766	Prodigal_v2.6.3	CDS	7385	9106
+scaffold_3766	Prodigal_v2.6.3	CDS	9189	10235
+scaffold_3766	Prodigal_v2.6.3	CDS	10342	12045
+scaffold_3766	Prodigal_v2.6.3	CDS	12115	13455
+scaffold_3766	Prodigal_v2.6.3	CDS	13688	15265
+scaffold_3766	Prodigal_v2.6.3	CDS	15353	16369
+scaffold_3766	Prodigal_v2.6.3	CDS	16552	18285
+scaffold_3766	Prodigal_v2.6.3	CDS	18311	20242
+scaffold_3766	Prodigal_v2.6.3	CDS	20475	21149
+# Sequence Data: seqnum=49;seqlen=12003;seqhdr="scaffold_3785"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_3785	Prodigal_v2.6.3	CDS	3	290
+scaffold_3785	Prodigal_v2.6.3	CDS	630	995
+scaffold_3785	Prodigal_v2.6.3	CDS	982	1113
+scaffold_3785	Prodigal_v2.6.3	CDS	1607	2236
+scaffold_3785	Prodigal_v2.6.3	CDS	2335	3600
+scaffold_3785	Prodigal_v2.6.3	CDS	3600	4382
+scaffold_3785	Prodigal_v2.6.3	CDS	4407	6617
+scaffold_3785	Prodigal_v2.6.3	CDS	6695	7129
+scaffold_3785	Prodigal_v2.6.3	CDS	7145	7480
+scaffold_3785	Prodigal_v2.6.3	CDS	7596	9356
+scaffold_3785	Prodigal_v2.6.3	CDS	9427	11016
+scaffold_3785	Prodigal_v2.6.3	CDS	11132	12001
+# Sequence Data: seqnum=50;seqlen=11979;seqhdr="scaffold_3797"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_3797	Prodigal_v2.6.3	CDS	2	163
+scaffold_3797	Prodigal_v2.6.3	CDS	316	546
+scaffold_3797	Prodigal_v2.6.3	CDS	546	953
+scaffold_3797	Prodigal_v2.6.3	CDS	1431	2258
+scaffold_3797	Prodigal_v2.6.3	CDS	2648	3001
+scaffold_3797	Prodigal_v2.6.3	CDS	3162	3590
+scaffold_3797	Prodigal_v2.6.3	CDS	3636	3764
+scaffold_3797	Prodigal_v2.6.3	CDS	3786	3956
+scaffold_3797	Prodigal_v2.6.3	CDS	4116	5756
+scaffold_3797	Prodigal_v2.6.3	CDS	5811	7346
+scaffold_3797	Prodigal_v2.6.3	CDS	7790	9442
+scaffold_3797	Prodigal_v2.6.3	CDS	9450	9566
+scaffold_3797	Prodigal_v2.6.3	CDS	9613	10116
+scaffold_3797	Prodigal_v2.6.3	CDS	10152	10631
+scaffold_3797	Prodigal_v2.6.3	CDS	10646	11068
+scaffold_3797	Prodigal_v2.6.3	CDS	11093	11551
+scaffold_3797	Prodigal_v2.6.3	CDS	11567	11959
+# Sequence Data: seqnum=51;seqlen=20703;seqhdr="scaffold_3837"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_3837	Prodigal_v2.6.3	CDS	3	374
+scaffold_3837	Prodigal_v2.6.3	CDS	323	1480
+scaffold_3837	Prodigal_v2.6.3	CDS	1594	3648
+scaffold_3837	Prodigal_v2.6.3	CDS	3789	4580
+scaffold_3837	Prodigal_v2.6.3	CDS	4706	5638
+scaffold_3837	Prodigal_v2.6.3	CDS	5940	6203
+scaffold_3837	Prodigal_v2.6.3	CDS	6292	7179
+scaffold_3837	Prodigal_v2.6.3	CDS	7206	7853
+scaffold_3837	Prodigal_v2.6.3	CDS	7913	9154
+scaffold_3837	Prodigal_v2.6.3	CDS	9264	9698
+scaffold_3837	Prodigal_v2.6.3	CDS	9837	10688
+scaffold_3837	Prodigal_v2.6.3	CDS	10834	11250
+scaffold_3837	Prodigal_v2.6.3	CDS	11405	11935
+scaffold_3837	Prodigal_v2.6.3	CDS	12201	12419
+scaffold_3837	Prodigal_v2.6.3	CDS	12611	15553
+scaffold_3837	Prodigal_v2.6.3	CDS	15829	17130
+scaffold_3837	Prodigal_v2.6.3	CDS	17276	17806
+scaffold_3837	Prodigal_v2.6.3	CDS	17898	18239
+scaffold_3837	Prodigal_v2.6.3	CDS	19286	19855
+scaffold_3837	Prodigal_v2.6.3	CDS	20512	20703
+# Sequence Data: seqnum=52;seqlen=16024;seqhdr="scaffold_4009"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_4009	Prodigal_v2.6.3	CDS	3	179
+scaffold_4009	Prodigal_v2.6.3	CDS	183	665
+scaffold_4009	Prodigal_v2.6.3	CDS	626	1531
+scaffold_4009	Prodigal_v2.6.3	CDS	1524	3296
+scaffold_4009	Prodigal_v2.6.3	CDS	3308	3634
+scaffold_4009	Prodigal_v2.6.3	CDS	3649	4641
+scaffold_4009	Prodigal_v2.6.3	CDS	4643	5251
+scaffold_4009	Prodigal_v2.6.3	CDS	5265	5741
+scaffold_4009	Prodigal_v2.6.3	CDS	5910	7769
+scaffold_4009	Prodigal_v2.6.3	CDS	7771	8076
+scaffold_4009	Prodigal_v2.6.3	CDS	8379	9173
+scaffold_4009	Prodigal_v2.6.3	CDS	9256	10320
+scaffold_4009	Prodigal_v2.6.3	CDS	10505	12184
+scaffold_4009	Prodigal_v2.6.3	CDS	12218	12913
+scaffold_4009	Prodigal_v2.6.3	CDS	13343	14170
+scaffold_4009	Prodigal_v2.6.3	CDS	14646	15503
+scaffold_4009	Prodigal_v2.6.3	CDS	15742	16023
+# Sequence Data: seqnum=53;seqlen=18642;seqhdr="scaffold_4031"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_4031	Prodigal_v2.6.3	CDS	3	869
+scaffold_4031	Prodigal_v2.6.3	CDS	1008	1487
+scaffold_4031	Prodigal_v2.6.3	CDS	1625	2866
+scaffold_4031	Prodigal_v2.6.3	CDS	2894	4123
+scaffold_4031	Prodigal_v2.6.3	CDS	4319	5896
+scaffold_4031	Prodigal_v2.6.3	CDS	6533	7795
+scaffold_4031	Prodigal_v2.6.3	CDS	8056	8484
+scaffold_4031	Prodigal_v2.6.3	CDS	8506	9006
+scaffold_4031	Prodigal_v2.6.3	CDS	9078	9881
+scaffold_4031	Prodigal_v2.6.3	CDS	9882	11018
+scaffold_4031	Prodigal_v2.6.3	CDS	11120	12196
+scaffold_4031	Prodigal_v2.6.3	CDS	12206	13516
+scaffold_4031	Prodigal_v2.6.3	CDS	13693	14757
+scaffold_4031	Prodigal_v2.6.3	CDS	14825	15697
+scaffold_4031	Prodigal_v2.6.3	CDS	15791	16804
+scaffold_4031	Prodigal_v2.6.3	CDS	17023	17127
+scaffold_4031	Prodigal_v2.6.3	CDS	17452	18201
+scaffold_4031	Prodigal_v2.6.3	CDS	18404	18640
+# Sequence Data: seqnum=54;seqlen=23012;seqhdr="scaffold_4052"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_4052	Prodigal_v2.6.3	CDS	1	807
+scaffold_4052	Prodigal_v2.6.3	CDS	839	1858
+scaffold_4052	Prodigal_v2.6.3	CDS	1992	3179
+scaffold_4052	Prodigal_v2.6.3	CDS	3283	4113
+scaffold_4052	Prodigal_v2.6.3	CDS	4132	4917
+scaffold_4052	Prodigal_v2.6.3	CDS	5160	5375
+scaffold_4052	Prodigal_v2.6.3	CDS	5379	5942
+scaffold_4052	Prodigal_v2.6.3	CDS	5945	6670
+scaffold_4052	Prodigal_v2.6.3	CDS	6928	7809
+scaffold_4052	Prodigal_v2.6.3	CDS	7933	8373
+scaffold_4052	Prodigal_v2.6.3	CDS	8429	8563
+scaffold_4052	Prodigal_v2.6.3	CDS	8726	10228
+scaffold_4052	Prodigal_v2.6.3	CDS	10242	10721
+scaffold_4052	Prodigal_v2.6.3	CDS	10944	11624
+scaffold_4052	Prodigal_v2.6.3	CDS	11629	12765
+scaffold_4052	Prodigal_v2.6.3	CDS	12804	13379
+scaffold_4052	Prodigal_v2.6.3	CDS	13609	14553
+scaffold_4052	Prodigal_v2.6.3	CDS	14632	15060
+scaffold_4052	Prodigal_v2.6.3	CDS	15073	16626
+scaffold_4052	Prodigal_v2.6.3	CDS	16623	17534
+scaffold_4052	Prodigal_v2.6.3	CDS	17536	17871
+scaffold_4052	Prodigal_v2.6.3	CDS	17930	18976
+scaffold_4052	Prodigal_v2.6.3	CDS	18980	19765
+scaffold_4052	Prodigal_v2.6.3	CDS	19804	20382
+scaffold_4052	Prodigal_v2.6.3	CDS	20379	21971
+scaffold_4052	Prodigal_v2.6.3	CDS	22004	22717
+# Sequence Data: seqnum=55;seqlen=19743;seqhdr="scaffold_4081"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_4081	Prodigal_v2.6.3	CDS	2	1402
+scaffold_4081	Prodigal_v2.6.3	CDS	1736	6052
+scaffold_4081	Prodigal_v2.6.3	CDS	6069	6701
+scaffold_4081	Prodigal_v2.6.3	CDS	6894	7433
+scaffold_4081	Prodigal_v2.6.3	CDS	7539	9512
+scaffold_4081	Prodigal_v2.6.3	CDS	9518	10795
+scaffold_4081	Prodigal_v2.6.3	CDS	10882	11373
+scaffold_4081	Prodigal_v2.6.3	CDS	11555	12322
+scaffold_4081	Prodigal_v2.6.3	CDS	12368	12775
+scaffold_4081	Prodigal_v2.6.3	CDS	12939	13970
+scaffold_4081	Prodigal_v2.6.3	CDS	13983	14873
+scaffold_4081	Prodigal_v2.6.3	CDS	14892	15722
+scaffold_4081	Prodigal_v2.6.3	CDS	15722	16165
+scaffold_4081	Prodigal_v2.6.3	CDS	16486	17289
+scaffold_4081	Prodigal_v2.6.3	CDS	17378	18202
+scaffold_4081	Prodigal_v2.6.3	CDS	18437	19606
+scaffold_4081	Prodigal_v2.6.3	CDS	19623	19742
+# Sequence Data: seqnum=56;seqlen=24008;seqhdr="scaffold_4083"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_4083	Prodigal_v2.6.3	CDS	2	451
+scaffold_4083	Prodigal_v2.6.3	CDS	612	1691
+scaffold_4083	Prodigal_v2.6.3	CDS	2001	2597
+scaffold_4083	Prodigal_v2.6.3	CDS	2717	3421
+scaffold_4083	Prodigal_v2.6.3	CDS	3961	4545
+scaffold_4083	Prodigal_v2.6.3	CDS	4722	5171
+scaffold_4083	Prodigal_v2.6.3	CDS	5158	5925
+scaffold_4083	Prodigal_v2.6.3	CDS	6597	8120
+scaffold_4083	Prodigal_v2.6.3	CDS	8252	8917
+scaffold_4083	Prodigal_v2.6.3	CDS	9226	9684
+scaffold_4083	Prodigal_v2.6.3	CDS	9940	10341
+scaffold_4083	Prodigal_v2.6.3	CDS	10990	11523
+scaffold_4083	Prodigal_v2.6.3	CDS	11662	12552
+scaffold_4083	Prodigal_v2.6.3	CDS	12929	13444
+scaffold_4083	Prodigal_v2.6.3	CDS	13470	15926
+scaffold_4083	Prodigal_v2.6.3	CDS	15901	17880
+scaffold_4083	Prodigal_v2.6.3	CDS	18788	19939
+scaffold_4083	Prodigal_v2.6.3	CDS	20126	20764
+scaffold_4083	Prodigal_v2.6.3	CDS	20852	21643
+scaffold_4083	Prodigal_v2.6.3	CDS	22139	23548
+scaffold_4083	Prodigal_v2.6.3	CDS	23813	24007
+# Sequence Data: seqnum=57;seqlen=11463;seqhdr="scaffold_4094"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_4094	Prodigal_v2.6.3	CDS	2	973
+scaffold_4094	Prodigal_v2.6.3	CDS	1266	1985
+scaffold_4094	Prodigal_v2.6.3	CDS	2263	2970
+scaffold_4094	Prodigal_v2.6.3	CDS	3073	4359
+scaffold_4094	Prodigal_v2.6.3	CDS	4324	5415
+scaffold_4094	Prodigal_v2.6.3	CDS	5418	6806
+scaffold_4094	Prodigal_v2.6.3	CDS	6925	7797
+scaffold_4094	Prodigal_v2.6.3	CDS	8052	9086
+scaffold_4094	Prodigal_v2.6.3	CDS	9165	9668
+scaffold_4094	Prodigal_v2.6.3	CDS	9646	11463
+# Sequence Data: seqnum=58;seqlen=18424;seqhdr="scaffold_4134"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="4|Akkermansia_muciniphila_ATCC_BAA_835|B|55.8|11|0";gc_cont=55.80;transl_table=11;uses_sd=0
+scaffold_4134	Prodigal_v2.6.3	CDS	1	960
+scaffold_4134	Prodigal_v2.6.3	CDS	1129	1620
+scaffold_4134	Prodigal_v2.6.3	CDS	1854	3059
+scaffold_4134	Prodigal_v2.6.3	CDS	3262	4731
+scaffold_4134	Prodigal_v2.6.3	CDS	4737	5849
+scaffold_4134	Prodigal_v2.6.3	CDS	5902	6279
+scaffold_4134	Prodigal_v2.6.3	CDS	6539	7231
+scaffold_4134	Prodigal_v2.6.3	CDS	7338	7835
+scaffold_4134	Prodigal_v2.6.3	CDS	8192	8887
+scaffold_4134	Prodigal_v2.6.3	CDS	8856	10166
+scaffold_4134	Prodigal_v2.6.3	CDS	10138	11061
+scaffold_4134	Prodigal_v2.6.3	CDS	11297	11437
+scaffold_4134	Prodigal_v2.6.3	CDS	11437	12762
+scaffold_4134	Prodigal_v2.6.3	CDS	12901	13887
+scaffold_4134	Prodigal_v2.6.3	CDS	13977	15275
+scaffold_4134	Prodigal_v2.6.3	CDS	15442	15906
+scaffold_4134	Prodigal_v2.6.3	CDS	15897	16856
+scaffold_4134	Prodigal_v2.6.3	CDS	17091	17951
+scaffold_4134	Prodigal_v2.6.3	CDS	18077	18424
+# Sequence Data: seqnum=59;seqlen=12365;seqhdr="scaffold_4335"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_4335	Prodigal_v2.6.3	CDS	3	125
+scaffold_4335	Prodigal_v2.6.3	CDS	151	435
+scaffold_4335	Prodigal_v2.6.3	CDS	419	1861
+scaffold_4335	Prodigal_v2.6.3	CDS	2082	2594
+scaffold_4335	Prodigal_v2.6.3	CDS	3086	3988
+scaffold_4335	Prodigal_v2.6.3	CDS	4200	4910
+scaffold_4335	Prodigal_v2.6.3	CDS	5051	6520
+scaffold_4335	Prodigal_v2.6.3	CDS	6637	7467
+scaffold_4335	Prodigal_v2.6.3	CDS	7915	8661
+scaffold_4335	Prodigal_v2.6.3	CDS	8654	9574
+scaffold_4335	Prodigal_v2.6.3	CDS	9571	11064
+scaffold_4335	Prodigal_v2.6.3	CDS	11202	11444
+scaffold_4335	Prodigal_v2.6.3	CDS	11477	12364
+# Sequence Data: seqnum=60;seqlen=13208;seqhdr="scaffold_4607"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_4607	Prodigal_v2.6.3	CDS	3	764
+scaffold_4607	Prodigal_v2.6.3	CDS	1061	1597
+scaffold_4607	Prodigal_v2.6.3	CDS	1741	2595
+scaffold_4607	Prodigal_v2.6.3	CDS	2691	3389
+scaffold_4607	Prodigal_v2.6.3	CDS	3714	6860
+scaffold_4607	Prodigal_v2.6.3	CDS	6873	8036
+scaffold_4607	Prodigal_v2.6.3	CDS	8265	9803
+scaffold_4607	Prodigal_v2.6.3	CDS	9914	10735
+scaffold_4607	Prodigal_v2.6.3	CDS	10781	12694
+scaffold_4607	Prodigal_v2.6.3	CDS	12858	13115
+scaffold_4607	Prodigal_v2.6.3	CDS	13134	13208
+# Sequence Data: seqnum=61;seqlen=10574;seqhdr="scaffold_4666"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_4666	Prodigal_v2.6.3	CDS	75	1103
+scaffold_4666	Prodigal_v2.6.3	CDS	1534	2109
+scaffold_4666	Prodigal_v2.6.3	CDS	2261	3334
+scaffold_4666	Prodigal_v2.6.3	CDS	3787	5226
+scaffold_4666	Prodigal_v2.6.3	CDS	5264	6496
+scaffold_4666	Prodigal_v2.6.3	CDS	6731	7300
+scaffold_4666	Prodigal_v2.6.3	CDS	7987	8478
+scaffold_4666	Prodigal_v2.6.3	CDS	8481	9770
+scaffold_4666	Prodigal_v2.6.3	CDS	9902	10573
+# Sequence Data: seqnum=62;seqlen=10472;seqhdr="scaffold_4746"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_4746	Prodigal_v2.6.3	CDS	2	850
+scaffold_4746	Prodigal_v2.6.3	CDS	913	1641
+scaffold_4746	Prodigal_v2.6.3	CDS	1641	2459
+scaffold_4746	Prodigal_v2.6.3	CDS	2483	3457
+scaffold_4746	Prodigal_v2.6.3	CDS	3662	4231
+scaffold_4746	Prodigal_v2.6.3	CDS	4231	5133
+scaffold_4746	Prodigal_v2.6.3	CDS	5123	5689
+scaffold_4746	Prodigal_v2.6.3	CDS	5676	6557
+scaffold_4746	Prodigal_v2.6.3	CDS	6554	7273
+scaffold_4746	Prodigal_v2.6.3	CDS	7284	8375
+scaffold_4746	Prodigal_v2.6.3	CDS	8500	9687
+scaffold_4746	Prodigal_v2.6.3	CDS	9703	10239
+scaffold_4746	Prodigal_v2.6.3	CDS	10275	10472
+# Sequence Data: seqnum=63;seqlen=13886;seqhdr="scaffold_4868"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_4868	Prodigal_v2.6.3	CDS	1	204
+scaffold_4868	Prodigal_v2.6.3	CDS	149	658
+scaffold_4868	Prodigal_v2.6.3	CDS	708	875
+scaffold_4868	Prodigal_v2.6.3	CDS	1164	1358
+scaffold_4868	Prodigal_v2.6.3	CDS	1450	1665
+scaffold_4868	Prodigal_v2.6.3	CDS	2426	2953
+scaffold_4868	Prodigal_v2.6.3	CDS	3826	4716
+scaffold_4868	Prodigal_v2.6.3	CDS	4807	5472
+scaffold_4868	Prodigal_v2.6.3	CDS	5810	6760
+scaffold_4868	Prodigal_v2.6.3	CDS	6887	7330
+scaffold_4868	Prodigal_v2.6.3	CDS	7344	7748
+scaffold_4868	Prodigal_v2.6.3	CDS	7880	8362
+scaffold_4868	Prodigal_v2.6.3	CDS	8583	8987
+scaffold_4868	Prodigal_v2.6.3	CDS	9350	10051
+scaffold_4868	Prodigal_v2.6.3	CDS	10209	10997
+scaffold_4868	Prodigal_v2.6.3	CDS	11160	12287
+scaffold_4868	Prodigal_v2.6.3	CDS	12307	13536
+# Sequence Data: seqnum=64;seqlen=10283;seqhdr="scaffold_4907"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_4907	Prodigal_v2.6.3	CDS	289	1287
+scaffold_4907	Prodigal_v2.6.3	CDS	1654	2595
+scaffold_4907	Prodigal_v2.6.3	CDS	2835	4064
+scaffold_4907	Prodigal_v2.6.3	CDS	4064	5476
+scaffold_4907	Prodigal_v2.6.3	CDS	5719	6606
+scaffold_4907	Prodigal_v2.6.3	CDS	6603	7547
+scaffold_4907	Prodigal_v2.6.3	CDS	7723	9408
+scaffold_4907	Prodigal_v2.6.3	CDS	9512	10195
+# Sequence Data: seqnum=65;seqlen=11973;seqhdr="scaffold_4924"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_4924	Prodigal_v2.6.3	CDS	2	184
+scaffold_4924	Prodigal_v2.6.3	CDS	500	937
+scaffold_4924	Prodigal_v2.6.3	CDS	903	2462
+scaffold_4924	Prodigal_v2.6.3	CDS	2731	3543
+scaffold_4924	Prodigal_v2.6.3	CDS	3645	4763
+scaffold_4924	Prodigal_v2.6.3	CDS	5104	5583
+scaffold_4924	Prodigal_v2.6.3	CDS	5803	6948
+scaffold_4924	Prodigal_v2.6.3	CDS	6926	7750
+scaffold_4924	Prodigal_v2.6.3	CDS	7747	8400
+scaffold_4924	Prodigal_v2.6.3	CDS	8607	10775
+scaffold_4924	Prodigal_v2.6.3	CDS	10889	11788
+scaffold_4924	Prodigal_v2.6.3	CDS	11781	11972
+# Sequence Data: seqnum=66;seqlen=15523;seqhdr="scaffold_4934"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_4934	Prodigal_v2.6.3	CDS	1	7236
+scaffold_4934	Prodigal_v2.6.3	CDS	7622	9160
+scaffold_4934	Prodigal_v2.6.3	CDS	9530	10135
+scaffold_4934	Prodigal_v2.6.3	CDS	10953	11444
+scaffold_4934	Prodigal_v2.6.3	CDS	11395	11883
+scaffold_4934	Prodigal_v2.6.3	CDS	11959	12372
+scaffold_4934	Prodigal_v2.6.3	CDS	12477	13424
+scaffold_4934	Prodigal_v2.6.3	CDS	13559	14020
+scaffold_4934	Prodigal_v2.6.3	CDS	14101	14412
+scaffold_4934	Prodigal_v2.6.3	CDS	14257	15498
+# Sequence Data: seqnum=67;seqlen=21446;seqhdr="scaffold_5164"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_5164	Prodigal_v2.6.3	CDS	2	4231
+scaffold_5164	Prodigal_v2.6.3	CDS	4416	7388
+scaffold_5164	Prodigal_v2.6.3	CDS	7576	10206
+scaffold_5164	Prodigal_v2.6.3	CDS	10485	12203
+scaffold_5164	Prodigal_v2.6.3	CDS	12548	15445
+scaffold_5164	Prodigal_v2.6.3	CDS	15801	18788
+scaffold_5164	Prodigal_v2.6.3	CDS	19402	21255
+# Sequence Data: seqnum=68;seqlen=9915;seqhdr="scaffold_5233"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_5233	Prodigal_v2.6.3	CDS	621	788
+scaffold_5233	Prodigal_v2.6.3	CDS	807	1028
+scaffold_5233	Prodigal_v2.6.3	CDS	1086	1310
+scaffold_5233	Prodigal_v2.6.3	CDS	1558	2199
+scaffold_5233	Prodigal_v2.6.3	CDS	2860	3474
+scaffold_5233	Prodigal_v2.6.3	CDS	3622	4380
+scaffold_5233	Prodigal_v2.6.3	CDS	4399	5160
+scaffold_5233	Prodigal_v2.6.3	CDS	5300	6817
+scaffold_5233	Prodigal_v2.6.3	CDS	6931	7917
+scaffold_5233	Prodigal_v2.6.3	CDS	7898	8734
+scaffold_5233	Prodigal_v2.6.3	CDS	8739	9167
+scaffold_5233	Prodigal_v2.6.3	CDS	9243	9842
+# Sequence Data: seqnum=69;seqlen=9187;seqhdr="scaffold_5951"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_5951	Prodigal_v2.6.3	CDS	55	864
+scaffold_5951	Prodigal_v2.6.3	CDS	861	2105
+scaffold_5951	Prodigal_v2.6.3	CDS	2235	3365
+scaffold_5951	Prodigal_v2.6.3	CDS	3498	4787
+scaffold_5951	Prodigal_v2.6.3	CDS	4983	6659
+scaffold_5951	Prodigal_v2.6.3	CDS	7193	8467
+scaffold_5951	Prodigal_v2.6.3	CDS	8813	9187
+# Sequence Data: seqnum=70;seqlen=9628;seqhdr="scaffold_5964"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_5964	Prodigal_v2.6.3	CDS	458	2575
+scaffold_5964	Prodigal_v2.6.3	CDS	2654	4321
+scaffold_5964	Prodigal_v2.6.3	CDS	4456	5715
+scaffold_5964	Prodigal_v2.6.3	CDS	5809	7038
+scaffold_5964	Prodigal_v2.6.3	CDS	7170	9161
+scaffold_5964	Prodigal_v2.6.3	CDS	9106	9627
+# Sequence Data: seqnum=71;seqlen=10636;seqhdr="scaffold_6103"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_6103	Prodigal_v2.6.3	CDS	119	640
+scaffold_6103	Prodigal_v2.6.3	CDS	637	1476
+scaffold_6103	Prodigal_v2.6.3	CDS	1721	2407
+scaffold_6103	Prodigal_v2.6.3	CDS	2495	4375
+scaffold_6103	Prodigal_v2.6.3	CDS	4849	6144
+scaffold_6103	Prodigal_v2.6.3	CDS	6847	7128
+scaffold_6103	Prodigal_v2.6.3	CDS	7408	7590
+scaffold_6103	Prodigal_v2.6.3	CDS	7574	8008
+scaffold_6103	Prodigal_v2.6.3	CDS	8394	8882
+scaffold_6103	Prodigal_v2.6.3	CDS	8925	9044
+scaffold_6103	Prodigal_v2.6.3	CDS	9484	9996
+scaffold_6103	Prodigal_v2.6.3	CDS	10501	10635
+# Sequence Data: seqnum=72;seqlen=13389;seqhdr="scaffold_6131"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+scaffold_6131	Prodigal_v2.6.3	CDS	1	4494
+scaffold_6131	Prodigal_v2.6.3	CDS	4451	8704
+scaffold_6131	Prodigal_v2.6.3	CDS	9024	10346
+scaffold_6131	Prodigal_v2.6.3	CDS	10507	11211
+scaffold_6131	Prodigal_v2.6.3	CDS	11273	12445
+scaffold_6131	Prodigal_v2.6.3	CDS	12570	13388
+# Sequence Data: seqnum=73;seqlen=9392;seqhdr="scaffold_6205"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+scaffold_6205	Prodigal_v2.6.3	CDS	2	304
+scaffold_6205	Prodigal_v2.6.3	CDS	305	1333
+scaffold_6205	Prodigal_v2.6.3	CDS	1477	3450
+scaffold_6205	Prodigal_v2.6.3	CDS	3447	4151
+scaffold_6205	Prodigal_v2.6.3	CDS	4239	5648
+scaffold_6205	Prodigal_v2.6.3	CDS	5863	6810
+scaffold_6205	Prodigal_v2.6.3	CDS	6991	9087
+scaffold_6205	Prodigal_v2.6.3	CDS	9141	9392
+# Sequence Data: seqnum=74;seqlen=16333;seqhdr="scaffold_6250"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_6250	Prodigal_v2.6.3	CDS	1	825
+scaffold_6250	Prodigal_v2.6.3	CDS	964	1551
+scaffold_6250	Prodigal_v2.6.3	CDS	1569	1850
+scaffold_6250	Prodigal_v2.6.3	CDS	2032	2787
+scaffold_6250	Prodigal_v2.6.3	CDS	2965	3573
+scaffold_6250	Prodigal_v2.6.3	CDS	3640	6753
+scaffold_6250	Prodigal_v2.6.3	CDS	7108	7755
+scaffold_6250	Prodigal_v2.6.3	CDS	7902	8498
+scaffold_6250	Prodigal_v2.6.3	CDS	8764	9657
+scaffold_6250	Prodigal_v2.6.3	CDS	9984	10313
+scaffold_6250	Prodigal_v2.6.3	CDS	10463	11302
+scaffold_6250	Prodigal_v2.6.3	CDS	11380	12501
+scaffold_6250	Prodigal_v2.6.3	CDS	12770	13567
+scaffold_6250	Prodigal_v2.6.3	CDS	13569	14666
+scaffold_6250	Prodigal_v2.6.3	CDS	14906	16276
+# Sequence Data: seqnum=75;seqlen=15627;seqhdr="scaffold_6302"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_6302	Prodigal_v2.6.3	CDS	1	297
+scaffold_6302	Prodigal_v2.6.3	CDS	325	1614
+scaffold_6302	Prodigal_v2.6.3	CDS	1592	3196
+scaffold_6302	Prodigal_v2.6.3	CDS	3215	5032
+scaffold_6302	Prodigal_v2.6.3	CDS	5042	6412
+scaffold_6302	Prodigal_v2.6.3	CDS	6555	7220
+scaffold_6302	Prodigal_v2.6.3	CDS	7753	8871
+scaffold_6302	Prodigal_v2.6.3	CDS	9078	10541
+scaffold_6302	Prodigal_v2.6.3	CDS	10601	11230
+scaffold_6302	Prodigal_v2.6.3	CDS	11337	12728
+scaffold_6302	Prodigal_v2.6.3	CDS	12793	13491
+scaffold_6302	Prodigal_v2.6.3	CDS	13635	14921
+scaffold_6302	Prodigal_v2.6.3	CDS	14965	15627
+# Sequence Data: seqnum=76;seqlen=9047;seqhdr="scaffold_6452"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_6452	Prodigal_v2.6.3	CDS	3	107
+scaffold_6452	Prodigal_v2.6.3	CDS	100	2250
+scaffold_6452	Prodigal_v2.6.3	CDS	2311	3321
+scaffold_6452	Prodigal_v2.6.3	CDS	3542	6082
+scaffold_6452	Prodigal_v2.6.3	CDS	6322	6873
+scaffold_6452	Prodigal_v2.6.3	CDS	7379	8116
+scaffold_6452	Prodigal_v2.6.3	CDS	8113	8811
+scaffold_6452	Prodigal_v2.6.3	CDS	8883	9047
+# Sequence Data: seqnum=77;seqlen=8753;seqhdr="scaffold_6453"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_6453	Prodigal_v2.6.3	CDS	377	1975
+scaffold_6453	Prodigal_v2.6.3	CDS	2031	3044
+scaffold_6453	Prodigal_v2.6.3	CDS	3125	4891
+scaffold_6453	Prodigal_v2.6.3	CDS	5250	6590
+scaffold_6453	Prodigal_v2.6.3	CDS	6674	8155
+scaffold_6453	Prodigal_v2.6.3	CDS	8234	8752
+# Sequence Data: seqnum=78;seqlen=11405;seqhdr="scaffold_6711"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_6711	Prodigal_v2.6.3	CDS	2	787
+scaffold_6711	Prodigal_v2.6.3	CDS	945	2228
+scaffold_6711	Prodigal_v2.6.3	CDS	2353	2886
+scaffold_6711	Prodigal_v2.6.3	CDS	3157	4122
+scaffold_6711	Prodigal_v2.6.3	CDS	4260	5192
+scaffold_6711	Prodigal_v2.6.3	CDS	5943	6836
+scaffold_6711	Prodigal_v2.6.3	CDS	6843	7556
+scaffold_6711	Prodigal_v2.6.3	CDS	7558	8274
+scaffold_6711	Prodigal_v2.6.3	CDS	8310	9317
+scaffold_6711	Prodigal_v2.6.3	CDS	9368	10117
+scaffold_6711	Prodigal_v2.6.3	CDS	10313	11131
+# Sequence Data: seqnum=79;seqlen=9975;seqhdr="scaffold_6841"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_6841	Prodigal_v2.6.3	CDS	70	1305
+scaffold_6841	Prodigal_v2.6.3	CDS	1302	2186
+scaffold_6841	Prodigal_v2.6.3	CDS	2463	3155
+scaffold_6841	Prodigal_v2.6.3	CDS	3302	4291
+scaffold_6841	Prodigal_v2.6.3	CDS	4384	5535
+scaffold_6841	Prodigal_v2.6.3	CDS	5624	6526
+scaffold_6841	Prodigal_v2.6.3	CDS	6528	7835
+scaffold_6841	Prodigal_v2.6.3	CDS	7940	8863
+scaffold_6841	Prodigal_v2.6.3	CDS	9046	9924
+# Sequence Data: seqnum=80;seqlen=15902;seqhdr="scaffold_6901"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_6901	Prodigal_v2.6.3	CDS	111	1076
+scaffold_6901	Prodigal_v2.6.3	CDS	1070	2125
+scaffold_6901	Prodigal_v2.6.3	CDS	2128	3261
+scaffold_6901	Prodigal_v2.6.3	CDS	3291	4406
+scaffold_6901	Prodigal_v2.6.3	CDS	4444	4578
+scaffold_6901	Prodigal_v2.6.3	CDS	4646	5083
+scaffold_6901	Prodigal_v2.6.3	CDS	5099	5641
+scaffold_6901	Prodigal_v2.6.3	CDS	5681	6301
+scaffold_6901	Prodigal_v2.6.3	CDS	6425	6892
+scaffold_6901	Prodigal_v2.6.3	CDS	7008	8012
+scaffold_6901	Prodigal_v2.6.3	CDS	8029	9186
+scaffold_6901	Prodigal_v2.6.3	CDS	9458	9826
+scaffold_6901	Prodigal_v2.6.3	CDS	9851	10537
+scaffold_6901	Prodigal_v2.6.3	CDS	10603	10854
+scaffold_6901	Prodigal_v2.6.3	CDS	10915	11397
+scaffold_6901	Prodigal_v2.6.3	CDS	11508	13367
+scaffold_6901	Prodigal_v2.6.3	CDS	13375	14274
+scaffold_6901	Prodigal_v2.6.3	CDS	14290	15672
+scaffold_6901	Prodigal_v2.6.3	CDS	15677	15901
+# Sequence Data: seqnum=81;seqlen=8364;seqhdr="scaffold_6986"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_6986	Prodigal_v2.6.3	CDS	1	114
+scaffold_6986	Prodigal_v2.6.3	CDS	219	1262
+scaffold_6986	Prodigal_v2.6.3	CDS	1431	2414
+scaffold_6986	Prodigal_v2.6.3	CDS	2988	3278
+scaffold_6986	Prodigal_v2.6.3	CDS	3425	4261
+scaffold_6986	Prodigal_v2.6.3	CDS	4922	5752
+scaffold_6986	Prodigal_v2.6.3	CDS	6018	7613
+scaffold_6986	Prodigal_v2.6.3	CDS	7613	8362
+# Sequence Data: seqnum=82;seqlen=8243;seqhdr="scaffold_7158"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_7158	Prodigal_v2.6.3	CDS	2	1033
+scaffold_7158	Prodigal_v2.6.3	CDS	1243	2751
+scaffold_7158	Prodigal_v2.6.3	CDS	3058	4371
+scaffold_7158	Prodigal_v2.6.3	CDS	4758	5549
+scaffold_7158	Prodigal_v2.6.3	CDS	5566	6669
+scaffold_7158	Prodigal_v2.6.3	CDS	6688	7974
+scaffold_7158	Prodigal_v2.6.3	CDS	8064	8243
+# Sequence Data: seqnum=83;seqlen=10215;seqhdr="scaffold_7269"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_7269	Prodigal_v2.6.3	CDS	2	379
+scaffold_7269	Prodigal_v2.6.3	CDS	578	1099
+scaffold_7269	Prodigal_v2.6.3	CDS	1096	2181
+scaffold_7269	Prodigal_v2.6.3	CDS	2135	2335
+scaffold_7269	Prodigal_v2.6.3	CDS	2489	3364
+scaffold_7269	Prodigal_v2.6.3	CDS	3502	3732
+scaffold_7269	Prodigal_v2.6.3	CDS	3880	5397
+scaffold_7269	Prodigal_v2.6.3	CDS	5595	5864
+scaffold_7269	Prodigal_v2.6.3	CDS	5994	6188
+scaffold_7269	Prodigal_v2.6.3	CDS	6249	6515
+scaffold_7269	Prodigal_v2.6.3	CDS	6778	7035
+scaffold_7269	Prodigal_v2.6.3	CDS	7344	8213
+scaffold_7269	Prodigal_v2.6.3	CDS	8415	8912
+scaffold_7269	Prodigal_v2.6.3	CDS	8970	9986
+scaffold_7269	Prodigal_v2.6.3	CDS	9983	10147
+# Sequence Data: seqnum=84;seqlen=31147;seqhdr="scaffold_7301"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_7301	Prodigal_v2.6.3	CDS	3	1367
+scaffold_7301	Prodigal_v2.6.3	CDS	1382	1651
+scaffold_7301	Prodigal_v2.6.3	CDS	1898	2542
+scaffold_7301	Prodigal_v2.6.3	CDS	2638	3114
+scaffold_7301	Prodigal_v2.6.3	CDS	3130	3342
+scaffold_7301	Prodigal_v2.6.3	CDS	4114	6354
+scaffold_7301	Prodigal_v2.6.3	CDS	6635	7453
+scaffold_7301	Prodigal_v2.6.3	CDS	7491	8849
+scaffold_7301	Prodigal_v2.6.3	CDS	8915	10333
+scaffold_7301	Prodigal_v2.6.3	CDS	10564	10752
+scaffold_7301	Prodigal_v2.6.3	CDS	10771	11637
+scaffold_7301	Prodigal_v2.6.3	CDS	11873	13024
+scaffold_7301	Prodigal_v2.6.3	CDS	13047	13370
+scaffold_7301	Prodigal_v2.6.3	CDS	13402	13938
+scaffold_7301	Prodigal_v2.6.3	CDS	13935	14972
+scaffold_7301	Prodigal_v2.6.3	CDS	14993	15256
+scaffold_7301	Prodigal_v2.6.3	CDS	15421	16113
+scaffold_7301	Prodigal_v2.6.3	CDS	16131	16568
+scaffold_7301	Prodigal_v2.6.3	CDS	16871	18946
+scaffold_7301	Prodigal_v2.6.3	CDS	18943	20757
+scaffold_7301	Prodigal_v2.6.3	CDS	20962	23211
+scaffold_7301	Prodigal_v2.6.3	CDS	23304	24419
+scaffold_7301	Prodigal_v2.6.3	CDS	24416	26221
+scaffold_7301	Prodigal_v2.6.3	CDS	26362	29256
+scaffold_7301	Prodigal_v2.6.3	CDS	29552	31147
+# Sequence Data: seqnum=85;seqlen=8105;seqhdr="scaffold_7369"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_7369	Prodigal_v2.6.3	CDS	2	154
+scaffold_7369	Prodigal_v2.6.3	CDS	455	1321
+scaffold_7369	Prodigal_v2.6.3	CDS	1686	3098
+scaffold_7369	Prodigal_v2.6.3	CDS	3584	5770
+scaffold_7369	Prodigal_v2.6.3	CDS	6026	7765
+# Sequence Data: seqnum=86;seqlen=8020;seqhdr="scaffold_7503"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_7503	Prodigal_v2.6.3	CDS	27	1319
+scaffold_7503	Prodigal_v2.6.3	CDS	1400	2173
+scaffold_7503	Prodigal_v2.6.3	CDS	2167	3102
+scaffold_7503	Prodigal_v2.6.3	CDS	3168	3887
+scaffold_7503	Prodigal_v2.6.3	CDS	4005	4598
+scaffold_7503	Prodigal_v2.6.3	CDS	5106	5705
+scaffold_7503	Prodigal_v2.6.3	CDS	5705	6979
+scaffold_7503	Prodigal_v2.6.3	CDS	7091	8020
+# Sequence Data: seqnum=87;seqlen=12408;seqhdr="scaffold_7542"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_7542	Prodigal_v2.6.3	CDS	3	425
+scaffold_7542	Prodigal_v2.6.3	CDS	1152	2240
+scaffold_7542	Prodigal_v2.6.3	CDS	2221	2643
+scaffold_7542	Prodigal_v2.6.3	CDS	2789	3403
+scaffold_7542	Prodigal_v2.6.3	CDS	3632	7696
+scaffold_7542	Prodigal_v2.6.3	CDS	8062	10149
+scaffold_7542	Prodigal_v2.6.3	CDS	10406	12229
+scaffold_7542	Prodigal_v2.6.3	CDS	12343	12408
+# Sequence Data: seqnum=88;seqlen=7920;seqhdr="scaffold_7671"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="4|Akkermansia_muciniphila_ATCC_BAA_835|B|55.8|11|0";gc_cont=55.80;transl_table=11;uses_sd=0
+scaffold_7671	Prodigal_v2.6.3	CDS	2	1813
+scaffold_7671	Prodigal_v2.6.3	CDS	1813	3012
+scaffold_7671	Prodigal_v2.6.3	CDS	3050	3721
+scaffold_7671	Prodigal_v2.6.3	CDS	3772	5610
+scaffold_7671	Prodigal_v2.6.3	CDS	5698	6942
+scaffold_7671	Prodigal_v2.6.3	CDS	7053	7919
+# Sequence Data: seqnum=89;seqlen=9850;seqhdr="scaffold_7709"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_7709	Prodigal_v2.6.3	CDS	778	1773
+scaffold_7709	Prodigal_v2.6.3	CDS	2003	5215
+scaffold_7709	Prodigal_v2.6.3	CDS	5342	6232
+scaffold_7709	Prodigal_v2.6.3	CDS	6364	7503
+scaffold_7709	Prodigal_v2.6.3	CDS	7530	8561
+scaffold_7709	Prodigal_v2.6.3	CDS	8808	9848
+# Sequence Data: seqnum=90;seqlen=8228;seqhdr="scaffold_7772"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_7772	Prodigal_v2.6.3	CDS	3	296
+scaffold_7772	Prodigal_v2.6.3	CDS	495	1526
+scaffold_7772	Prodigal_v2.6.3	CDS	1594	1782
+scaffold_7772	Prodigal_v2.6.3	CDS	1788	2279
+scaffold_7772	Prodigal_v2.6.3	CDS	2508	3776
+scaffold_7772	Prodigal_v2.6.3	CDS	3871	4893
+scaffold_7772	Prodigal_v2.6.3	CDS	4977	6386
+scaffold_7772	Prodigal_v2.6.3	CDS	6547	7881
+scaffold_7772	Prodigal_v2.6.3	CDS	7884	8201
+# Sequence Data: seqnum=91;seqlen=10559;seqhdr="scaffold_7913"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_7913	Prodigal_v2.6.3	CDS	2	2461
+scaffold_7913	Prodigal_v2.6.3	CDS	3082	3912
+scaffold_7913	Prodigal_v2.6.3	CDS	3983	6427
+scaffold_7913	Prodigal_v2.6.3	CDS	6678	7775
+scaffold_7913	Prodigal_v2.6.3	CDS	8108	9793
+scaffold_7913	Prodigal_v2.6.3	CDS	10014	10559
+# Sequence Data: seqnum=92;seqlen=7728;seqhdr="scaffold_8000"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_8000	Prodigal_v2.6.3	CDS	120	1553
+scaffold_8000	Prodigal_v2.6.3	CDS	1904	2863
+scaffold_8000	Prodigal_v2.6.3	CDS	2918	4996
+scaffold_8000	Prodigal_v2.6.3	CDS	4974	5426
+scaffold_8000	Prodigal_v2.6.3	CDS	5471	6850
+scaffold_8000	Prodigal_v2.6.3	CDS	7010	7726
+# Sequence Data: seqnum=93;seqlen=7695;seqhdr="scaffold_8056"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_8056	Prodigal_v2.6.3	CDS	1	279
+scaffold_8056	Prodigal_v2.6.3	CDS	383	1420
+scaffold_8056	Prodigal_v2.6.3	CDS	1551	3167
+scaffold_8056	Prodigal_v2.6.3	CDS	3463	3657
+scaffold_8056	Prodigal_v2.6.3	CDS	3828	4223
+scaffold_8056	Prodigal_v2.6.3	CDS	4856	5746
+scaffold_8056	Prodigal_v2.6.3	CDS	5954	7255
+scaffold_8056	Prodigal_v2.6.3	CDS	7383	7694
+# Sequence Data: seqnum=94;seqlen=13797;seqhdr="scaffold_8210"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_8210	Prodigal_v2.6.3	CDS	2	1531
+scaffold_8210	Prodigal_v2.6.3	CDS	1579	2505
+scaffold_8210	Prodigal_v2.6.3	CDS	2506	3201
+scaffold_8210	Prodigal_v2.6.3	CDS	3421	3783
+scaffold_8210	Prodigal_v2.6.3	CDS	3788	5137
+scaffold_8210	Prodigal_v2.6.3	CDS	5266	5538
+scaffold_8210	Prodigal_v2.6.3	CDS	5558	5788
+scaffold_8210	Prodigal_v2.6.3	CDS	5823	6233
+scaffold_8210	Prodigal_v2.6.3	CDS	6333	6707
+scaffold_8210	Prodigal_v2.6.3	CDS	6759	7517
+scaffold_8210	Prodigal_v2.6.3	CDS	7690	8031
+scaffold_8210	Prodigal_v2.6.3	CDS	8209	8760
+scaffold_8210	Prodigal_v2.6.3	CDS	8872	9735
+scaffold_8210	Prodigal_v2.6.3	CDS	9905	10762
+scaffold_8210	Prodigal_v2.6.3	CDS	10978	11334
+scaffold_8210	Prodigal_v2.6.3	CDS	11442	12959
+scaffold_8210	Prodigal_v2.6.3	CDS	13198	13797
+# Sequence Data: seqnum=95;seqlen=7428;seqhdr="scaffold_8557"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_8557	Prodigal_v2.6.3	CDS	3	338
+scaffold_8557	Prodigal_v2.6.3	CDS	474	1457
+scaffold_8557	Prodigal_v2.6.3	CDS	1535	2734
+scaffold_8557	Prodigal_v2.6.3	CDS	2910	5342
+scaffold_8557	Prodigal_v2.6.3	CDS	5357	6388
+scaffold_8557	Prodigal_v2.6.3	CDS	7036	7428
+# Sequence Data: seqnum=96;seqlen=10538;seqhdr="scaffold_8601"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_8601	Prodigal_v2.6.3	CDS	3	71
+scaffold_8601	Prodigal_v2.6.3	CDS	65	1030
+scaffold_8601	Prodigal_v2.6.3	CDS	1103	1312
+scaffold_8601	Prodigal_v2.6.3	CDS	1747	2403
+scaffold_8601	Prodigal_v2.6.3	CDS	2517	3548
+scaffold_8601	Prodigal_v2.6.3	CDS	3638	4594
+scaffold_8601	Prodigal_v2.6.3	CDS	4767	5735
+scaffold_8601	Prodigal_v2.6.3	CDS	5920	6738
+scaffold_8601	Prodigal_v2.6.3	CDS	6748	7464
+scaffold_8601	Prodigal_v2.6.3	CDS	7461	8321
+scaffold_8601	Prodigal_v2.6.3	CDS	9006	9602
+scaffold_8601	Prodigal_v2.6.3	CDS	9809	10537
+# Sequence Data: seqnum=97;seqlen=8363;seqhdr="scaffold_8606"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_8606	Prodigal_v2.6.3	CDS	1	165
+scaffold_8606	Prodigal_v2.6.3	CDS	305	859
+scaffold_8606	Prodigal_v2.6.3	CDS	1214	1492
+scaffold_8606	Prodigal_v2.6.3	CDS	2147	2800
+scaffold_8606	Prodigal_v2.6.3	CDS	3123	3359
+scaffold_8606	Prodigal_v2.6.3	CDS	3425	3640
+scaffold_8606	Prodigal_v2.6.3	CDS	3606	5483
+scaffold_8606	Prodigal_v2.6.3	CDS	5533	5868
+scaffold_8606	Prodigal_v2.6.3	CDS	6546	6809
+scaffold_8606	Prodigal_v2.6.3	CDS	7250	7414
+scaffold_8606	Prodigal_v2.6.3	CDS	7624	7845
+scaffold_8606	Prodigal_v2.6.3	CDS	7979	8218
+scaffold_8606	Prodigal_v2.6.3	CDS	8264	8362
+# Sequence Data: seqnum=98;seqlen=9462;seqhdr="scaffold_8609"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_8609	Prodigal_v2.6.3	CDS	2	502
+scaffold_8609	Prodigal_v2.6.3	CDS	549	1325
+scaffold_8609	Prodigal_v2.6.3	CDS	1409	3175
+scaffold_8609	Prodigal_v2.6.3	CDS	3315	4706
+scaffold_8609	Prodigal_v2.6.3	CDS	4792	6195
+scaffold_8609	Prodigal_v2.6.3	CDS	6299	7138
+scaffold_8609	Prodigal_v2.6.3	CDS	7672	9462
+# Sequence Data: seqnum=99;seqlen=12993;seqhdr="scaffold_8996"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_8996	Prodigal_v2.6.3	CDS	316	1977
+scaffold_8996	Prodigal_v2.6.3	CDS	1992	3161
+scaffold_8996	Prodigal_v2.6.3	CDS	3516	5249
+scaffold_8996	Prodigal_v2.6.3	CDS	5269	5571
+scaffold_8996	Prodigal_v2.6.3	CDS	5729	6043
+scaffold_8996	Prodigal_v2.6.3	CDS	6174	7022
+scaffold_8996	Prodigal_v2.6.3	CDS	7122	8462
+scaffold_8996	Prodigal_v2.6.3	CDS	8828	9127
+scaffold_8996	Prodigal_v2.6.3	CDS	9235	10506
+scaffold_8996	Prodigal_v2.6.3	CDS	10759	11295
+scaffold_8996	Prodigal_v2.6.3	CDS	11416	12993
+# Sequence Data: seqnum=100;seqlen=7120;seqhdr="scaffold_9170"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_9170	Prodigal_v2.6.3	CDS	430	963
+scaffold_9170	Prodigal_v2.6.3	CDS	956	1183
+scaffold_9170	Prodigal_v2.6.3	CDS	1323	2846
+scaffold_9170	Prodigal_v2.6.3	CDS	2949	3389
+scaffold_9170	Prodigal_v2.6.3	CDS	3439	4020
+scaffold_9170	Prodigal_v2.6.3	CDS	4013	4201
+scaffold_9170	Prodigal_v2.6.3	CDS	4265	4444
+scaffold_9170	Prodigal_v2.6.3	CDS	4913	5650
+scaffold_9170	Prodigal_v2.6.3	CDS	5679	6482
+scaffold_9170	Prodigal_v2.6.3	CDS	6542	7120
+# Sequence Data: seqnum=101;seqlen=7097;seqhdr="scaffold_9218"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_9218	Prodigal_v2.6.3	CDS	2	628
+scaffold_9218	Prodigal_v2.6.3	CDS	676	1809
+scaffold_9218	Prodigal_v2.6.3	CDS	1806	4892
+scaffold_9218	Prodigal_v2.6.3	CDS	5080	5835
+scaffold_9218	Prodigal_v2.6.3	CDS	5983	7095
+# Sequence Data: seqnum=102;seqlen=7061;seqhdr="scaffold_9307"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_9307	Prodigal_v2.6.3	CDS	16	2538
+scaffold_9307	Prodigal_v2.6.3	CDS	2649	3155
+scaffold_9307	Prodigal_v2.6.3	CDS	3274	4095
+scaffold_9307	Prodigal_v2.6.3	CDS	4240	4953
+scaffold_9307	Prodigal_v2.6.3	CDS	5611	7059
+# Sequence Data: seqnum=103;seqlen=7405;seqhdr="scaffold_9452"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_9452	Prodigal_v2.6.3	CDS	3	293
+scaffold_9452	Prodigal_v2.6.3	CDS	290	388
+scaffold_9452	Prodigal_v2.6.3	CDS	385	1296
+scaffold_9452	Prodigal_v2.6.3	CDS	1297	2106
+scaffold_9452	Prodigal_v2.6.3	CDS	2232	2984
+scaffold_9452	Prodigal_v2.6.3	CDS	3341	3778
+scaffold_9452	Prodigal_v2.6.3	CDS	3798	4190
+scaffold_9452	Prodigal_v2.6.3	CDS	4574	6325
+scaffold_9452	Prodigal_v2.6.3	CDS	6608	7063
+# Sequence Data: seqnum=104;seqlen=10245;seqhdr="scaffold_9605"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_9605	Prodigal_v2.6.3	CDS	1	159
+scaffold_9605	Prodigal_v2.6.3	CDS	383	934
+scaffold_9605	Prodigal_v2.6.3	CDS	1189	2007
+scaffold_9605	Prodigal_v2.6.3	CDS	2088	2825
+scaffold_9605	Prodigal_v2.6.3	CDS	2822	3505
+scaffold_9605	Prodigal_v2.6.3	CDS	3698	4075
+scaffold_9605	Prodigal_v2.6.3	CDS	4191	4379
+scaffold_9605	Prodigal_v2.6.3	CDS	4590	5141
+scaffold_9605	Prodigal_v2.6.3	CDS	5128	5301
+scaffold_9605	Prodigal_v2.6.3	CDS	5369	5551
+scaffold_9605	Prodigal_v2.6.3	CDS	5806	6534
+scaffold_9605	Prodigal_v2.6.3	CDS	6665	7018
+scaffold_9605	Prodigal_v2.6.3	CDS	7032	7202
+scaffold_9605	Prodigal_v2.6.3	CDS	7207	7419
+scaffold_9605	Prodigal_v2.6.3	CDS	7433	7630
+scaffold_9605	Prodigal_v2.6.3	CDS	7852	8385
+scaffold_9605	Prodigal_v2.6.3	CDS	8499	9575
+scaffold_9605	Prodigal_v2.6.3	CDS	9777	10244
+# Sequence Data: seqnum=105;seqlen=6934;seqhdr="scaffold_9612"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_9612	Prodigal_v2.6.3	CDS	1	750
+scaffold_9612	Prodigal_v2.6.3	CDS	885	1784
+scaffold_9612	Prodigal_v2.6.3	CDS	2032	2325
+scaffold_9612	Prodigal_v2.6.3	CDS	2829	3428
+scaffold_9612	Prodigal_v2.6.3	CDS	3587	4462
+scaffold_9612	Prodigal_v2.6.3	CDS	4568	5416
+scaffold_9612	Prodigal_v2.6.3	CDS	5419	6432
+scaffold_9612	Prodigal_v2.6.3	CDS	6455	6934
+# Sequence Data: seqnum=106;seqlen=8672;seqhdr="scaffold_9661"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_9661	Prodigal_v2.6.3	CDS	1	156
+scaffold_9661	Prodigal_v2.6.3	CDS	193	489
+scaffold_9661	Prodigal_v2.6.3	CDS	624	1259
+scaffold_9661	Prodigal_v2.6.3	CDS	1225	1971
+scaffold_9661	Prodigal_v2.6.3	CDS	2149	2469
+scaffold_9661	Prodigal_v2.6.3	CDS	3055	5511
+scaffold_9661	Prodigal_v2.6.3	CDS	5743	7146
+scaffold_9661	Prodigal_v2.6.3	CDS	7441	7695
+scaffold_9661	Prodigal_v2.6.3	CDS	7991	8671
+# Sequence Data: seqnum=107;seqlen=7929;seqhdr="scaffold_9734"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_9734	Prodigal_v2.6.3	CDS	2	700
+scaffold_9734	Prodigal_v2.6.3	CDS	1179	1616
+scaffold_9734	Prodigal_v2.6.3	CDS	1752	3470
+scaffold_9734	Prodigal_v2.6.3	CDS	4037	5545
+scaffold_9734	Prodigal_v2.6.3	CDS	5692	6852
+scaffold_9734	Prodigal_v2.6.3	CDS	7176	7730
+# Sequence Data: seqnum=108;seqlen=8231;seqhdr="scaffold_9799"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_9799	Prodigal_v2.6.3	CDS	1	615
+scaffold_9799	Prodigal_v2.6.3	CDS	944	1501
+scaffold_9799	Prodigal_v2.6.3	CDS	1498	2232
+scaffold_9799	Prodigal_v2.6.3	CDS	2306	3211
+scaffold_9799	Prodigal_v2.6.3	CDS	3554	4324
+scaffold_9799	Prodigal_v2.6.3	CDS	4480	4878
+scaffold_9799	Prodigal_v2.6.3	CDS	4959	6296
+scaffold_9799	Prodigal_v2.6.3	CDS	6660	7082
+scaffold_9799	Prodigal_v2.6.3	CDS	7229	8230
+# Sequence Data: seqnum=109;seqlen=9590;seqhdr="scaffold_9901"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_9901	Prodigal_v2.6.3	CDS	1	204
+scaffold_9901	Prodigal_v2.6.3	CDS	283	2904
+scaffold_9901	Prodigal_v2.6.3	CDS	2889	3272
+scaffold_9901	Prodigal_v2.6.3	CDS	3299	3949
+scaffold_9901	Prodigal_v2.6.3	CDS	4002	4379
+scaffold_9901	Prodigal_v2.6.3	CDS	4384	4815
+scaffold_9901	Prodigal_v2.6.3	CDS	4899	5984
+scaffold_9901	Prodigal_v2.6.3	CDS	5986	6456
+scaffold_9901	Prodigal_v2.6.3	CDS	6453	6962
+scaffold_9901	Prodigal_v2.6.3	CDS	7051	7926
+scaffold_9901	Prodigal_v2.6.3	CDS	7919	9589
+# Sequence Data: seqnum=110;seqlen=7787;seqhdr="scaffold_10435"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_10435	Prodigal_v2.6.3	CDS	1	1299
+scaffold_10435	Prodigal_v2.6.3	CDS	1811	1990
+scaffold_10435	Prodigal_v2.6.3	CDS	2256	3284
+scaffold_10435	Prodigal_v2.6.3	CDS	3575	3826
+scaffold_10435	Prodigal_v2.6.3	CDS	3935	4222
+scaffold_10435	Prodigal_v2.6.3	CDS	4413	6725
+scaffold_10435	Prodigal_v2.6.3	CDS	6938	7204
+scaffold_10435	Prodigal_v2.6.3	CDS	7464	7763
+# Sequence Data: seqnum=111;seqlen=6578;seqhdr="scaffold_10477"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_10477	Prodigal_v2.6.3	CDS	2	2161
+scaffold_10477	Prodigal_v2.6.3	CDS	2645	2953
+scaffold_10477	Prodigal_v2.6.3	CDS	3099	3797
+scaffold_10477	Prodigal_v2.6.3	CDS	3849	4640
+scaffold_10477	Prodigal_v2.6.3	CDS	4749	5669
+scaffold_10477	Prodigal_v2.6.3	CDS	6336	6578
+# Sequence Data: seqnum=112;seqlen=9503;seqhdr="scaffold_10690"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_10690	Prodigal_v2.6.3	CDS	1	540
+scaffold_10690	Prodigal_v2.6.3	CDS	1010	1306
+scaffold_10690	Prodigal_v2.6.3	CDS	1323	2312
+scaffold_10690	Prodigal_v2.6.3	CDS	2409	3671
+scaffold_10690	Prodigal_v2.6.3	CDS	3801	6452
+scaffold_10690	Prodigal_v2.6.3	CDS	7407	8336
+scaffold_10690	Prodigal_v2.6.3	CDS	8850	9101
+scaffold_10690	Prodigal_v2.6.3	CDS	9101	9460
+# Sequence Data: seqnum=113;seqlen=6493;seqhdr="scaffold_10717"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_10717	Prodigal_v2.6.3	CDS	791	1717
+scaffold_10717	Prodigal_v2.6.3	CDS	1733	2440
+scaffold_10717	Prodigal_v2.6.3	CDS	2471	3220
+scaffold_10717	Prodigal_v2.6.3	CDS	3351	3563
+scaffold_10717	Prodigal_v2.6.3	CDS	3532	5310
+scaffold_10717	Prodigal_v2.6.3	CDS	5560	5925
+# Sequence Data: seqnum=114;seqlen=6418;seqhdr="scaffold_10923"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_10923	Prodigal_v2.6.3	CDS	353	643
+scaffold_10923	Prodigal_v2.6.3	CDS	849	1052
+scaffold_10923	Prodigal_v2.6.3	CDS	1467	1712
+scaffold_10923	Prodigal_v2.6.3	CDS	1769	2707
+scaffold_10923	Prodigal_v2.6.3	CDS	2973	3221
+scaffold_10923	Prodigal_v2.6.3	CDS	3243	4526
+scaffold_10923	Prodigal_v2.6.3	CDS	4690	5649
+scaffold_10923	Prodigal_v2.6.3	CDS	6299	6418
+# Sequence Data: seqnum=115;seqlen=6318;seqhdr="scaffold_11207"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_11207	Prodigal_v2.6.3	CDS	2	844
+scaffold_11207	Prodigal_v2.6.3	CDS	841	1455
+scaffold_11207	Prodigal_v2.6.3	CDS	1400	2644
+scaffold_11207	Prodigal_v2.6.3	CDS	2875	4158
+scaffold_11207	Prodigal_v2.6.3	CDS	4151	5941
+# Sequence Data: seqnum=116;seqlen=8451;seqhdr="scaffold_11355"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_11355	Prodigal_v2.6.3	CDS	1	441
+scaffold_11355	Prodigal_v2.6.3	CDS	554	1315
+scaffold_11355	Prodigal_v2.6.3	CDS	1312	2046
+scaffold_11355	Prodigal_v2.6.3	CDS	2075	3055
+scaffold_11355	Prodigal_v2.6.3	CDS	3142	3951
+scaffold_11355	Prodigal_v2.6.3	CDS	3951	4652
+scaffold_11355	Prodigal_v2.6.3	CDS	4716	5912
+scaffold_11355	Prodigal_v2.6.3	CDS	6451	7218
+scaffold_11355	Prodigal_v2.6.3	CDS	7310	8239
+# Sequence Data: seqnum=117;seqlen=10192;seqhdr="scaffold_11456"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_11456	Prodigal_v2.6.3	CDS	1	270
+scaffold_11456	Prodigal_v2.6.3	CDS	267	734
+scaffold_11456	Prodigal_v2.6.3	CDS	893	1597
+scaffold_11456	Prodigal_v2.6.3	CDS	1657	2406
+scaffold_11456	Prodigal_v2.6.3	CDS	2403	2915
+scaffold_11456	Prodigal_v2.6.3	CDS	3061	3789
+scaffold_11456	Prodigal_v2.6.3	CDS	3960	4418
+scaffold_11456	Prodigal_v2.6.3	CDS	4434	5537
+scaffold_11456	Prodigal_v2.6.3	CDS	6353	6502
+scaffold_11456	Prodigal_v2.6.3	CDS	6544	6768
+scaffold_11456	Prodigal_v2.6.3	CDS	6808	7416
+scaffold_11456	Prodigal_v2.6.3	CDS	7435	7524
+scaffold_11456	Prodigal_v2.6.3	CDS	7508	7780
+scaffold_11456	Prodigal_v2.6.3	CDS	7838	8542
+scaffold_11456	Prodigal_v2.6.3	CDS	8747	9277
+scaffold_11456	Prodigal_v2.6.3	CDS	9335	9709
+scaffold_11456	Prodigal_v2.6.3	CDS	9756	9962
+# Sequence Data: seqnum=118;seqlen=9341;seqhdr="scaffold_11550"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_11550	Prodigal_v2.6.3	CDS	43	582
+scaffold_11550	Prodigal_v2.6.3	CDS	609	1223
+scaffold_11550	Prodigal_v2.6.3	CDS	1265	2575
+scaffold_11550	Prodigal_v2.6.3	CDS	2639	2896
+scaffold_11550	Prodigal_v2.6.3	CDS	3260	3715
+scaffold_11550	Prodigal_v2.6.3	CDS	3820	3939
+scaffold_11550	Prodigal_v2.6.3	CDS	4102	4638
+scaffold_11550	Prodigal_v2.6.3	CDS	4793	5692
+scaffold_11550	Prodigal_v2.6.3	CDS	5721	5975
+scaffold_11550	Prodigal_v2.6.3	CDS	6182	6655
+scaffold_11550	Prodigal_v2.6.3	CDS	7056	7313
+scaffold_11550	Prodigal_v2.6.3	CDS	7444	8292
+scaffold_11550	Prodigal_v2.6.3	CDS	8319	8573
+scaffold_11550	Prodigal_v2.6.3	CDS	8838	9065
+scaffold_11550	Prodigal_v2.6.3	CDS	9105	9215
+# Sequence Data: seqnum=119;seqlen=14275;seqhdr="scaffold_11571"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_11571	Prodigal_v2.6.3	CDS	2	460
+scaffold_11571	Prodigal_v2.6.3	CDS	574	2172
+scaffold_11571	Prodigal_v2.6.3	CDS	2472	2963
+scaffold_11571	Prodigal_v2.6.3	CDS	3245	5176
+scaffold_11571	Prodigal_v2.6.3	CDS	5163	6773
+scaffold_11571	Prodigal_v2.6.3	CDS	6956	8302
+scaffold_11571	Prodigal_v2.6.3	CDS	8256	8507
+scaffold_11571	Prodigal_v2.6.3	CDS	8994	10292
+scaffold_11571	Prodigal_v2.6.3	CDS	10329	10988
+scaffold_11571	Prodigal_v2.6.3	CDS	11111	12364
+scaffold_11571	Prodigal_v2.6.3	CDS	12378	14273
+# Sequence Data: seqnum=120;seqlen=9871;seqhdr="scaffold_11643"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_11643	Prodigal_v2.6.3	CDS	359	703
+scaffold_11643	Prodigal_v2.6.3	CDS	811	1758
+scaffold_11643	Prodigal_v2.6.3	CDS	1840	1983
+scaffold_11643	Prodigal_v2.6.3	CDS	2091	2981
+scaffold_11643	Prodigal_v2.6.3	CDS	2974	3915
+scaffold_11643	Prodigal_v2.6.3	CDS	3938	5311
+scaffold_11643	Prodigal_v2.6.3	CDS	5333	6199
+scaffold_11643	Prodigal_v2.6.3	CDS	6320	6883
+scaffold_11643	Prodigal_v2.6.3	CDS	6873	7106
+scaffold_11643	Prodigal_v2.6.3	CDS	7201	7548
+scaffold_11643	Prodigal_v2.6.3	CDS	7604	9352
+scaffold_11643	Prodigal_v2.6.3	CDS	9349	9870
+# Sequence Data: seqnum=121;seqlen=9254;seqhdr="scaffold_11747"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_11747	Prodigal_v2.6.3	CDS	2	82
+scaffold_11747	Prodigal_v2.6.3	CDS	186	1133
+scaffold_11747	Prodigal_v2.6.3	CDS	1234	2058
+scaffold_11747	Prodigal_v2.6.3	CDS	2164	3732
+scaffold_11747	Prodigal_v2.6.3	CDS	3843	4730
+scaffold_11747	Prodigal_v2.6.3	CDS	4746	5534
+scaffold_11747	Prodigal_v2.6.3	CDS	5815	6315
+scaffold_11747	Prodigal_v2.6.3	CDS	6442	7218
+scaffold_11747	Prodigal_v2.6.3	CDS	7343	7597
+scaffold_11747	Prodigal_v2.6.3	CDS	7692	8384
+scaffold_11747	Prodigal_v2.6.3	CDS	8414	9253
+# Sequence Data: seqnum=122;seqlen=8508;seqhdr="scaffold_11909"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_11909	Prodigal_v2.6.3	CDS	1	186
+scaffold_11909	Prodigal_v2.6.3	CDS	431	1030
+scaffold_11909	Prodigal_v2.6.3	CDS	1294	2550
+scaffold_11909	Prodigal_v2.6.3	CDS	2779	3678
+scaffold_11909	Prodigal_v2.6.3	CDS	3821	4177
+scaffold_11909	Prodigal_v2.6.3	CDS	4206	4403
+scaffold_11909	Prodigal_v2.6.3	CDS	4419	4880
+scaffold_11909	Prodigal_v2.6.3	CDS	5120	5695
+scaffold_11909	Prodigal_v2.6.3	CDS	5710	6045
+scaffold_11909	Prodigal_v2.6.3	CDS	6252	6458
+scaffold_11909	Prodigal_v2.6.3	CDS	6546	8198
+# Sequence Data: seqnum=123;seqlen=8001;seqhdr="scaffold_12026"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_12026	Prodigal_v2.6.3	CDS	3	239
+scaffold_12026	Prodigal_v2.6.3	CDS	344	613
+scaffold_12026	Prodigal_v2.6.3	CDS	736	2394
+scaffold_12026	Prodigal_v2.6.3	CDS	2705	3004
+scaffold_12026	Prodigal_v2.6.3	CDS	3177	4622
+scaffold_12026	Prodigal_v2.6.3	CDS	4856	5326
+scaffold_12026	Prodigal_v2.6.3	CDS	5484	6650
+scaffold_12026	Prodigal_v2.6.3	CDS	6787	7434
+scaffold_12026	Prodigal_v2.6.3	CDS	7545	7760
+scaffold_12026	Prodigal_v2.6.3	CDS	7921	8001
+# Sequence Data: seqnum=124;seqlen=8336;seqhdr="scaffold_12069"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_12069	Prodigal_v2.6.3	CDS	612	1541
+scaffold_12069	Prodigal_v2.6.3	CDS	1702	2358
+scaffold_12069	Prodigal_v2.6.3	CDS	2355	5000
+scaffold_12069	Prodigal_v2.6.3	CDS	5017	5766
+scaffold_12069	Prodigal_v2.6.3	CDS	5837	6076
+scaffold_12069	Prodigal_v2.6.3	CDS	6080	7756
+scaffold_12069	Prodigal_v2.6.3	CDS	7749	8336
+# Sequence Data: seqnum=125;seqlen=7278;seqhdr="scaffold_12482"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_12482	Prodigal_v2.6.3	CDS	2	1810
+scaffold_12482	Prodigal_v2.6.3	CDS	1913	2785
+scaffold_12482	Prodigal_v2.6.3	CDS	2785	3525
+scaffold_12482	Prodigal_v2.6.3	CDS	3678	4658
+scaffold_12482	Prodigal_v2.6.3	CDS	4686	5714
+scaffold_12482	Prodigal_v2.6.3	CDS	5711	6448
+scaffold_12482	Prodigal_v2.6.3	CDS	6834	7091
+# Sequence Data: seqnum=126;seqlen=9870;seqhdr="scaffold_12657"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_12657	Prodigal_v2.6.3	CDS	3	554
+scaffold_12657	Prodigal_v2.6.3	CDS	776	1807
+scaffold_12657	Prodigal_v2.6.3	CDS	1820	2335
+scaffold_12657	Prodigal_v2.6.3	CDS	2420	2713
+scaffold_12657	Prodigal_v2.6.3	CDS	2780	3583
+scaffold_12657	Prodigal_v2.6.3	CDS	3583	4728
+scaffold_12657	Prodigal_v2.6.3	CDS	4730	5191
+scaffold_12657	Prodigal_v2.6.3	CDS	5351	7348
+scaffold_12657	Prodigal_v2.6.3	CDS	7463	7711
+scaffold_12657	Prodigal_v2.6.3	CDS	7842	8312
+scaffold_12657	Prodigal_v2.6.3	CDS	8323	9249
+scaffold_12657	Prodigal_v2.6.3	CDS	9321	9704
+# Sequence Data: seqnum=127;seqlen=16553;seqhdr="scaffold_12707"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_12707	Prodigal_v2.6.3	CDS	1	138
+scaffold_12707	Prodigal_v2.6.3	CDS	169	1020
+scaffold_12707	Prodigal_v2.6.3	CDS	1310	2563
+scaffold_12707	Prodigal_v2.6.3	CDS	2657	3430
+scaffold_12707	Prodigal_v2.6.3	CDS	3885	4505
+scaffold_12707	Prodigal_v2.6.3	CDS	4593	5342
+scaffold_12707	Prodigal_v2.6.3	CDS	5326	5571
+scaffold_12707	Prodigal_v2.6.3	CDS	5589	5966
+scaffold_12707	Prodigal_v2.6.3	CDS	5982	6917
+scaffold_12707	Prodigal_v2.6.3	CDS	6917	8242
+scaffold_12707	Prodigal_v2.6.3	CDS	8542	9213
+scaffold_12707	Prodigal_v2.6.3	CDS	9427	10047
+scaffold_12707	Prodigal_v2.6.3	CDS	10028	10879
+scaffold_12707	Prodigal_v2.6.3	CDS	10933	12072
+scaffold_12707	Prodigal_v2.6.3	CDS	12246	13301
+scaffold_12707	Prodigal_v2.6.3	CDS	13572	15281
+scaffold_12707	Prodigal_v2.6.3	CDS	15300	16553
+# Sequence Data: seqnum=128;seqlen=5746;seqhdr="scaffold_13058"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_13058	Prodigal_v2.6.3	CDS	1	837
+scaffold_13058	Prodigal_v2.6.3	CDS	980	1237
+scaffold_13058	Prodigal_v2.6.3	CDS	1312	3336
+scaffold_13058	Prodigal_v2.6.3	CDS	3376	4344
+scaffold_13058	Prodigal_v2.6.3	CDS	4403	5092
+scaffold_13058	Prodigal_v2.6.3	CDS	5089	5745
+# Sequence Data: seqnum=129;seqlen=11758;seqhdr="scaffold_13188"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_13188	Prodigal_v2.6.3	CDS	194	340
+scaffold_13188	Prodigal_v2.6.3	CDS	400	507
+scaffold_13188	Prodigal_v2.6.3	CDS	524	1948
+scaffold_13188	Prodigal_v2.6.3	CDS	2040	2696
+scaffold_13188	Prodigal_v2.6.3	CDS	3484	4854
+scaffold_13188	Prodigal_v2.6.3	CDS	5243	6331
+scaffold_13188	Prodigal_v2.6.3	CDS	6324	7004
+scaffold_13188	Prodigal_v2.6.3	CDS	7156	9006
+scaffold_13188	Prodigal_v2.6.3	CDS	9030	10196
+scaffold_13188	Prodigal_v2.6.3	CDS	10515	11069
+scaffold_13188	Prodigal_v2.6.3	CDS	11066	11620
+scaffold_13188	Prodigal_v2.6.3	CDS	11666	11758
+# Sequence Data: seqnum=130;seqlen=5968;seqhdr="scaffold_13280"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_13280	Prodigal_v2.6.3	CDS	3	458
+scaffold_13280	Prodigal_v2.6.3	CDS	397	969
+scaffold_13280	Prodigal_v2.6.3	CDS	994	2919
+scaffold_13280	Prodigal_v2.6.3	CDS	3098	4102
+scaffold_13280	Prodigal_v2.6.3	CDS	4406	4903
+scaffold_13280	Prodigal_v2.6.3	CDS	5005	5517
+scaffold_13280	Prodigal_v2.6.3	CDS	5855	5968
+# Sequence Data: seqnum=131;seqlen=5569;seqhdr="scaffold_13695"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_13695	Prodigal_v2.6.3	CDS	129	500
+scaffold_13695	Prodigal_v2.6.3	CDS	661	1572
+scaffold_13695	Prodigal_v2.6.3	CDS	1572	2171
+scaffold_13695	Prodigal_v2.6.3	CDS	2493	3287
+scaffold_13695	Prodigal_v2.6.3	CDS	3617	5128
+scaffold_13695	Prodigal_v2.6.3	CDS	5296	5568
+# Sequence Data: seqnum=132;seqlen=9272;seqhdr="scaffold_13731"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_13731	Prodigal_v2.6.3	CDS	1	111
+scaffold_13731	Prodigal_v2.6.3	CDS	95	661
+scaffold_13731	Prodigal_v2.6.3	CDS	798	1406
+scaffold_13731	Prodigal_v2.6.3	CDS	1635	2369
+scaffold_13731	Prodigal_v2.6.3	CDS	2578	3336
+scaffold_13731	Prodigal_v2.6.3	CDS	3336	3962
+scaffold_13731	Prodigal_v2.6.3	CDS	4166	5803
+scaffold_13731	Prodigal_v2.6.3	CDS	5812	6699
+scaffold_13731	Prodigal_v2.6.3	CDS	6921	7412
+scaffold_13731	Prodigal_v2.6.3	CDS	7515	9272
+# Sequence Data: seqnum=133;seqlen=7395;seqhdr="scaffold_13886"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_13886	Prodigal_v2.6.3	CDS	2	400
+scaffold_13886	Prodigal_v2.6.3	CDS	397	1674
+scaffold_13886	Prodigal_v2.6.3	CDS	1980	3815
+scaffold_13886	Prodigal_v2.6.3	CDS	4008	4364
+scaffold_13886	Prodigal_v2.6.3	CDS	4433	5590
+scaffold_13886	Prodigal_v2.6.3	CDS	5886	7145
+scaffold_13886	Prodigal_v2.6.3	CDS	7105	7395
+# Sequence Data: seqnum=134;seqlen=5481;seqhdr="scaffold_14041"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_14041	Prodigal_v2.6.3	CDS	1	537
+scaffold_14041	Prodigal_v2.6.3	CDS	565	4344
+scaffold_14041	Prodigal_v2.6.3	CDS	4645	5316
+# Sequence Data: seqnum=135;seqlen=10708;seqhdr="scaffold_14196"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_14196	Prodigal_v2.6.3	CDS	2	2542
+scaffold_14196	Prodigal_v2.6.3	CDS	2678	2908
+scaffold_14196	Prodigal_v2.6.3	CDS	3061	3852
+scaffold_14196	Prodigal_v2.6.3	CDS	3938	4207
+scaffold_14196	Prodigal_v2.6.3	CDS	4221	7067
+scaffold_14196	Prodigal_v2.6.3	CDS	7180	7869
+scaffold_14196	Prodigal_v2.6.3	CDS	7883	9130
+scaffold_14196	Prodigal_v2.6.3	CDS	9331	10707
+# Sequence Data: seqnum=136;seqlen=5426;seqhdr="scaffold_14265"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_14265	Prodigal_v2.6.3	CDS	1	612
+scaffold_14265	Prodigal_v2.6.3	CDS	614	799
+scaffold_14265	Prodigal_v2.6.3	CDS	802	981
+scaffold_14265	Prodigal_v2.6.3	CDS	1303	2343
+scaffold_14265	Prodigal_v2.6.3	CDS	2574	2936
+scaffold_14265	Prodigal_v2.6.3	CDS	3034	3453
+scaffold_14265	Prodigal_v2.6.3	CDS	3598	4002
+scaffold_14265	Prodigal_v2.6.3	CDS	4331	4819
+scaffold_14265	Prodigal_v2.6.3	CDS	4947	5426
+# Sequence Data: seqnum=137;seqlen=12603;seqhdr="scaffold_14276"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_14276	Prodigal_v2.6.3	CDS	1	201
+scaffold_14276	Prodigal_v2.6.3	CDS	401	1840
+scaffold_14276	Prodigal_v2.6.3	CDS	1894	2262
+scaffold_14276	Prodigal_v2.6.3	CDS	2535	3326
+scaffold_14276	Prodigal_v2.6.3	CDS	3797	6310
+scaffold_14276	Prodigal_v2.6.3	CDS	6586	7563
+scaffold_14276	Prodigal_v2.6.3	CDS	7788	7919
+scaffold_14276	Prodigal_v2.6.3	CDS	7952	9535
+scaffold_14276	Prodigal_v2.6.3	CDS	9576	10256
+scaffold_14276	Prodigal_v2.6.3	CDS	10642	10956
+scaffold_14276	Prodigal_v2.6.3	CDS	11947	12603
+# Sequence Data: seqnum=138;seqlen=5780;seqhdr="scaffold_14410"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_14410	Prodigal_v2.6.3	CDS	2	145
+scaffold_14410	Prodigal_v2.6.3	CDS	354	467
+scaffold_14410	Prodigal_v2.6.3	CDS	433	1455
+scaffold_14410	Prodigal_v2.6.3	CDS	1573	2745
+scaffold_14410	Prodigal_v2.6.3	CDS	2763	3260
+scaffold_14410	Prodigal_v2.6.3	CDS	3317	3970
+scaffold_14410	Prodigal_v2.6.3	CDS	4254	4583
+scaffold_14410	Prodigal_v2.6.3	CDS	4656	5615
+# Sequence Data: seqnum=139;seqlen=6359;seqhdr="scaffold_14435"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_14435	Prodigal_v2.6.3	CDS	212	1372
+scaffold_14435	Prodigal_v2.6.3	CDS	1374	2483
+scaffold_14435	Prodigal_v2.6.3	CDS	2494	4908
+scaffold_14435	Prodigal_v2.6.3	CDS	5050	5454
+scaffold_14435	Prodigal_v2.6.3	CDS	5448	6359
+# Sequence Data: seqnum=140;seqlen=5384;seqhdr="scaffold_14455"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_14455	Prodigal_v2.6.3	CDS	2	190
+scaffold_14455	Prodigal_v2.6.3	CDS	327	779
+scaffold_14455	Prodigal_v2.6.3	CDS	1078	1233
+scaffold_14455	Prodigal_v2.6.3	CDS	1535	3169
+scaffold_14455	Prodigal_v2.6.3	CDS	3253	3996
+scaffold_14455	Prodigal_v2.6.3	CDS	4095	4748
+scaffold_14455	Prodigal_v2.6.3	CDS	4857	4985
+scaffold_14455	Prodigal_v2.6.3	CDS	5228	5383
+# Sequence Data: seqnum=141;seqlen=5338;seqhdr="scaffold_14646"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_14646	Prodigal_v2.6.3	CDS	1	507
+scaffold_14646	Prodigal_v2.6.3	CDS	578	1744
+scaffold_14646	Prodigal_v2.6.3	CDS	1762	3153
+scaffold_14646	Prodigal_v2.6.3	CDS	3521	5338
+# Sequence Data: seqnum=142;seqlen=5751;seqhdr="scaffold_14712"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_14712	Prodigal_v2.6.3	CDS	1	855
+scaffold_14712	Prodigal_v2.6.3	CDS	1228	2349
+scaffold_14712	Prodigal_v2.6.3	CDS	2548	3396
+scaffold_14712	Prodigal_v2.6.3	CDS	3527	5239
+scaffold_14712	Prodigal_v2.6.3	CDS	5209	5607
+scaffold_14712	Prodigal_v2.6.3	CDS	5677	5751
+# Sequence Data: seqnum=143;seqlen=12891;seqhdr="scaffold_14823"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_14823	Prodigal_v2.6.3	CDS	401	1954
+scaffold_14823	Prodigal_v2.6.3	CDS	1969	2247
+scaffold_14823	Prodigal_v2.6.3	CDS	2538	2957
+scaffold_14823	Prodigal_v2.6.3	CDS	3023	3568
+scaffold_14823	Prodigal_v2.6.3	CDS	3582	4514
+scaffold_14823	Prodigal_v2.6.3	CDS	4645	5613
+scaffold_14823	Prodigal_v2.6.3	CDS	5688	6464
+scaffold_14823	Prodigal_v2.6.3	CDS	6547	7545
+scaffold_14823	Prodigal_v2.6.3	CDS	7639	8301
+scaffold_14823	Prodigal_v2.6.3	CDS	8367	9452
+scaffold_14823	Prodigal_v2.6.3	CDS	9513	10055
+scaffold_14823	Prodigal_v2.6.3	CDS	10070	11512
+scaffold_14823	Prodigal_v2.6.3	CDS	11610	12041
+scaffold_14823	Prodigal_v2.6.3	CDS	12120	12890
+# Sequence Data: seqnum=144;seqlen=6079;seqhdr="scaffold_14845"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_14845	Prodigal_v2.6.3	CDS	2	127
+scaffold_14845	Prodigal_v2.6.3	CDS	369	1754
+scaffold_14845	Prodigal_v2.6.3	CDS	1769	2443
+scaffold_14845	Prodigal_v2.6.3	CDS	2534	3448
+scaffold_14845	Prodigal_v2.6.3	CDS	3511	3891
+scaffold_14845	Prodigal_v2.6.3	CDS	3957	4583
+scaffold_14845	Prodigal_v2.6.3	CDS	4699	5100
+scaffold_14845	Prodigal_v2.6.3	CDS	5119	5958
+# Sequence Data: seqnum=145;seqlen=5292;seqhdr="scaffold_14863"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_14863	Prodigal_v2.6.3	CDS	2	967
+scaffold_14863	Prodigal_v2.6.3	CDS	1101	2387
+scaffold_14863	Prodigal_v2.6.3	CDS	2721	2951
+scaffold_14863	Prodigal_v2.6.3	CDS	3157	5172
+# Sequence Data: seqnum=146;seqlen=6767;seqhdr="scaffold_15268"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_15268	Prodigal_v2.6.3	CDS	1	273
+scaffold_15268	Prodigal_v2.6.3	CDS	373	1164
+scaffold_15268	Prodigal_v2.6.3	CDS	1418	2989
+scaffold_15268	Prodigal_v2.6.3	CDS	3169	5118
+scaffold_15268	Prodigal_v2.6.3	CDS	5198	5575
+scaffold_15268	Prodigal_v2.6.3	CDS	5667	6056
+scaffold_15268	Prodigal_v2.6.3	CDS	6112	6324
+# Sequence Data: seqnum=147;seqlen=5130;seqhdr="scaffold_15646"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_15646	Prodigal_v2.6.3	CDS	2	772
+scaffold_15646	Prodigal_v2.6.3	CDS	777	1943
+scaffold_15646	Prodigal_v2.6.3	CDS	2016	2432
+scaffold_15646	Prodigal_v2.6.3	CDS	2678	5128
+# Sequence Data: seqnum=148;seqlen=6130;seqhdr="scaffold_15694"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+scaffold_15694	Prodigal_v2.6.3	CDS	1	165
+scaffold_15694	Prodigal_v2.6.3	CDS	300	1163
+scaffold_15694	Prodigal_v2.6.3	CDS	1322	3811
+scaffold_15694	Prodigal_v2.6.3	CDS	3947	6025
+scaffold_15694	Prodigal_v2.6.3	CDS	6030	6128
+# Sequence Data: seqnum=149;seqlen=6516;seqhdr="scaffold_16070"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_16070	Prodigal_v2.6.3	CDS	1	771
+scaffold_16070	Prodigal_v2.6.3	CDS	783	1319
+scaffold_16070	Prodigal_v2.6.3	CDS	1449	1706
+scaffold_16070	Prodigal_v2.6.3	CDS	1663	2355
+scaffold_16070	Prodigal_v2.6.3	CDS	2497	3348
+scaffold_16070	Prodigal_v2.6.3	CDS	3560	4894
+scaffold_16070	Prodigal_v2.6.3	CDS	5045	6514
+# Sequence Data: seqnum=150;seqlen=5051;seqhdr="scaffold_16073"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+scaffold_16073	Prodigal_v2.6.3	CDS	1	561
+scaffold_16073	Prodigal_v2.6.3	CDS	622	1884
+scaffold_16073	Prodigal_v2.6.3	CDS	1895	2251
+scaffold_16073	Prodigal_v2.6.3	CDS	2449	2694
+scaffold_16073	Prodigal_v2.6.3	CDS	2830	4539
+scaffold_16073	Prodigal_v2.6.3	CDS	4533	5051
+# Sequence Data: seqnum=151;seqlen=6063;seqhdr="scaffold_16144"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_16144	Prodigal_v2.6.3	CDS	78	1217
+scaffold_16144	Prodigal_v2.6.3	CDS	1444	2910
+scaffold_16144	Prodigal_v2.6.3	CDS	2970	6062
+# Sequence Data: seqnum=152;seqlen=4991;seqhdr="scaffold_16343"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_16343	Prodigal_v2.6.3	CDS	1	381
+scaffold_16343	Prodigal_v2.6.3	CDS	378	1391
+scaffold_16343	Prodigal_v2.6.3	CDS	1467	2003
+scaffold_16343	Prodigal_v2.6.3	CDS	2067	3053
+scaffold_16343	Prodigal_v2.6.3	CDS	3107	4588
+scaffold_16343	Prodigal_v2.6.3	CDS	4581	4991
+# Sequence Data: seqnum=153;seqlen=5971;seqhdr="scaffold_16527"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_16527	Prodigal_v2.6.3	CDS	1	615
+scaffold_16527	Prodigal_v2.6.3	CDS	664	1209
+scaffold_16527	Prodigal_v2.6.3	CDS	1356	1634
+scaffold_16527	Prodigal_v2.6.3	CDS	1833	2774
+scaffold_16527	Prodigal_v2.6.3	CDS	2890	3450
+scaffold_16527	Prodigal_v2.6.3	CDS	3551	4093
+scaffold_16527	Prodigal_v2.6.3	CDS	4147	5028
+scaffold_16527	Prodigal_v2.6.3	CDS	5463	5969
+# Sequence Data: seqnum=154;seqlen=4909;seqhdr="scaffold_16793"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_16793	Prodigal_v2.6.3	CDS	3	194
+scaffold_16793	Prodigal_v2.6.3	CDS	297	1070
+scaffold_16793	Prodigal_v2.6.3	CDS	1821	3329
+scaffold_16793	Prodigal_v2.6.3	CDS	3668	3943
+scaffold_16793	Prodigal_v2.6.3	CDS	3943	4221
+scaffold_16793	Prodigal_v2.6.3	CDS	4333	4908
+# Sequence Data: seqnum=155;seqlen=5566;seqhdr="scaffold_16886"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_16886	Prodigal_v2.6.3	CDS	2	667
+scaffold_16886	Prodigal_v2.6.3	CDS	643	888
+scaffold_16886	Prodigal_v2.6.3	CDS	1015	1443
+scaffold_16886	Prodigal_v2.6.3	CDS	1583	4912
+scaffold_16886	Prodigal_v2.6.3	CDS	5086	5364
+# Sequence Data: seqnum=156;seqlen=9896;seqhdr="scaffold_17110"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_17110	Prodigal_v2.6.3	CDS	2	1078
+scaffold_17110	Prodigal_v2.6.3	CDS	1247	1654
+scaffold_17110	Prodigal_v2.6.3	CDS	1700	1855
+scaffold_17110	Prodigal_v2.6.3	CDS	2884	3480
+scaffold_17110	Prodigal_v2.6.3	CDS	3482	4888
+scaffold_17110	Prodigal_v2.6.3	CDS	5006	5653
+scaffold_17110	Prodigal_v2.6.3	CDS	6261	8120
+scaffold_17110	Prodigal_v2.6.3	CDS	8336	9580
+# Sequence Data: seqnum=157;seqlen=4824;seqhdr="scaffold_17268"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_17268	Prodigal_v2.6.3	CDS	3	1514
+scaffold_17268	Prodigal_v2.6.3	CDS	1586	3955
+scaffold_17268	Prodigal_v2.6.3	CDS	4206	4823
+# Sequence Data: seqnum=158;seqlen=4807;seqhdr="scaffold_17361"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_17361	Prodigal_v2.6.3	CDS	1	657
+scaffold_17361	Prodigal_v2.6.3	CDS	963	1295
+scaffold_17361	Prodigal_v2.6.3	CDS	1296	1607
+scaffold_17361	Prodigal_v2.6.3	CDS	2184	4052
+scaffold_17361	Prodigal_v2.6.3	CDS	4453	4806
+# Sequence Data: seqnum=159;seqlen=5200;seqhdr="scaffold_17521"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_17521	Prodigal_v2.6.3	CDS	295	585
+scaffold_17521	Prodigal_v2.6.3	CDS	557	2026
+scaffold_17521	Prodigal_v2.6.3	CDS	2151	2639
+scaffold_17521	Prodigal_v2.6.3	CDS	3042	3314
+scaffold_17521	Prodigal_v2.6.3	CDS	3351	4169
+scaffold_17521	Prodigal_v2.6.3	CDS	4380	4628
+scaffold_17521	Prodigal_v2.6.3	CDS	4644	4889
+scaffold_17521	Prodigal_v2.6.3	CDS	5059	5199
+# Sequence Data: seqnum=160;seqlen=4744;seqhdr="scaffold_17745"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_17745	Prodigal_v2.6.3	CDS	1	3024
+scaffold_17745	Prodigal_v2.6.3	CDS	3404	4744
+# Sequence Data: seqnum=161;seqlen=10680;seqhdr="scaffold_17802"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_17802	Prodigal_v2.6.3	CDS	1	729
+scaffold_17802	Prodigal_v2.6.3	CDS	726	1517
+scaffold_17802	Prodigal_v2.6.3	CDS	1474	2769
+scaffold_17802	Prodigal_v2.6.3	CDS	2959	5607
+scaffold_17802	Prodigal_v2.6.3	CDS	6071	6571
+scaffold_17802	Prodigal_v2.6.3	CDS	7277	8656
+scaffold_17802	Prodigal_v2.6.3	CDS	8691	9416
+scaffold_17802	Prodigal_v2.6.3	CDS	9647	9931
+scaffold_17802	Prodigal_v2.6.3	CDS	9962	10423
+scaffold_17802	Prodigal_v2.6.3	CDS	10445	10675
+# Sequence Data: seqnum=162;seqlen=5057;seqhdr="scaffold_17880"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="4|Akkermansia_muciniphila_ATCC_BAA_835|B|55.8|11|0";gc_cont=55.80;transl_table=11;uses_sd=0
+scaffold_17880	Prodigal_v2.6.3	CDS	1	453
+scaffold_17880	Prodigal_v2.6.3	CDS	476	1243
+scaffold_17880	Prodigal_v2.6.3	CDS	1263	1679
+scaffold_17880	Prodigal_v2.6.3	CDS	1785	3329
+scaffold_17880	Prodigal_v2.6.3	CDS	3454	3936
+scaffold_17880	Prodigal_v2.6.3	CDS	4036	5055
+# Sequence Data: seqnum=163;seqlen=7460;seqhdr="scaffold_17903"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_17903	Prodigal_v2.6.3	CDS	2	73
+scaffold_17903	Prodigal_v2.6.3	CDS	57	1016
+scaffold_17903	Prodigal_v2.6.3	CDS	1296	2651
+scaffold_17903	Prodigal_v2.6.3	CDS	2714	2917
+scaffold_17903	Prodigal_v2.6.3	CDS	2939	3832
+scaffold_17903	Prodigal_v2.6.3	CDS	4030	4824
+scaffold_17903	Prodigal_v2.6.3	CDS	5121	6068
+scaffold_17903	Prodigal_v2.6.3	CDS	6247	6786
+scaffold_17903	Prodigal_v2.6.3	CDS	6915	7274
+scaffold_17903	Prodigal_v2.6.3	CDS	7296	7460
+# Sequence Data: seqnum=164;seqlen=8143;seqhdr="scaffold_17928"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_17928	Prodigal_v2.6.3	CDS	126	749
+scaffold_17928	Prodigal_v2.6.3	CDS	746	1384
+scaffold_17928	Prodigal_v2.6.3	CDS	1680	2735
+scaffold_17928	Prodigal_v2.6.3	CDS	2944	4452
+scaffold_17928	Prodigal_v2.6.3	CDS	4721	5980
+scaffold_17928	Prodigal_v2.6.3	CDS	6096	7478
+scaffold_17928	Prodigal_v2.6.3	CDS	8002	8142
+# Sequence Data: seqnum=165;seqlen=5875;seqhdr="scaffold_18233"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_18233	Prodigal_v2.6.3	CDS	25	288
+scaffold_18233	Prodigal_v2.6.3	CDS	321	668
+scaffold_18233	Prodigal_v2.6.3	CDS	658	909
+scaffold_18233	Prodigal_v2.6.3	CDS	1126	1389
+scaffold_18233	Prodigal_v2.6.3	CDS	1447	1827
+scaffold_18233	Prodigal_v2.6.3	CDS	1926	3005
+scaffold_18233	Prodigal_v2.6.3	CDS	3443	4918
+scaffold_18233	Prodigal_v2.6.3	CDS	5060	5332
+scaffold_18233	Prodigal_v2.6.3	CDS	5477	5707
+scaffold_18233	Prodigal_v2.6.3	CDS	5737	5874
+# Sequence Data: seqnum=166;seqlen=6695;seqhdr="scaffold_18237"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_18237	Prodigal_v2.6.3	CDS	2	478
+scaffold_18237	Prodigal_v2.6.3	CDS	479	1267
+scaffold_18237	Prodigal_v2.6.3	CDS	1291	1938
+scaffold_18237	Prodigal_v2.6.3	CDS	2044	2259
+scaffold_18237	Prodigal_v2.6.3	CDS	2201	2533
+scaffold_18237	Prodigal_v2.6.3	CDS	2604	3422
+scaffold_18237	Prodigal_v2.6.3	CDS	3562	4230
+scaffold_18237	Prodigal_v2.6.3	CDS	4442	5635
+scaffold_18237	Prodigal_v2.6.3	CDS	5821	6420
+scaffold_18237	Prodigal_v2.6.3	CDS	6535	6693
+# Sequence Data: seqnum=167;seqlen=5791;seqhdr="scaffold_18328"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_18328	Prodigal_v2.6.3	CDS	287	2221
+scaffold_18328	Prodigal_v2.6.3	CDS	2581	5613
+scaffold_18328	Prodigal_v2.6.3	CDS	5708	5791
+# Sequence Data: seqnum=168;seqlen=8964;seqhdr="scaffold_18470"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_18470	Prodigal_v2.6.3	CDS	225	1022
+scaffold_18470	Prodigal_v2.6.3	CDS	1109	1561
+scaffold_18470	Prodigal_v2.6.3	CDS	1561	2820
+scaffold_18470	Prodigal_v2.6.3	CDS	3033	3638
+scaffold_18470	Prodigal_v2.6.3	CDS	3638	3775
+scaffold_18470	Prodigal_v2.6.3	CDS	3777	4451
+scaffold_18470	Prodigal_v2.6.3	CDS	5224	5853
+scaffold_18470	Prodigal_v2.6.3	CDS	6099	7439
+scaffold_18470	Prodigal_v2.6.3	CDS	7658	8962
+# Sequence Data: seqnum=169;seqlen=7045;seqhdr="scaffold_18544"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_18544	Prodigal_v2.6.3	CDS	177	1448
+scaffold_18544	Prodigal_v2.6.3	CDS	1641	2186
+scaffold_18544	Prodigal_v2.6.3	CDS	2507	3535
+scaffold_18544	Prodigal_v2.6.3	CDS	3885	4676
+scaffold_18544	Prodigal_v2.6.3	CDS	4814	5611
+scaffold_18544	Prodigal_v2.6.3	CDS	5833	7044
+# Sequence Data: seqnum=170;seqlen=4598;seqhdr="scaffold_18653"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_18653	Prodigal_v2.6.3	CDS	1	1686
+scaffold_18653	Prodigal_v2.6.3	CDS	1765	3162
+scaffold_18653	Prodigal_v2.6.3	CDS	3406	4188
+scaffold_18653	Prodigal_v2.6.3	CDS	4489	4596
+# Sequence Data: seqnum=171;seqlen=4594;seqhdr="scaffold_18678"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="4|Akkermansia_muciniphila_ATCC_BAA_835|B|55.8|11|0";gc_cont=55.80;transl_table=11;uses_sd=0
+scaffold_18678	Prodigal_v2.6.3	CDS	3	131
+scaffold_18678	Prodigal_v2.6.3	CDS	392	1312
+scaffold_18678	Prodigal_v2.6.3	CDS	1531	2475
+scaffold_18678	Prodigal_v2.6.3	CDS	2602	3396
+scaffold_18678	Prodigal_v2.6.3	CDS	3396	4280
+# Sequence Data: seqnum=172;seqlen=6176;seqhdr="scaffold_18811"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_18811	Prodigal_v2.6.3	CDS	1	792
+scaffold_18811	Prodigal_v2.6.3	CDS	1040	1516
+scaffold_18811	Prodigal_v2.6.3	CDS	1912	4302
+scaffold_18811	Prodigal_v2.6.3	CDS	4712	6175
+# Sequence Data: seqnum=173;seqlen=7941;seqhdr="scaffold_18925"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_18925	Prodigal_v2.6.3	CDS	3	89
+scaffold_18925	Prodigal_v2.6.3	CDS	86	1255
+scaffold_18925	Prodigal_v2.6.3	CDS	1553	3490
+scaffold_18925	Prodigal_v2.6.3	CDS	3694	3948
+scaffold_18925	Prodigal_v2.6.3	CDS	4077	4592
+scaffold_18925	Prodigal_v2.6.3	CDS	4552	5940
+scaffold_18925	Prodigal_v2.6.3	CDS	5952	7571
+scaffold_18925	Prodigal_v2.6.3	CDS	7670	7939
+# Sequence Data: seqnum=174;seqlen=4426;seqhdr="scaffold_19822"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_19822	Prodigal_v2.6.3	CDS	1	105
+scaffold_19822	Prodigal_v2.6.3	CDS	89	688
+scaffold_19822	Prodigal_v2.6.3	CDS	749	1261
+scaffold_19822	Prodigal_v2.6.3	CDS	1290	1892
+scaffold_19822	Prodigal_v2.6.3	CDS	2016	2168
+scaffold_19822	Prodigal_v2.6.3	CDS	2181	2420
+scaffold_19822	Prodigal_v2.6.3	CDS	2443	3144
+scaffold_19822	Prodigal_v2.6.3	CDS	3169	3651
+scaffold_19822	Prodigal_v2.6.3	CDS	3730	4425
+# Sequence Data: seqnum=175;seqlen=4407;seqhdr="scaffold_19935"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_19935	Prodigal_v2.6.3	CDS	1	672
+scaffold_19935	Prodigal_v2.6.3	CDS	781	1818
+scaffold_19935	Prodigal_v2.6.3	CDS	2192	3166
+scaffold_19935	Prodigal_v2.6.3	CDS	3255	4286
+# Sequence Data: seqnum=176;seqlen=6524;seqhdr="scaffold_20238"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_20238	Prodigal_v2.6.3	CDS	18	1130
+scaffold_20238	Prodigal_v2.6.3	CDS	1204	1818
+scaffold_20238	Prodigal_v2.6.3	CDS	1968	2594
+scaffold_20238	Prodigal_v2.6.3	CDS	2619	3167
+scaffold_20238	Prodigal_v2.6.3	CDS	3343	4392
+scaffold_20238	Prodigal_v2.6.3	CDS	4545	5198
+scaffold_20238	Prodigal_v2.6.3	CDS	5320	6132
+scaffold_20238	Prodigal_v2.6.3	CDS	6202	6522
+# Sequence Data: seqnum=177;seqlen=4738;seqhdr="scaffold_20481"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_20481	Prodigal_v2.6.3	CDS	3	185
+scaffold_20481	Prodigal_v2.6.3	CDS	426	1415
+scaffold_20481	Prodigal_v2.6.3	CDS	1434	2258
+scaffold_20481	Prodigal_v2.6.3	CDS	2251	2928
+scaffold_20481	Prodigal_v2.6.3	CDS	3077	4255
+scaffold_20481	Prodigal_v2.6.3	CDS	4496	4738
+# Sequence Data: seqnum=178;seqlen=4261;seqhdr="scaffold_21078"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_21078	Prodigal_v2.6.3	CDS	2	307
+scaffold_21078	Prodigal_v2.6.3	CDS	637	1263
+scaffold_21078	Prodigal_v2.6.3	CDS	1328	1501
+scaffold_21078	Prodigal_v2.6.3	CDS	1470	2771
+scaffold_21078	Prodigal_v2.6.3	CDS	2793	3041
+scaffold_21078	Prodigal_v2.6.3	CDS	3212	3406
+scaffold_21078	Prodigal_v2.6.3	CDS	3535	3876
+scaffold_21078	Prodigal_v2.6.3	CDS	3982	4260
+# Sequence Data: seqnum=179;seqlen=4951;seqhdr="scaffold_21165"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_21165	Prodigal_v2.6.3	CDS	836	3451
+scaffold_21165	Prodigal_v2.6.3	CDS	3542	4951
+# Sequence Data: seqnum=180;seqlen=4597;seqhdr="scaffold_21422"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_21422	Prodigal_v2.6.3	CDS	2	481
+scaffold_21422	Prodigal_v2.6.3	CDS	657	2462
+scaffold_21422	Prodigal_v2.6.3	CDS	2650	3222
+scaffold_21422	Prodigal_v2.6.3	CDS	3735	4133
+scaffold_21422	Prodigal_v2.6.3	CDS	4220	4597
+# Sequence Data: seqnum=181;seqlen=4172;seqhdr="scaffold_21850"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_21850	Prodigal_v2.6.3	CDS	22	1209
+scaffold_21850	Prodigal_v2.6.3	CDS	1225	1335
+scaffold_21850	Prodigal_v2.6.3	CDS	1486	2574
+scaffold_21850	Prodigal_v2.6.3	CDS	2636	4171
+# Sequence Data: seqnum=182;seqlen=7940;seqhdr="scaffold_21881"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_21881	Prodigal_v2.6.3	CDS	1	1146
+scaffold_21881	Prodigal_v2.6.3	CDS	1157	2005
+scaffold_21881	Prodigal_v2.6.3	CDS	1992	3218
+scaffold_21881	Prodigal_v2.6.3	CDS	3215	3655
+scaffold_21881	Prodigal_v2.6.3	CDS	3875	4276
+scaffold_21881	Prodigal_v2.6.3	CDS	4490	5494
+scaffold_21881	Prodigal_v2.6.3	CDS	5587	6579
+scaffold_21881	Prodigal_v2.6.3	CDS	6654	7907
+# Sequence Data: seqnum=183;seqlen=7681;seqhdr="scaffold_22139"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_22139	Prodigal_v2.6.3	CDS	231	830
+scaffold_22139	Prodigal_v2.6.3	CDS	1222	2055
+scaffold_22139	Prodigal_v2.6.3	CDS	2234	4261
+scaffold_22139	Prodigal_v2.6.3	CDS	4707	6278
+scaffold_22139	Prodigal_v2.6.3	CDS	6367	6579
+scaffold_22139	Prodigal_v2.6.3	CDS	6738	7622
+# Sequence Data: seqnum=184;seqlen=8801;seqhdr="scaffold_22344"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_22344	Prodigal_v2.6.3	CDS	9	1295
+scaffold_22344	Prodigal_v2.6.3	CDS	1655	2188
+scaffold_22344	Prodigal_v2.6.3	CDS	2217	2456
+scaffold_22344	Prodigal_v2.6.3	CDS	2464	2955
+scaffold_22344	Prodigal_v2.6.3	CDS	3124	4431
+scaffold_22344	Prodigal_v2.6.3	CDS	4548	4784
+scaffold_22344	Prodigal_v2.6.3	CDS	4918	5754
+scaffold_22344	Prodigal_v2.6.3	CDS	5734	6549
+scaffold_22344	Prodigal_v2.6.3	CDS	6763	7131
+scaffold_22344	Prodigal_v2.6.3	CDS	7296	8048
+scaffold_22344	Prodigal_v2.6.3	CDS	8638	8799
+# Sequence Data: seqnum=185;seqlen=9427;seqhdr="scaffold_23079"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_23079	Prodigal_v2.6.3	CDS	2	1909
+scaffold_23079	Prodigal_v2.6.3	CDS	1960	3150
+scaffold_23079	Prodigal_v2.6.3	CDS	3369	5066
+scaffold_23079	Prodigal_v2.6.3	CDS	5391	6740
+scaffold_23079	Prodigal_v2.6.3	CDS	6861	7022
+scaffold_23079	Prodigal_v2.6.3	CDS	7070	8032
+scaffold_23079	Prodigal_v2.6.3	CDS	8218	8868
+scaffold_23079	Prodigal_v2.6.3	CDS	9095	9427
+# Sequence Data: seqnum=186;seqlen=4008;seqhdr="scaffold_23277"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_23277	Prodigal_v2.6.3	CDS	3	1703
+scaffold_23277	Prodigal_v2.6.3	CDS	1996	3060
+scaffold_23277	Prodigal_v2.6.3	CDS	3118	4008
+# Sequence Data: seqnum=187;seqlen=4545;seqhdr="scaffold_23352"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_23352	Prodigal_v2.6.3	CDS	2	337
+scaffold_23352	Prodigal_v2.6.3	CDS	340	1302
+scaffold_23352	Prodigal_v2.6.3	CDS	1665	2216
+scaffold_23352	Prodigal_v2.6.3	CDS	2381	3343
+scaffold_23352	Prodigal_v2.6.3	CDS	4035	4544
+# Sequence Data: seqnum=188;seqlen=5310;seqhdr="scaffold_23472"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_23472	Prodigal_v2.6.3	CDS	1	1140
+scaffold_23472	Prodigal_v2.6.3	CDS	1220	2476
+scaffold_23472	Prodigal_v2.6.3	CDS	2613	2885
+scaffold_23472	Prodigal_v2.6.3	CDS	3102	3557
+scaffold_23472	Prodigal_v2.6.3	CDS	3573	3965
+scaffold_23472	Prodigal_v2.6.3	CDS	4128	4832
+scaffold_23472	Prodigal_v2.6.3	CDS	4857	4997
+# Sequence Data: seqnum=189;seqlen=3957;seqhdr="scaffold_23715"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_23715	Prodigal_v2.6.3	CDS	1	198
+scaffold_23715	Prodigal_v2.6.3	CDS	445	1860
+scaffold_23715	Prodigal_v2.6.3	CDS	2362	3357
+scaffold_23715	Prodigal_v2.6.3	CDS	3354	3956
+# Sequence Data: seqnum=190;seqlen=3952;seqhdr="scaffold_23766"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_23766	Prodigal_v2.6.3	CDS	4	1503
+scaffold_23766	Prodigal_v2.6.3	CDS	1503	1769
+scaffold_23766	Prodigal_v2.6.3	CDS	2423	2905
+scaffold_23766	Prodigal_v2.6.3	CDS	3191	3952
+# Sequence Data: seqnum=191;seqlen=5931;seqhdr="scaffold_24088"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_24088	Prodigal_v2.6.3	CDS	2	1267
+scaffold_24088	Prodigal_v2.6.3	CDS	1314	3215
+scaffold_24088	Prodigal_v2.6.3	CDS	3233	4117
+scaffold_24088	Prodigal_v2.6.3	CDS	4114	4950
+scaffold_24088	Prodigal_v2.6.3	CDS	4947	5930
+# Sequence Data: seqnum=192;seqlen=3900;seqhdr="scaffold_24307"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="15|Chlorobium_phaeobacteroides_BS1|B|48.9|11|0";gc_cont=48.90;transl_table=11;uses_sd=0
+scaffold_24307	Prodigal_v2.6.3	CDS	407	814
+scaffold_24307	Prodigal_v2.6.3	CDS	861	3170
+scaffold_24307	Prodigal_v2.6.3	CDS	3229	3375
+# Sequence Data: seqnum=193;seqlen=3895;seqhdr="scaffold_24348"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_24348	Prodigal_v2.6.3	CDS	55	1521
+scaffold_24348	Prodigal_v2.6.3	CDS	1536	1823
+scaffold_24348	Prodigal_v2.6.3	CDS	1974	2477
+scaffold_24348	Prodigal_v2.6.3	CDS	2474	3895
+# Sequence Data: seqnum=194;seqlen=3887;seqhdr="scaffold_24432"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_24432	Prodigal_v2.6.3	CDS	3	806
+scaffold_24432	Prodigal_v2.6.3	CDS	1290	2033
+scaffold_24432	Prodigal_v2.6.3	CDS	2132	2704
+scaffold_24432	Prodigal_v2.6.3	CDS	2773	3384
+scaffold_24432	Prodigal_v2.6.3	CDS	3493	3885
+# Sequence Data: seqnum=195;seqlen=3858;seqhdr="scaffold_24704"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_24704	Prodigal_v2.6.3	CDS	1	651
+scaffold_24704	Prodigal_v2.6.3	CDS	684	1601
+scaffold_24704	Prodigal_v2.6.3	CDS	1607	2029
+scaffold_24704	Prodigal_v2.6.3	CDS	2106	3143
+scaffold_24704	Prodigal_v2.6.3	CDS	3133	3792
+# Sequence Data: seqnum=196;seqlen=4857;seqhdr="scaffold_24842"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_24842	Prodigal_v2.6.3	CDS	1	1428
+scaffold_24842	Prodigal_v2.6.3	CDS	1606	1989
+scaffold_24842	Prodigal_v2.6.3	CDS	2038	2583
+scaffold_24842	Prodigal_v2.6.3	CDS	2660	2893
+scaffold_24842	Prodigal_v2.6.3	CDS	3010	3945
+scaffold_24842	Prodigal_v2.6.3	CDS	4061	4288
+scaffold_24842	Prodigal_v2.6.3	CDS	4467	4685
+# Sequence Data: seqnum=197;seqlen=3826;seqhdr="scaffold_25044"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_25044	Prodigal_v2.6.3	CDS	2	451
+scaffold_25044	Prodigal_v2.6.3	CDS	610	834
+scaffold_25044	Prodigal_v2.6.3	CDS	997	1218
+scaffold_25044	Prodigal_v2.6.3	CDS	1237	1410
+scaffold_25044	Prodigal_v2.6.3	CDS	1530	1880
+scaffold_25044	Prodigal_v2.6.3	CDS	2103	2288
+scaffold_25044	Prodigal_v2.6.3	CDS	2312	2758
+scaffold_25044	Prodigal_v2.6.3	CDS	3082	3363
+scaffold_25044	Prodigal_v2.6.3	CDS	3521	3826
+# Sequence Data: seqnum=198;seqlen=4899;seqhdr="scaffold_25926"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_25926	Prodigal_v2.6.3	CDS	2	421
+scaffold_25926	Prodigal_v2.6.3	CDS	421	927
+scaffold_25926	Prodigal_v2.6.3	CDS	1175	1750
+scaffold_25926	Prodigal_v2.6.3	CDS	1766	3157
+scaffold_25926	Prodigal_v2.6.3	CDS	3177	3950
+scaffold_25926	Prodigal_v2.6.3	CDS	4364	4861
+# Sequence Data: seqnum=199;seqlen=3731;seqhdr="scaffold_26122"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_26122	Prodigal_v2.6.3	CDS	1	849
+scaffold_26122	Prodigal_v2.6.3	CDS	1109	3271
+scaffold_26122	Prodigal_v2.6.3	CDS	3252	3443
+# Sequence Data: seqnum=200;seqlen=3697;seqhdr="scaffold_26533"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_26533	Prodigal_v2.6.3	CDS	557	2776
+scaffold_26533	Prodigal_v2.6.3	CDS	2873	3361
+scaffold_26533	Prodigal_v2.6.3	CDS	3398	3697
+# Sequence Data: seqnum=201;seqlen=4596;seqhdr="scaffold_27312"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_27312	Prodigal_v2.6.3	CDS	93	1331
+scaffold_27312	Prodigal_v2.6.3	CDS	1635	3632
+scaffold_27312	Prodigal_v2.6.3	CDS	3816	4592
+# Sequence Data: seqnum=202;seqlen=3632;seqhdr="scaffold_27328"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_27328	Prodigal_v2.6.3	CDS	1	213
+scaffold_27328	Prodigal_v2.6.3	CDS	225	653
+scaffold_27328	Prodigal_v2.6.3	CDS	653	1123
+scaffold_27328	Prodigal_v2.6.3	CDS	1220	2014
+scaffold_27328	Prodigal_v2.6.3	CDS	2157	2468
+# Sequence Data: seqnum=203;seqlen=4111;seqhdr="scaffold_28017"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_28017	Prodigal_v2.6.3	CDS	2	889
+scaffold_28017	Prodigal_v2.6.3	CDS	984	1457
+scaffold_28017	Prodigal_v2.6.3	CDS	1859	2047
+scaffold_28017	Prodigal_v2.6.3	CDS	2382	4109
+# Sequence Data: seqnum=204;seqlen=3559;seqhdr="scaffold_28174"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_28174	Prodigal_v2.6.3	CDS	3	1715
+scaffold_28174	Prodigal_v2.6.3	CDS	1725	3557
+# Sequence Data: seqnum=205;seqlen=3554;seqhdr="scaffold_28228"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_28228	Prodigal_v2.6.3	CDS	1	162
+scaffold_28228	Prodigal_v2.6.3	CDS	202	1437
+scaffold_28228	Prodigal_v2.6.3	CDS	1720	2910
+scaffold_28228	Prodigal_v2.6.3	CDS	3152	3553
+# Sequence Data: seqnum=206;seqlen=7059;seqhdr="scaffold_28236"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_28236	Prodigal_v2.6.3	CDS	2	844
+scaffold_28236	Prodigal_v2.6.3	CDS	1047	1874
+scaffold_28236	Prodigal_v2.6.3	CDS	2132	3526
+scaffold_28236	Prodigal_v2.6.3	CDS	3550	4119
+scaffold_28236	Prodigal_v2.6.3	CDS	4337	4903
+scaffold_28236	Prodigal_v2.6.3	CDS	4942	5106
+scaffold_28236	Prodigal_v2.6.3	CDS	5384	6157
+scaffold_28236	Prodigal_v2.6.3	CDS	6274	6768
+# Sequence Data: seqnum=207;seqlen=5874;seqhdr="scaffold_28257"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_28257	Prodigal_v2.6.3	CDS	1	1266
+scaffold_28257	Prodigal_v2.6.3	CDS	1263	2546
+scaffold_28257	Prodigal_v2.6.3	CDS	2631	3662
+scaffold_28257	Prodigal_v2.6.3	CDS	3664	5028
+scaffold_28257	Prodigal_v2.6.3	CDS	5150	5872
+# Sequence Data: seqnum=208;seqlen=4235;seqhdr="scaffold_28366"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_28366	Prodigal_v2.6.3	CDS	1	360
+scaffold_28366	Prodigal_v2.6.3	CDS	436	1101
+scaffold_28366	Prodigal_v2.6.3	CDS	1073	1195
+scaffold_28366	Prodigal_v2.6.3	CDS	1230	2300
+scaffold_28366	Prodigal_v2.6.3	CDS	2337	3536
+scaffold_28366	Prodigal_v2.6.3	CDS	3650	4234
+# Sequence Data: seqnum=209;seqlen=3536;seqhdr="scaffold_28456"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_28456	Prodigal_v2.6.3	CDS	3	1439
+scaffold_28456	Prodigal_v2.6.3	CDS	1712	2995
+# Sequence Data: seqnum=210;seqlen=5337;seqhdr="scaffold_28533"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_28533	Prodigal_v2.6.3	CDS	646	1023
+scaffold_28533	Prodigal_v2.6.3	CDS	1183	1743
+scaffold_28533	Prodigal_v2.6.3	CDS	1740	1931
+scaffold_28533	Prodigal_v2.6.3	CDS	1901	2794
+scaffold_28533	Prodigal_v2.6.3	CDS	2880	3272
+scaffold_28533	Prodigal_v2.6.3	CDS	3309	3554
+scaffold_28533	Prodigal_v2.6.3	CDS	3596	4534
+scaffold_28533	Prodigal_v2.6.3	CDS	4575	4949
+scaffold_28533	Prodigal_v2.6.3	CDS	5258	5335
+# Sequence Data: seqnum=211;seqlen=4653;seqhdr="scaffold_28535"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_28535	Prodigal_v2.6.3	CDS	2	1366
+scaffold_28535	Prodigal_v2.6.3	CDS	1795	3135
+scaffold_28535	Prodigal_v2.6.3	CDS	3132	4262
+scaffold_28535	Prodigal_v2.6.3	CDS	4297	4437
+# Sequence Data: seqnum=212;seqlen=3521;seqhdr="scaffold_28673"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_28673	Prodigal_v2.6.3	CDS	2	775
+scaffold_28673	Prodigal_v2.6.3	CDS	822	1892
+scaffold_28673	Prodigal_v2.6.3	CDS	1882	2544
+scaffold_28673	Prodigal_v2.6.3	CDS	2823	3203
+scaffold_28673	Prodigal_v2.6.3	CDS	3196	3519
+# Sequence Data: seqnum=213;seqlen=5012;seqhdr="scaffold_28716"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_28716	Prodigal_v2.6.3	CDS	3	692
+scaffold_28716	Prodigal_v2.6.3	CDS	667	2010
+scaffold_28716	Prodigal_v2.6.3	CDS	2095	3516
+scaffold_28716	Prodigal_v2.6.3	CDS	3682	3909
+scaffold_28716	Prodigal_v2.6.3	CDS	4090	5010
+# Sequence Data: seqnum=214;seqlen=3515;seqhdr="scaffold_28744"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_28744	Prodigal_v2.6.3	CDS	3	446
+scaffold_28744	Prodigal_v2.6.3	CDS	579	1130
+scaffold_28744	Prodigal_v2.6.3	CDS	1257	2291
+scaffold_28744	Prodigal_v2.6.3	CDS	2255	2698
+scaffold_28744	Prodigal_v2.6.3	CDS	2823	3515
+# Sequence Data: seqnum=215;seqlen=4220;seqhdr="scaffold_28914"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_28914	Prodigal_v2.6.3	CDS	3	1298
+scaffold_28914	Prodigal_v2.6.3	CDS	1325	2899
+scaffold_28914	Prodigal_v2.6.3	CDS	2950	4218
+# Sequence Data: seqnum=216;seqlen=7694;seqhdr="scaffold_29159"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_29159	Prodigal_v2.6.3	CDS	65	331
+scaffold_29159	Prodigal_v2.6.3	CDS	554	841
+scaffold_29159	Prodigal_v2.6.3	CDS	953	2254
+scaffold_29159	Prodigal_v2.6.3	CDS	2254	2484
+scaffold_29159	Prodigal_v2.6.3	CDS	2638	3120
+scaffold_29159	Prodigal_v2.6.3	CDS	3513	3935
+scaffold_29159	Prodigal_v2.6.3	CDS	4166	4984
+scaffold_29159	Prodigal_v2.6.3	CDS	5065	6273
+scaffold_29159	Prodigal_v2.6.3	CDS	6530	7693
+# Sequence Data: seqnum=217;seqlen=3472;seqhdr="scaffold_29321"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_29321	Prodigal_v2.6.3	CDS	269	424
+scaffold_29321	Prodigal_v2.6.3	CDS	740	1636
+scaffold_29321	Prodigal_v2.6.3	CDS	1970	3472
+# Sequence Data: seqnum=218;seqlen=5216;seqhdr="scaffold_29859"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_29859	Prodigal_v2.6.3	CDS	269	1618
+scaffold_29859	Prodigal_v2.6.3	CDS	1778	3253
+scaffold_29859	Prodigal_v2.6.3	CDS	3292	4725
+scaffold_29859	Prodigal_v2.6.3	CDS	4774	5214
+# Sequence Data: seqnum=219;seqlen=3399;seqhdr="scaffold_30349"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_30349	Prodigal_v2.6.3	CDS	1	273
+scaffold_30349	Prodigal_v2.6.3	CDS	681	1031
+scaffold_30349	Prodigal_v2.6.3	CDS	1463	2119
+scaffold_30349	Prodigal_v2.6.3	CDS	2194	3399
+# Sequence Data: seqnum=220;seqlen=4802;seqhdr="scaffold_30469"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_30469	Prodigal_v2.6.3	CDS	34	1503
+scaffold_30469	Prodigal_v2.6.3	CDS	1520	2455
+scaffold_30469	Prodigal_v2.6.3	CDS	2707	3126
+scaffold_30469	Prodigal_v2.6.3	CDS	3444	4802
+# Sequence Data: seqnum=221;seqlen=3389;seqhdr="scaffold_30497"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="4|Akkermansia_muciniphila_ATCC_BAA_835|B|55.8|11|0";gc_cont=55.80;transl_table=11;uses_sd=0
+scaffold_30497	Prodigal_v2.6.3	CDS	2	400
+scaffold_30497	Prodigal_v2.6.3	CDS	680	1045
+scaffold_30497	Prodigal_v2.6.3	CDS	1051	1743
+scaffold_30497	Prodigal_v2.6.3	CDS	1758	2288
+scaffold_30497	Prodigal_v2.6.3	CDS	2449	3387
+# Sequence Data: seqnum=222;seqlen=3360;seqhdr="scaffold_30971"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_30971	Prodigal_v2.6.3	CDS	1	417
+scaffold_30971	Prodigal_v2.6.3	CDS	455	1147
+scaffold_30971	Prodigal_v2.6.3	CDS	1128	1727
+scaffold_30971	Prodigal_v2.6.3	CDS	1743	2345
+scaffold_30971	Prodigal_v2.6.3	CDS	2365	3360
+# Sequence Data: seqnum=223;seqlen=3302;seqhdr="scaffold_31846"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_31846	Prodigal_v2.6.3	CDS	1	297
+scaffold_31846	Prodigal_v2.6.3	CDS	279	947
+scaffold_31846	Prodigal_v2.6.3	CDS	960	1808
+scaffold_31846	Prodigal_v2.6.3	CDS	1818	2717
+# Sequence Data: seqnum=224;seqlen=3295;seqhdr="scaffold_31963"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_31963	Prodigal_v2.6.3	CDS	3	152
+scaffold_31963	Prodigal_v2.6.3	CDS	287	1567
+scaffold_31963	Prodigal_v2.6.3	CDS	1564	2328
+scaffold_31963	Prodigal_v2.6.3	CDS	2339	3115
+scaffold_31963	Prodigal_v2.6.3	CDS	3224	3295
+# Sequence Data: seqnum=225;seqlen=3291;seqhdr="scaffold_32014"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_32014	Prodigal_v2.6.3	CDS	498	1571
+scaffold_32014	Prodigal_v2.6.3	CDS	1534	2052
+scaffold_32014	Prodigal_v2.6.3	CDS	2528	3289
+# Sequence Data: seqnum=226;seqlen=4552;seqhdr="scaffold_32385"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_32385	Prodigal_v2.6.3	CDS	149	700
+scaffold_32385	Prodigal_v2.6.3	CDS	734	2056
+scaffold_32385	Prodigal_v2.6.3	CDS	2159	3319
+scaffold_32385	Prodigal_v2.6.3	CDS	3309	4535
+# Sequence Data: seqnum=227;seqlen=5484;seqhdr="scaffold_32436"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_32436	Prodigal_v2.6.3	CDS	1	99
+scaffold_32436	Prodigal_v2.6.3	CDS	542	907
+scaffold_32436	Prodigal_v2.6.3	CDS	1019	1189
+scaffold_32436	Prodigal_v2.6.3	CDS	1186	1404
+scaffold_32436	Prodigal_v2.6.3	CDS	1579	1803
+scaffold_32436	Prodigal_v2.6.3	CDS	1953	2363
+scaffold_32436	Prodigal_v2.6.3	CDS	2802	3083
+scaffold_32436	Prodigal_v2.6.3	CDS	3418	4071
+scaffold_32436	Prodigal_v2.6.3	CDS	4195	5484
+# Sequence Data: seqnum=228;seqlen=3224;seqhdr="scaffold_33067"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_33067	Prodigal_v2.6.3	CDS	1	270
+scaffold_33067	Prodigal_v2.6.3	CDS	270	884
+scaffold_33067	Prodigal_v2.6.3	CDS	969	1949
+scaffold_33067	Prodigal_v2.6.3	CDS	2146	2601
+scaffold_33067	Prodigal_v2.6.3	CDS	2617	2793
+scaffold_33067	Prodigal_v2.6.3	CDS	3048	3224
+# Sequence Data: seqnum=229;seqlen=3149;seqhdr="scaffold_34344"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_34344	Prodigal_v2.6.3	CDS	2	949
+scaffold_34344	Prodigal_v2.6.3	CDS	937	2181
+scaffold_34344	Prodigal_v2.6.3	CDS	2188	3147
+# Sequence Data: seqnum=230;seqlen=3050;seqhdr="scaffold_36174"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_36174	Prodigal_v2.6.3	CDS	3	743
+scaffold_36174	Prodigal_v2.6.3	CDS	899	2218
+scaffold_36174	Prodigal_v2.6.3	CDS	2571	3050
+# Sequence Data: seqnum=231;seqlen=3036;seqhdr="scaffold_36430"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_36430	Prodigal_v2.6.3	CDS	1	243
+scaffold_36430	Prodigal_v2.6.3	CDS	258	1199
+scaffold_36430	Prodigal_v2.6.3	CDS	1215	1985
+scaffold_36430	Prodigal_v2.6.3	CDS	2091	2933
+scaffold_36430	Prodigal_v2.6.3	CDS	2930	3034
+# Sequence Data: seqnum=232;seqlen=2942;seqhdr="scaffold_38303"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_38303	Prodigal_v2.6.3	CDS	91	942
+scaffold_38303	Prodigal_v2.6.3	CDS	1006	1719
+scaffold_38303	Prodigal_v2.6.3	CDS	1881	2942
+# Sequence Data: seqnum=233;seqlen=2932;seqhdr="scaffold_38544"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_38544	Prodigal_v2.6.3	CDS	3	332
+scaffold_38544	Prodigal_v2.6.3	CDS	523	981
+scaffold_38544	Prodigal_v2.6.3	CDS	1204	2694
+scaffold_38544	Prodigal_v2.6.3	CDS	2782	2931
+# Sequence Data: seqnum=234;seqlen=2932;seqhdr="scaffold_38556"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_38556	Prodigal_v2.6.3	CDS	1	99
+scaffold_38556	Prodigal_v2.6.3	CDS	617	1648
+scaffold_38556	Prodigal_v2.6.3	CDS	1780	2520
+scaffold_38556	Prodigal_v2.6.3	CDS	2648	2932
+# Sequence Data: seqnum=235;seqlen=2888;seqhdr="scaffold_39483"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="4|Akkermansia_muciniphila_ATCC_BAA_835|B|55.8|11|0";gc_cont=55.80;transl_table=11;uses_sd=0
+scaffold_39483	Prodigal_v2.6.3	CDS	3	632
+scaffold_39483	Prodigal_v2.6.3	CDS	779	2449
+scaffold_39483	Prodigal_v2.6.3	CDS	2575	2886
+# Sequence Data: seqnum=236;seqlen=2864;seqhdr="scaffold_39994"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_39994	Prodigal_v2.6.3	CDS	1	90
+scaffold_39994	Prodigal_v2.6.3	CDS	457	1062
+scaffold_39994	Prodigal_v2.6.3	CDS	1075	1482
+scaffold_39994	Prodigal_v2.6.3	CDS	1768	2202
+scaffold_39994	Prodigal_v2.6.3	CDS	2310	2864
+# Sequence Data: seqnum=237;seqlen=2841;seqhdr="scaffold_40571"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_40571	Prodigal_v2.6.3	CDS	1	930
+scaffold_40571	Prodigal_v2.6.3	CDS	952	2841
+# Sequence Data: seqnum=238;seqlen=3469;seqhdr="scaffold_41127"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_41127	Prodigal_v2.6.3	CDS	3	839
+scaffold_41127	Prodigal_v2.6.3	CDS	1141	1302
+scaffold_41127	Prodigal_v2.6.3	CDS	1491	2141
+scaffold_41127	Prodigal_v2.6.3	CDS	2160	2567
+scaffold_41127	Prodigal_v2.6.3	CDS	2628	2867
+scaffold_41127	Prodigal_v2.6.3	CDS	2880	3041
+scaffold_41127	Prodigal_v2.6.3	CDS	3325	3468
+# Sequence Data: seqnum=239;seqlen=2811;seqhdr="scaffold_41281"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_41281	Prodigal_v2.6.3	CDS	3	404
+scaffold_41281	Prodigal_v2.6.3	CDS	435	1250
+scaffold_41281	Prodigal_v2.6.3	CDS	1305	2093
+# Sequence Data: seqnum=240;seqlen=2798;seqhdr="scaffold_41579"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_41579	Prodigal_v2.6.3	CDS	149	733
+scaffold_41579	Prodigal_v2.6.3	CDS	733	1044
+scaffold_41579	Prodigal_v2.6.3	CDS	1279	1632
+scaffold_41579	Prodigal_v2.6.3	CDS	1716	2039
+scaffold_41579	Prodigal_v2.6.3	CDS	2064	2798
+# Sequence Data: seqnum=241;seqlen=2778;seqhdr="scaffold_42044"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_42044	Prodigal_v2.6.3	CDS	2	433
+scaffold_42044	Prodigal_v2.6.3	CDS	832	1242
+scaffold_42044	Prodigal_v2.6.3	CDS	1642	2625
+scaffold_42044	Prodigal_v2.6.3	CDS	2650	2778
+# Sequence Data: seqnum=242;seqlen=3401;seqhdr="scaffold_42250"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_42250	Prodigal_v2.6.3	CDS	3	77
+scaffold_42250	Prodigal_v2.6.3	CDS	307	1815
+scaffold_42250	Prodigal_v2.6.3	CDS	1916	2560
+scaffold_42250	Prodigal_v2.6.3	CDS	2595	2702
+scaffold_42250	Prodigal_v2.6.3	CDS	2764	3399
+# Sequence Data: seqnum=243;seqlen=4364;seqhdr="scaffold_42659"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_42659	Prodigal_v2.6.3	CDS	2	556
+scaffold_42659	Prodigal_v2.6.3	CDS	651	1478
+scaffold_42659	Prodigal_v2.6.3	CDS	2002	2454
+scaffold_42659	Prodigal_v2.6.3	CDS	2703	3521
+scaffold_42659	Prodigal_v2.6.3	CDS	3500	4324
+# Sequence Data: seqnum=244;seqlen=2752;seqhdr="scaffold_42728"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_42728	Prodigal_v2.6.3	CDS	3	338
+scaffold_42728	Prodigal_v2.6.3	CDS	489	1733
+scaffold_42728	Prodigal_v2.6.3	CDS	1941	2594
+# Sequence Data: seqnum=245;seqlen=3395;seqhdr="scaffold_42766"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+scaffold_42766	Prodigal_v2.6.3	CDS	72	455
+scaffold_42766	Prodigal_v2.6.3	CDS	700	1782
+scaffold_42766	Prodigal_v2.6.3	CDS	2167	2436
+scaffold_42766	Prodigal_v2.6.3	CDS	2463	2711
+scaffold_42766	Prodigal_v2.6.3	CDS	2772	3224
+scaffold_42766	Prodigal_v2.6.3	CDS	3304	3393
+# Sequence Data: seqnum=246;seqlen=2724;seqhdr="scaffold_43403"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_43403	Prodigal_v2.6.3	CDS	2	790
+scaffold_43403	Prodigal_v2.6.3	CDS	889	1965
+scaffold_43403	Prodigal_v2.6.3	CDS	2253	2504
+scaffold_43403	Prodigal_v2.6.3	CDS	2569	2724
+# Sequence Data: seqnum=247;seqlen=2715;seqhdr="scaffold_43634"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_43634	Prodigal_v2.6.3	CDS	1	135
+scaffold_43634	Prodigal_v2.6.3	CDS	146	1162
+scaffold_43634	Prodigal_v2.6.3	CDS	1585	1926
+scaffold_43634	Prodigal_v2.6.3	CDS	1948	2715
+# Sequence Data: seqnum=248;seqlen=8935;seqhdr="scaffold_43900"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_43900	Prodigal_v2.6.3	CDS	47	442
+scaffold_43900	Prodigal_v2.6.3	CDS	589	972
+scaffold_43900	Prodigal_v2.6.3	CDS	1000	2013
+scaffold_43900	Prodigal_v2.6.3	CDS	2104	2388
+scaffold_43900	Prodigal_v2.6.3	CDS	2672	4891
+scaffold_43900	Prodigal_v2.6.3	CDS	4945	5268
+scaffold_43900	Prodigal_v2.6.3	CDS	5841	6479
+scaffold_43900	Prodigal_v2.6.3	CDS	6543	7808
+scaffold_43900	Prodigal_v2.6.3	CDS	7805	8035
+scaffold_43900	Prodigal_v2.6.3	CDS	8002	8526
+scaffold_43900	Prodigal_v2.6.3	CDS	8540	8935
+# Sequence Data: seqnum=249;seqlen=2689;seqhdr="scaffold_44322"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_44322	Prodigal_v2.6.3	CDS	3	863
+scaffold_44322	Prodigal_v2.6.3	CDS	1321	2688
+# Sequence Data: seqnum=250;seqlen=3173;seqhdr="scaffold_44608"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_44608	Prodigal_v2.6.3	CDS	2	1087
+scaffold_44608	Prodigal_v2.6.3	CDS	1189	1881
+scaffold_44608	Prodigal_v2.6.3	CDS	1865	2752
+scaffold_44608	Prodigal_v2.6.3	CDS	2766	3173
+# Sequence Data: seqnum=251;seqlen=3137;seqhdr="scaffold_44998"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_44998	Prodigal_v2.6.3	CDS	2	322
+scaffold_44998	Prodigal_v2.6.3	CDS	424	1623
+scaffold_44998	Prodigal_v2.6.3	CDS	1725	2201
+scaffold_44998	Prodigal_v2.6.3	CDS	2266	2529
+scaffold_44998	Prodigal_v2.6.3	CDS	2736	3137
+# Sequence Data: seqnum=252;seqlen=2626;seqhdr="scaffold_46021"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_46021	Prodigal_v2.6.3	CDS	1	120
+scaffold_46021	Prodigal_v2.6.3	CDS	270	791
+scaffold_46021	Prodigal_v2.6.3	CDS	989	2626
+# Sequence Data: seqnum=253;seqlen=2999;seqhdr="scaffold_46308"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_46308	Prodigal_v2.6.3	CDS	1	381
+scaffold_46308	Prodigal_v2.6.3	CDS	422	2998
+# Sequence Data: seqnum=254;seqlen=2598;seqhdr="scaffold_46817"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="15|Chlorobium_phaeobacteroides_BS1|B|48.9|11|0";gc_cont=48.90;transl_table=11;uses_sd=0
+scaffold_46817	Prodigal_v2.6.3	CDS	2	217
+scaffold_46817	Prodigal_v2.6.3	CDS	409	789
+scaffold_46817	Prodigal_v2.6.3	CDS	782	2254
+scaffold_46817	Prodigal_v2.6.3	CDS	2449	2598
+# Sequence Data: seqnum=255;seqlen=4269;seqhdr="scaffold_46860"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_46860	Prodigal_v2.6.3	CDS	362	820
+scaffold_46860	Prodigal_v2.6.3	CDS	978	2168
+scaffold_46860	Prodigal_v2.6.3	CDS	2279	2626
+scaffold_46860	Prodigal_v2.6.3	CDS	2596	3129
+scaffold_46860	Prodigal_v2.6.3	CDS	3251	4267
+# Sequence Data: seqnum=256;seqlen=2593;seqhdr="scaffold_46955"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_46955	Prodigal_v2.6.3	CDS	1	462
+scaffold_46955	Prodigal_v2.6.3	CDS	570	1472
+scaffold_46955	Prodigal_v2.6.3	CDS	1566	2387
+scaffold_46955	Prodigal_v2.6.3	CDS	2498	2593
+# Sequence Data: seqnum=257;seqlen=3052;seqhdr="scaffold_48369"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_48369	Prodigal_v2.6.3	CDS	1	237
+scaffold_48369	Prodigal_v2.6.3	CDS	524	673
+scaffold_48369	Prodigal_v2.6.3	CDS	612	1421
+scaffold_48369	Prodigal_v2.6.3	CDS	1511	2728
+scaffold_48369	Prodigal_v2.6.3	CDS	2862	3050
+# Sequence Data: seqnum=258;seqlen=6633;seqhdr="scaffold_48949"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_48949	Prodigal_v2.6.3	CDS	380	754
+scaffold_48949	Prodigal_v2.6.3	CDS	907	1134
+scaffold_48949	Prodigal_v2.6.3	CDS	1530	1766
+scaffold_48949	Prodigal_v2.6.3	CDS	1917	2180
+scaffold_48949	Prodigal_v2.6.3	CDS	2637	2942
+scaffold_48949	Prodigal_v2.6.3	CDS	2939	3274
+scaffold_48949	Prodigal_v2.6.3	CDS	3518	3703
+scaffold_48949	Prodigal_v2.6.3	CDS	4414	5541
+scaffold_48949	Prodigal_v2.6.3	CDS	5748	6467
+# Sequence Data: seqnum=259;seqlen=3404;seqhdr="scaffold_50535"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_50535	Prodigal_v2.6.3	CDS	2	469
+scaffold_50535	Prodigal_v2.6.3	CDS	626	1888
+scaffold_50535	Prodigal_v2.6.3	CDS	1885	2367
+scaffold_50535	Prodigal_v2.6.3	CDS	2467	2814
+scaffold_50535	Prodigal_v2.6.3	CDS	2853	3380
+# Sequence Data: seqnum=260;seqlen=2466;seqhdr="scaffold_50911"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_50911	Prodigal_v2.6.3	CDS	2	1450
+scaffold_50911	Prodigal_v2.6.3	CDS	1423	2466
+# Sequence Data: seqnum=261;seqlen=2456;seqhdr="scaffold_51217"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_51217	Prodigal_v2.6.3	CDS	2	571
+scaffold_51217	Prodigal_v2.6.3	CDS	686	2116
+scaffold_51217	Prodigal_v2.6.3	CDS	2187	2456
+# Sequence Data: seqnum=262;seqlen=2451;seqhdr="scaffold_51403"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_51403	Prodigal_v2.6.3	CDS	274	2079
+scaffold_51403	Prodigal_v2.6.3	CDS	2253	2423
+# Sequence Data: seqnum=263;seqlen=2431;seqhdr="scaffold_52081"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_52081	Prodigal_v2.6.3	CDS	1	1224
+scaffold_52081	Prodigal_v2.6.3	CDS	1542	2009
+# Sequence Data: seqnum=264;seqlen=2422;seqhdr="scaffold_52405"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="4|Akkermansia_muciniphila_ATCC_BAA_835|B|55.8|11|0";gc_cont=55.80;transl_table=11;uses_sd=0
+scaffold_52405	Prodigal_v2.6.3	CDS	1	516
+scaffold_52405	Prodigal_v2.6.3	CDS	846	2420
+# Sequence Data: seqnum=265;seqlen=2308;seqhdr="scaffold_56502"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_56502	Prodigal_v2.6.3	CDS	3	608
+scaffold_56502	Prodigal_v2.6.3	CDS	598	2307
+# Sequence Data: seqnum=266;seqlen=2299;seqhdr="scaffold_56844"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_56844	Prodigal_v2.6.3	CDS	1	1317
+scaffold_56844	Prodigal_v2.6.3	CDS	1430	2299
+# Sequence Data: seqnum=267;seqlen=2296;seqhdr="scaffold_56986"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_56986	Prodigal_v2.6.3	CDS	2	880
+scaffold_56986	Prodigal_v2.6.3	CDS	1021	1536
+scaffold_56986	Prodigal_v2.6.3	CDS	1666	2094
+scaffold_56986	Prodigal_v2.6.3	CDS	2118	2294
+# Sequence Data: seqnum=268;seqlen=4275;seqhdr="scaffold_57086"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_57086	Prodigal_v2.6.3	CDS	139	1362
+scaffold_57086	Prodigal_v2.6.3	CDS	1445	2668
+scaffold_57086	Prodigal_v2.6.3	CDS	2998	3840
+scaffold_57086	Prodigal_v2.6.3	CDS	3837	4274
+# Sequence Data: seqnum=269;seqlen=2251;seqhdr="scaffold_58738"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_58738	Prodigal_v2.6.3	CDS	136	939
+scaffold_58738	Prodigal_v2.6.3	CDS	1062	2249
+# Sequence Data: seqnum=270;seqlen=2606;seqhdr="scaffold_59901"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="15|Chlorobium_phaeobacteroides_BS1|B|48.9|11|0";gc_cont=48.90;transl_table=11;uses_sd=0
+scaffold_59901	Prodigal_v2.6.3	CDS	1	210
+scaffold_59901	Prodigal_v2.6.3	CDS	496	1107
+scaffold_59901	Prodigal_v2.6.3	CDS	1266	2177
+scaffold_59901	Prodigal_v2.6.3	CDS	2200	2493
+# Sequence Data: seqnum=271;seqlen=2158;seqhdr="scaffold_62693"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="18|Desulfurococcus_kamchatkensis_1221n|B|45.3|11|1";gc_cont=45.30;transl_table=11;uses_sd=1
+scaffold_62693	Prodigal_v2.6.3	CDS	665	2074
+# Sequence Data: seqnum=272;seqlen=5316;seqhdr="scaffold_63142"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_63142	Prodigal_v2.6.3	CDS	2	451
+scaffold_63142	Prodigal_v2.6.3	CDS	576	1424
+scaffold_63142	Prodigal_v2.6.3	CDS	1489	2280
+scaffold_63142	Prodigal_v2.6.3	CDS	2515	3354
+scaffold_63142	Prodigal_v2.6.3	CDS	3495	4214
+scaffold_63142	Prodigal_v2.6.3	CDS	4214	5314
+# Sequence Data: seqnum=273;seqlen=4541;seqhdr="scaffold_64192"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_64192	Prodigal_v2.6.3	CDS	2	925
+scaffold_64192	Prodigal_v2.6.3	CDS	1042	1512
+scaffold_64192	Prodigal_v2.6.3	CDS	1708	1830
+scaffold_64192	Prodigal_v2.6.3	CDS	1939	3387
+scaffold_64192	Prodigal_v2.6.3	CDS	3563	4114
+scaffold_64192	Prodigal_v2.6.3	CDS	4127	4540
+# Sequence Data: seqnum=274;seqlen=2895;seqhdr="scaffold_65100"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_65100	Prodigal_v2.6.3	CDS	2	337
+scaffold_65100	Prodigal_v2.6.3	CDS	465	1370
+scaffold_65100	Prodigal_v2.6.3	CDS	1552	2166
+scaffold_65100	Prodigal_v2.6.3	CDS	2318	2893
+# Sequence Data: seqnum=275;seqlen=3021;seqhdr="scaffold_65491"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_65491	Prodigal_v2.6.3	CDS	1	978
+scaffold_65491	Prodigal_v2.6.3	CDS	1121	1777
+scaffold_65491	Prodigal_v2.6.3	CDS	2028	2831
+scaffold_65491	Prodigal_v2.6.3	CDS	2636	3019
+# Sequence Data: seqnum=276;seqlen=2434;seqhdr="scaffold_66596"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="4|Akkermansia_muciniphila_ATCC_BAA_835|B|55.8|11|0";gc_cont=55.80;transl_table=11;uses_sd=0
+scaffold_66596	Prodigal_v2.6.3	CDS	1	411
+scaffold_66596	Prodigal_v2.6.3	CDS	457	1062
+scaffold_66596	Prodigal_v2.6.3	CDS	1174	2283
+# Sequence Data: seqnum=277;seqlen=2049;seqhdr="scaffold_68035"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_68035	Prodigal_v2.6.3	CDS	2	355
+scaffold_68035	Prodigal_v2.6.3	CDS	352	1704
+scaffold_68035	Prodigal_v2.6.3	CDS	1766	2047
+# Sequence Data: seqnum=278;seqlen=2048;seqhdr="scaffold_68064"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="8|Bacteroides_fragilis_NCTC_9343|B|43.2|11|0";gc_cont=43.20;transl_table=11;uses_sd=0
+scaffold_68064	Prodigal_v2.6.3	CDS	1	1539
+scaffold_68064	Prodigal_v2.6.3	CDS	1645	2046
+# Sequence Data: seqnum=279;seqlen=2043;seqhdr="scaffold_68320"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_68320	Prodigal_v2.6.3	CDS	3	161
+scaffold_68320	Prodigal_v2.6.3	CDS	326	1345
+scaffold_68320	Prodigal_v2.6.3	CDS	1342	1698
+# Sequence Data: seqnum=280;seqlen=2114;seqhdr="scaffold_68968"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="41|Shigella_dysenteriae_Sd197|B|51.2|11|1";gc_cont=51.20;transl_table=11;uses_sd=1
+scaffold_68968	Prodigal_v2.6.3	CDS	24	1598
+scaffold_68968	Prodigal_v2.6.3	CDS	1739	2113
+# Sequence Data: seqnum=281;seqlen=2303;seqhdr="scaffold_69287"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_69287	Prodigal_v2.6.3	CDS	1	195
+scaffold_69287	Prodigal_v2.6.3	CDS	349	825
+scaffold_69287	Prodigal_v2.6.3	CDS	926	2302
+# Sequence Data: seqnum=282;seqlen=3144;seqhdr="scaffold_69970"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_69970	Prodigal_v2.6.3	CDS	115	777
+scaffold_69970	Prodigal_v2.6.3	CDS	1135	1515
+scaffold_69970	Prodigal_v2.6.3	CDS	1508	2023
+scaffold_69970	Prodigal_v2.6.3	CDS	2092	2670
+scaffold_69970	Prodigal_v2.6.3	CDS	2735	3142
+# Sequence Data: seqnum=283;seqlen=3008;seqhdr="scaffold_79207"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_79207	Prodigal_v2.6.3	CDS	126	353
+scaffold_79207	Prodigal_v2.6.3	CDS	975	1943
+scaffold_79207	Prodigal_v2.6.3	CDS	1994	2209
+scaffold_79207	Prodigal_v2.6.3	CDS	2232	2828
+scaffold_79207	Prodigal_v2.6.3	CDS	2901	3008
+# Sequence Data: seqnum=284;seqlen=2139;seqhdr="scaffold_79916"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="33|Pelotomaculum_thermopropionicum_SI|B|53.0|11|1";gc_cont=53.00;transl_table=11;uses_sd=1
+scaffold_79916	Prodigal_v2.6.3	CDS	1	162
+scaffold_79916	Prodigal_v2.6.3	CDS	324	851
+scaffold_79916	Prodigal_v2.6.3	CDS	848	1678
+scaffold_79916	Prodigal_v2.6.3	CDS	1783	2139
+# Sequence Data: seqnum=285;seqlen=2334;seqhdr="scaffold_83306"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+scaffold_83306	Prodigal_v2.6.3	CDS	3	101
+scaffold_83306	Prodigal_v2.6.3	CDS	297	1199
+scaffold_83306	Prodigal_v2.6.3	CDS	1299	1898
+scaffold_83306	Prodigal_v2.6.3	CDS	1846	2334
+# Sequence Data: seqnum=286;seqlen=2035;seqhdr="scaffold_85992"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+scaffold_85992	Prodigal_v2.6.3	CDS	108	1493
+scaffold_85992	Prodigal_v2.6.3	CDS	1586	1741
+scaffold_85992	Prodigal_v2.6.3	CDS	1759	2034
+# Sequence Data: seqnum=287;seqlen=3006;seqhdr="scaffold_86109"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_86109	Prodigal_v2.6.3	CDS	1	579
+scaffold_86109	Prodigal_v2.6.3	CDS	675	1352
+scaffold_86109	Prodigal_v2.6.3	CDS	1752	2081
+scaffold_86109	Prodigal_v2.6.3	CDS	2048	3004
+# Sequence Data: seqnum=288;seqlen=2330;seqhdr="scaffold_91480"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_91480	Prodigal_v2.6.3	CDS	2	271
+scaffold_91480	Prodigal_v2.6.3	CDS	369	845
+scaffold_91480	Prodigal_v2.6.3	CDS	787	2136
+# Sequence Data: seqnum=289;seqlen=4067;seqhdr="scaffold_102202"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+scaffold_102202	Prodigal_v2.6.3	CDS	2	502
+scaffold_102202	Prodigal_v2.6.3	CDS	504	1013
+scaffold_102202	Prodigal_v2.6.3	CDS	1010	1993
+scaffold_102202	Prodigal_v2.6.3	CDS	2027	2563
+scaffold_102202	Prodigal_v2.6.3	CDS	2565	2978
+scaffold_102202	Prodigal_v2.6.3	CDS	3177	3479
+scaffold_102202	Prodigal_v2.6.3	CDS	3485	3826
+scaffold_102202	Prodigal_v2.6.3	CDS	3954	4067
+# Sequence Data: seqnum=290;seqlen=2673;seqhdr="scaffold_107041"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="40|Rothia_dentocariosa_ATCC_17931|B|53.7|11|1";gc_cont=53.70;transl_table=11;uses_sd=1
+scaffold_107041	Prodigal_v2.6.3	CDS	2	133
+scaffold_107041	Prodigal_v2.6.3	CDS	225	1058
+scaffold_107041	Prodigal_v2.6.3	CDS	1073	1546
+scaffold_107041	Prodigal_v2.6.3	CDS	1563	2267
+scaffold_107041	Prodigal_v2.6.3	CDS	2282	2671
+# Sequence Data: seqnum=291;seqlen=2008;seqhdr="scaffold_109375"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="40|Rothia_dentocariosa_ATCC_17931|B|53.7|11|1";gc_cont=53.70;transl_table=11;uses_sd=1
+scaffold_109375	Prodigal_v2.6.3	CDS	2	244
+scaffold_109375	Prodigal_v2.6.3	CDS	258	902
+scaffold_109375	Prodigal_v2.6.3	CDS	932	1561
+scaffold_109375	Prodigal_v2.6.3	CDS	1561	1851
+scaffold_109375	Prodigal_v2.6.3	CDS	1865	2008
+# Sequence Data: seqnum=292;seqlen=5948;seqhdr="scaffold_111138"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_111138	Prodigal_v2.6.3	CDS	215	613
+scaffold_111138	Prodigal_v2.6.3	CDS	691	1314
+scaffold_111138	Prodigal_v2.6.3	CDS	1446	1982
+scaffold_111138	Prodigal_v2.6.3	CDS	2069	2533
+scaffold_111138	Prodigal_v2.6.3	CDS	2565	3635
+scaffold_111138	Prodigal_v2.6.3	CDS	3637	4731
+scaffold_111138	Prodigal_v2.6.3	CDS	4759	5730
+scaffold_111138	Prodigal_v2.6.3	CDS	5844	5948
+# Sequence Data: seqnum=293;seqlen=2059;seqhdr="scaffold_118315"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="41|Shigella_dysenteriae_Sd197|B|51.2|11|1";gc_cont=51.20;transl_table=11;uses_sd=1
+scaffold_118315	Prodigal_v2.6.3	CDS	225	1334
+scaffold_118315	Prodigal_v2.6.3	CDS	1421	1774
+# Sequence Data: seqnum=294;seqlen=2380;seqhdr="scaffold_140847"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+scaffold_140847	Prodigal_v2.6.3	CDS	3	176
+scaffold_140847	Prodigal_v2.6.3	CDS	346	1017
+scaffold_140847	Prodigal_v2.6.3	CDS	1126	2196
+scaffold_140847	Prodigal_v2.6.3	CDS	2223	2378
+# Sequence Data: seqnum=295;seqlen=2182;seqhdr="scaffold_156848"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+scaffold_156848	Prodigal_v2.6.3	CDS	1	417
+scaffold_156848	Prodigal_v2.6.3	CDS	422	1528
+scaffold_156848	Prodigal_v2.6.3	CDS	1826	2182
+# Sequence Data: seqnum=296;seqlen=2095;seqhdr="scaffold_163225"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+scaffold_163225	Prodigal_v2.6.3	CDS	537	698
+scaffold_163225	Prodigal_v2.6.3	CDS	822	1178
+scaffold_163225	Prodigal_v2.6.3	CDS	1693	2094
